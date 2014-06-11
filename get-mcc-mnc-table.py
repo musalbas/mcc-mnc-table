@@ -20,7 +20,7 @@ for line in html.split('\n'):
         td_search = td_re.search(line)
         csv_line = ''
         for n in range(1, 7):
-            csv_line += td_search.group(n).strip()
+            csv_line += td_search.group(n).strip().replace(',', '')
             if n != 6:
                 csv_line += ','
         print csv_line
