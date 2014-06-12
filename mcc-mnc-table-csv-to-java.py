@@ -3,7 +3,7 @@ import fileinput
 networks = []
 countries = []
 
-print '    private int[][] mcc_mnc = {'
+print 'private int[][] mcc_mnc = {'
 
 first_line_passed = False
 for line in fileinput.input():
@@ -22,18 +22,18 @@ for line in fileinput.input():
     country = countries.index(row[4])
     network = networks.index(row[7])
 
-    print '        {' + str(row[1]) + ', ' + str(row[3]) + ', ' + str(country) + ', ' + str(network) + '},'
+    print '    {' + str(row[1]) + ', ' + str(row[3]) + ', ' + str(country) + ', ' + str(network) + '},'
 
-print '    };'
+print '};'
 print
 
 def print_list(l, name):
-    print '    private String[] ' + name + ' = {'
+    print 'private String[] ' + name + ' = {'
 
     for i in l:
-        print '        "' + i + '",'
+        print '    "' + i + '",'
 
-    print '    };'
+    print '};'
 
 print_list(countries, 'countries')
 print
