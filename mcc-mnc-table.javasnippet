@@ -1701,7 +1701,7 @@
         {1608, 63, 225, 1036},
     };
 
-    private countries[] = {
+    private String[] countries = {
         "ab",
         "af",
         "al",
@@ -1928,9 +1928,9 @@
         "ye",
         "zm",
         "zw",
-    }
+    };
 
-    private networks[] = {
+    private String[] networks = {
         "A-Mobile",
         "Aquafon",
         "Afghan Telecom Corp. (AT)",
@@ -2968,4 +2968,4 @@
         "Econet",
         "Net One",
         "Telecel",
-    }
+    };

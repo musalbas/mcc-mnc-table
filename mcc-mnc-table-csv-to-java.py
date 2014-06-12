@@ -28,12 +28,12 @@ print '    };'
 print
 
 def print_list(l, name):
-    print '    private ' + name + '[] = {'
+    print '    private String[] ' + name + ' = {'
 
     for i in l:
         print '        "' + i + '",'
 
-    print '    }'
+    print '    };'
 
 print_list(countries, 'countries')
 print
