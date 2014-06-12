@@ -1,4 +1,4 @@
-private int[][] mcc_mnc = {
+private static int[][] mcc_mnc = {
     {649, 2191, 0, 0},
     {649, 1679, 0, 0},
     {649, 1663, 0, 1},
@@ -1701,7 +1701,7 @@ private int[][] mcc_mnc = {
     {1608, 63, 225, 1036},
 };
 
-private String[] countries = {
+private static String[] countries = {
     "ab",
     "af",
     "al",
@@ -1930,7 +1930,7 @@ private String[] countries = {
     "zw",
 };
 
-private String[] networks = {
+private static String[] networks = {
     "A-Mobile",
     "Aquafon",
     "Afghan Telecom Corp. (AT)",

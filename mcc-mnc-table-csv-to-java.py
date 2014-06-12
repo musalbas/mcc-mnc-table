@@ -3,7 +3,7 @@ import fileinput
 networks = []
 countries = []
 
-print 'private int[][] mcc_mnc = {'
+print 'private static int[][] mcc_mnc = {'
 
 first_line_passed = False
 for line in fileinput.input():
@@ -28,7 +28,7 @@ print '};'
 print
 
 def print_list(l, name):
-    print 'private String[] ' + name + ' = {'
+    print 'private static String[] ' + name + ' = {'
 
     for i in l:
         print '    "' + i + '",'
