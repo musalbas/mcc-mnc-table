@@ -5,7 +5,12 @@ countries = []
 
 print '    private int[][] mcc_mnc = {'
 
+first_line_passed = False
 for line in fileinput.input():
+    if not first_line_passed:
+        first_line_passed = True
+        continue
+
     row = line.strip().split(',')
 
     if row[4] not in countries:
@@ -20,6 +25,7 @@ for line in fileinput.input():
     print '        {' + str(row[1]) + ', ' + str(row[3]) + ', ' + str(country) + ', ' + str(network) + '},'
 
 print '    };'
+print
 
 def print_list(l, name):
     print '    private ' + name + '[] = {'
@@ -30,4 +36,5 @@ def print_list(l, name):
     print '    }'
 
 print_list(countries, 'countries')
+print
 print_list(networks, 'networks')
