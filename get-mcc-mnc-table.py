@@ -4,7 +4,7 @@
 import re
 import urllib2
 
-print "MCC,MNC,ISO,Country,Country Code,Network"
+print "MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network"
 
 td_re = re.compile('<td>([^<]*)</td>'*6)
 
@@ -20,7 +20,16 @@ for line in html.split('\n'):
         td_search = td_re.search(line)
         csv_line = ''
         for n in range(1, 7):
-            csv_line += td_search.group(n).strip().replace(',', '')
+            group = td_search.group(n).strip().replace(',', '')
+            csv_line += group
+            if n == 1:
+                csv_line += ',' + str(int(group, 16))
+            elif n == 2:
+                if len(group) == 2:
+                    mnc_int = int(group + 'f', 16)
+                elif group != 'n/a':
+                    mnc_int = int(group, 16)
+                csv_line += ',' + str(mnc_int)
             if n != 6:
                 csv_line += ','
         print csv_line
