@@ -34,6 +34,3 @@ for line in html.split('\n'):
         mcc_mnc_list.append(current_item)
 
 print json.dumps(mcc_mnc_list, indent=2)
-
-
-

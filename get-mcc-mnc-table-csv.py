@@ -33,4 +33,3 @@ for line in html.split('\n'):
             if n != 6:
                 csv_line += ','
         print csv_line
-
