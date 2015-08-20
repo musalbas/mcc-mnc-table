@@ -5,7 +5,7 @@
     "mcc": "289", 
     "iso": "ge", 
     "country_code": "7", 
-    "mnc": "88"
+    "mnc": "68"
   }, 
   {
     "network": "A-Mobile", 
@@ -13,7 +13,7 @@
     "mcc": "289", 
     "iso": "ge", 
     "country_code": "7", 
-    "mnc": "68"
+    "mnc": "88"
   }, 
   {
     "network": "Aquafon", 
@@ -29,7 +29,7 @@
     "mcc": "412", 
     "iso": "af", 
     "country_code": "93", 
-    "mnc": "88"
+    "mnc": "80"
   }, 
   {
     "network": "Afghan Telecom Corp. (AT)", 
@@ -37,7 +37,7 @@
     "mcc": "412", 
     "iso": "af", 
     "country_code": "93", 
-    "mnc": "80"
+    "mnc": "88"
   }, 
   {
     "network": "Afghan Wireless/AWCC", 
@@ -421,7 +421,7 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "11"
+    "mnc": "71"
   }, 
   {
     "network": "Telstra Corp. Ltd.", 
@@ -437,7 +437,7 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "71"
+    "mnc": "01"
   }, 
   {
     "network": "Telstra Corp. Ltd.", 
@@ -445,7 +445,7 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "01"
+    "mnc": "11"
   }, 
   {
     "network": "The Ozitel Network Pty.", 
@@ -485,7 +485,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "01"
+    "mnc": "02"
   }, 
   {
     "network": "A1 MobilKom", 
@@ -493,7 +493,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "02"
+    "mnc": "01"
   }, 
   {
     "network": "A1 MobilKom", 
@@ -533,7 +533,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "10"
+    "mnc": "14"
   }, 
   {
     "network": "H3G", 
@@ -541,7 +541,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "14"
+    "mnc": "10"
   }, 
   {
     "network": "A1/Orange/One Connect", 
@@ -573,6 +573,14 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
+    "mnc": "07"
+  }, 
+  {
+    "network": "T-Mobile/Telering", 
+    "country": "Austria", 
+    "mcc": "232", 
+    "iso": "at", 
+    "country_code": "43", 
     "mnc": "04"
   }, 
   {
@@ -582,14 +590,6 @@
     "iso": "at", 
     "country_code": "43", 
     "mnc": "03"
-  }, 
-  {
-    "network": "T-Mobile/Telering", 
-    "country": "Austria", 
-    "mcc": "232", 
-    "iso": "at", 
-    "country_code": "43", 
-    "mnc": "07"
   }, 
   {
     "network": "Telefonica", 
@@ -637,14 +637,6 @@
     "mcc": "364", 
     "iso": "bs", 
     "country_code": "1242", 
-    "mnc": "39"
-  }, 
-  {
-    "network": "Bahamas Telco. Comp.", 
-    "country": "Bahamas", 
-    "mcc": "364", 
-    "iso": "bs", 
-    "country_code": "1242", 
     "mnc": "390"
   }, 
   {
@@ -654,6 +646,14 @@
     "iso": "bs", 
     "country_code": "1242", 
     "mnc": "30"
+  }, 
+  {
+    "network": "Bahamas Telco. Comp.", 
+    "country": "Bahamas", 
+    "mcc": "364", 
+    "iso": "bs", 
+    "country_code": "1242", 
+    "mnc": "39"
   }, 
   {
     "network": "Smart Communications", 
@@ -701,7 +701,7 @@
     "mcc": "470", 
     "iso": "bd", 
     "country_code": "880", 
-    "mnc": "05"
+    "mnc": "06"
   }, 
   {
     "network": "Citycell", 
@@ -709,7 +709,7 @@
     "mcc": "470", 
     "iso": "bd", 
     "country_code": "880", 
-    "mnc": "06"
+    "mnc": "05"
   }, 
   {
     "network": "GrameenPhone", 
@@ -1093,14 +1093,6 @@
     "mcc": "724", 
     "iso": "br", 
     "country_code": "55", 
-    "mnc": "32"
-  }, 
-  {
-    "network": "CTBC Celular SA (CTBC)", 
-    "country": "Brazil", 
-    "mcc": "724", 
-    "iso": "br", 
-    "country_code": "55", 
     "mnc": "34"
   }, 
   {
@@ -1110,6 +1102,14 @@
     "iso": "br", 
     "country_code": "55", 
     "mnc": "33"
+  }, 
+  {
+    "network": "CTBC Celular SA (CTBC)", 
+    "country": "Brazil", 
+    "mcc": "724", 
+    "iso": "br", 
+    "country_code": "55", 
+    "mnc": "32"
   }, 
   {
     "network": "TIM", 
@@ -1136,22 +1136,6 @@
     "mnc": "00"
   }, 
   {
-    "network": "Amazonia Celular S/A", 
-    "country": "Brazil", 
-    "mcc": "724", 
-    "iso": "br", 
-    "country_code": "55", 
-    "mnc": "24"
-  }, 
-  {
-    "network": "Brazil Telcom", 
-    "country": "Brazil", 
-    "mcc": "724", 
-    "iso": "br", 
-    "country_code": "55", 
-    "mnc": "16"
-  }, 
-  {
     "network": "Oi (TNL PCS / Oi)", 
     "country": "Brazil", 
     "mcc": "724", 
@@ -1166,6 +1150,22 @@
     "iso": "br", 
     "country_code": "55", 
     "mnc": "31"
+  }, 
+  {
+    "network": "Brazil Telcom", 
+    "country": "Brazil", 
+    "mcc": "724", 
+    "iso": "br", 
+    "country_code": "55", 
+    "mnc": "16"
+  }, 
+  {
+    "network": "Amazonia Celular S/A", 
+    "country": "Brazil", 
+    "mcc": "724", 
+    "iso": "br", 
+    "country_code": "55", 
+    "mnc": "24"
   }, 
   {
     "network": "Sercontel Cel", 
@@ -1197,6 +1197,14 @@
     "mcc": "724", 
     "iso": "br", 
     "country_code": "55", 
+    "mnc": "03"
+  }, 
+  {
+    "network": "TIM", 
+    "country": "Brazil", 
+    "mcc": "724", 
+    "iso": "br", 
+    "country_code": "55", 
     "mnc": "02"
   }, 
   {
@@ -1206,14 +1214,6 @@
     "iso": "br", 
     "country_code": "55", 
     "mnc": "04"
-  }, 
-  {
-    "network": "TIM", 
-    "country": "Brazil", 
-    "mcc": "724", 
-    "iso": "br", 
-    "country_code": "55", 
-    "mnc": "03"
   }, 
   {
     "network": "Unicel do Brasil Telecomunicacoes Ltda", 
@@ -1533,7 +1533,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "610"
+    "mnc": "651"
   }, 
   {
     "network": "Bell Mobility", 
@@ -1541,7 +1541,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "651"
+    "mnc": "610"
   }, 
   {
     "network": "CityWest Mobility", 
@@ -1557,7 +1557,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "361"
+    "mnc": "360"
   }, 
   {
     "network": "Clearnet", 
@@ -1565,7 +1565,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "360"
+    "mnc": "361"
   }, 
   {
     "network": "DMTS Mobility", 
@@ -1621,7 +1621,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "660"
+    "mnc": "655"
   }, 
   {
     "network": "MTS Mobility", 
@@ -1629,7 +1629,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "655"
+    "mnc": "660"
   }, 
   {
     "network": "NB Tel Mobility", 
@@ -1677,7 +1677,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "680"
+    "mnc": "654"
   }, 
   {
     "network": "Sask Tel Mobility", 
@@ -1685,7 +1685,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "654"
+    "mnc": "680"
   }, 
   {
     "network": "Tbay Mobility", 
@@ -1701,7 +1701,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "653"
+    "mnc": "220"
   }, 
   {
     "network": "Telus Mobility", 
@@ -1709,7 +1709,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "220"
+    "mnc": "653"
   }, 
   {
     "network": "Videotron", 
@@ -1893,14 +1893,6 @@
     "mcc": "730", 
     "iso": "cl", 
     "country_code": "56", 
-    "mnc": "05"
-  }, 
-  {
-    "network": "Nextel SA", 
-    "country": "Chile", 
-    "mcc": "730", 
-    "iso": "cl", 
-    "country_code": "56", 
     "mnc": "04"
   }, 
   {
@@ -1912,12 +1904,12 @@
     "mnc": "09"
   }, 
   {
-    "network": "TELEFONICA", 
+    "network": "Nextel SA", 
     "country": "Chile", 
     "mcc": "730", 
     "iso": "cl", 
     "country_code": "56", 
-    "mnc": "07"
+    "mnc": "05"
   }, 
   {
     "network": "TELEFONICA", 
@@ -1926,6 +1918,14 @@
     "iso": "cl", 
     "country_code": "56", 
     "mnc": "02"
+  }, 
+  {
+    "network": "TELEFONICA", 
+    "country": "Chile", 
+    "mcc": "730", 
+    "iso": "cl", 
+    "country_code": "56", 
+    "mnc": "07"
   }, 
   {
     "network": "Telestar Movil SA", 
@@ -1965,7 +1965,7 @@
     "mcc": "460", 
     "iso": "cn", 
     "country_code": "86", 
-    "mnc": "00"
+    "mnc": "07"
   }, 
   {
     "network": "China Mobile GSM", 
@@ -1973,7 +1973,7 @@
     "mcc": "460", 
     "iso": "cn", 
     "country_code": "86", 
-    "mnc": "07"
+    "mnc": "00"
   }, 
   {
     "network": "China Mobile GSM", 
@@ -2917,14 +2917,6 @@
     "mcc": "208", 
     "iso": "fr", 
     "country_code": "33", 
-    "mnc": "06"
-  }, 
-  {
-    "network": "GlobalStar", 
-    "country": "France", 
-    "mcc": "208", 
-    "iso": "fr", 
-    "country_code": "33", 
     "mnc": "05"
   }, 
   {
@@ -2934,6 +2926,14 @@
     "iso": "fr", 
     "country_code": "33", 
     "mnc": "07"
+  }, 
+  {
+    "network": "GlobalStar", 
+    "country": "France", 
+    "mcc": "208", 
+    "iso": "fr", 
+    "country_code": "33", 
+    "mnc": "06"
   }, 
   {
     "network": "Orange", 
@@ -2949,7 +2949,7 @@
     "mcc": "208", 
     "iso": "fr", 
     "country_code": "33", 
-    "mnc": "16"
+    "mnc": "15"
   }, 
   {
     "network": "Lliad/FREE Mobile", 
@@ -2957,7 +2957,7 @@
     "mcc": "208", 
     "iso": "fr", 
     "country_code": "33", 
-    "mnc": "15"
+    "mnc": "16"
   }, 
   {
     "network": "Lycamobile SARL", 
@@ -3045,14 +3045,6 @@
     "mcc": "208", 
     "iso": "fr", 
     "country_code": "33", 
-    "mnc": "09"
-  }, 
-  {
-    "network": "S.F.R.", 
-    "country": "France", 
-    "mcc": "208", 
-    "iso": "fr", 
-    "country_code": "33", 
     "mnc": "13"
   }, 
   {
@@ -3070,6 +3062,14 @@
     "iso": "fr", 
     "country_code": "33", 
     "mnc": "10"
+  }, 
+  {
+    "network": "S.F.R.", 
+    "country": "France", 
+    "mcc": "208", 
+    "iso": "fr", 
+    "country_code": "33", 
+    "mnc": "09"
   }, 
   {
     "network": "SISTEER", 
@@ -3125,7 +3125,7 @@
     "mcc": "340", 
     "iso": "fg", 
     "country_code": "594", 
-    "mnc": "03"
+    "mnc": "11"
   }, 
   {
     "network": "TelCell GSM", 
@@ -3133,7 +3133,7 @@
     "mcc": "340", 
     "iso": "fg", 
     "country_code": "594", 
-    "mnc": "11"
+    "mnc": "03"
   }, 
   {
     "network": "Pacific Mobile Telecom (PMT)", 
@@ -3285,14 +3285,6 @@
     "mcc": "262", 
     "iso": "de", 
     "country_code": "49", 
-    "mnc": "05"
-  }, 
-  {
-    "network": "E-Plus", 
-    "country": "Germany", 
-    "mcc": "262", 
-    "iso": "de", 
-    "country_code": "49", 
     "mnc": "77"
   }, 
   {
@@ -3302,6 +3294,14 @@
     "iso": "de", 
     "country_code": "49", 
     "mnc": "03"
+  }, 
+  {
+    "network": "E-Plus", 
+    "country": "Germany", 
+    "mcc": "262", 
+    "iso": "de", 
+    "country_code": "49", 
+    "mnc": "05"
   }, 
   {
     "network": "E-Plus", 
@@ -3397,6 +3397,14 @@
     "mcc": "262", 
     "iso": "de", 
     "country_code": "49", 
+    "mnc": "09"
+  }, 
+  {
+    "network": "Vodafone D2", 
+    "country": "Germany", 
+    "mcc": "262", 
+    "iso": "de", 
+    "country_code": "49", 
     "mnc": "04"
   }, 
   {
@@ -3406,14 +3414,6 @@
     "iso": "de", 
     "country_code": "49", 
     "mnc": "02"
-  }, 
-  {
-    "network": "Vodafone D2", 
-    "country": "Germany", 
-    "mcc": "262", 
-    "iso": "de", 
-    "country_code": "49", 
-    "mnc": "09"
   }, 
   {
     "network": "Expresso Ghana Ltd", 
@@ -3501,7 +3501,7 @@
     "mcc": "202", 
     "iso": "gr", 
     "country_code": "30", 
-    "mnc": "02"
+    "mnc": "01"
   }, 
   {
     "network": "Cosmote", 
@@ -3509,7 +3509,7 @@
     "mcc": "202", 
     "iso": "gr", 
     "country_code": "30", 
-    "mnc": "01"
+    "mnc": "02"
   }, 
   {
     "network": "Organismos Sidirodromon Ellados (OSE)", 
@@ -3605,7 +3605,7 @@
     "mcc": "310", 
     "iso": "gu", 
     "country_code": "1671", 
-    "mnc": "470"
+    "mnc": "370"
   }, 
   {
     "network": "Docomo", 
@@ -3613,7 +3613,7 @@
     "mcc": "310", 
     "iso": "gu", 
     "country_code": "1671", 
-    "mnc": "370"
+    "mnc": "470"
   }, 
   {
     "network": "GTA Wireless", 
@@ -3813,7 +3813,7 @@
     "mcc": "454", 
     "iso": "hk", 
     "country_code": "852", 
-    "mnc": "12"
+    "mnc": "13"
   }, 
   {
     "network": "China Mobile/Peoples", 
@@ -3821,7 +3821,7 @@
     "mcc": "454", 
     "iso": "hk", 
     "country_code": "852", 
-    "mnc": "13"
+    "mnc": "12"
   }, 
   {
     "network": "China Motion", 
@@ -3861,14 +3861,6 @@
     "mcc": "454", 
     "iso": "hk", 
     "country_code": "852", 
-    "mnc": "02"
-  }, 
-  {
-    "network": "CSL Ltd.", 
-    "country": "Hongkong, China", 
-    "mcc": "454", 
-    "iso": "hk", 
-    "country_code": "852", 
     "mnc": "00"
   }, 
   {
@@ -3880,20 +3872,20 @@
     "mnc": "18"
   }, 
   {
+    "network": "CSL Ltd.", 
+    "country": "Hongkong, China", 
+    "mcc": "454", 
+    "iso": "hk", 
+    "country_code": "852", 
+    "mnc": "02"
+  }, 
+  {
     "network": "CSL/New World PCS Ltd.", 
     "country": "Hongkong, China", 
     "mcc": "454", 
     "iso": "hk", 
     "country_code": "852", 
     "mnc": "10"
-  }, 
-  {
-    "network": "H3G/Hutchinson", 
-    "country": "Hongkong, China", 
-    "mcc": "454", 
-    "iso": "hk", 
-    "country_code": "852", 
-    "mnc": "04"
   }, 
   {
     "network": "H3G/Hutchinson", 
@@ -3918,6 +3910,14 @@
     "iso": "hk", 
     "country_code": "852", 
     "mnc": "05"
+  }, 
+  {
+    "network": "H3G/Hutchinson", 
+    "country": "Hongkong, China", 
+    "mcc": "454", 
+    "iso": "hk", 
+    "country_code": "852", 
+    "mnc": "04"
   }, 
   {
     "network": "HKT/PCCW", 
@@ -3981,14 +3981,6 @@
     "mcc": "454", 
     "iso": "hk", 
     "country_code": "852", 
-    "mnc": "06"
-  }, 
-  {
-    "network": "Vodafone/SmarTone", 
-    "country": "Hongkong, China", 
-    "mcc": "454", 
-    "iso": "hk", 
-    "country_code": "852", 
     "mnc": "17"
   }, 
   {
@@ -3998,6 +3990,14 @@
     "iso": "hk", 
     "country_code": "852", 
     "mnc": "15"
+  }, 
+  {
+    "network": "Vodafone/SmarTone", 
+    "country": "Hongkong, China", 
+    "mcc": "454", 
+    "iso": "hk", 
+    "country_code": "852", 
+    "mnc": "06"
   }, 
   {
     "network": "Pannon/Telenor", 
@@ -4053,7 +4053,7 @@
     "mcc": "274", 
     "iso": "is", 
     "country_code": "354", 
-    "mnc": "08"
+    "mnc": "01"
   }, 
   {
     "network": "Landssiminn", 
@@ -4061,7 +4061,7 @@
     "mcc": "274", 
     "iso": "is", 
     "country_code": "354", 
-    "mnc": "01"
+    "mnc": "08"
   }, 
   {
     "network": "NOVA", 
@@ -4109,22 +4109,6 @@
     "mcc": "404", 
     "iso": "in", 
     "country_code": "91", 
-    "mnc": "17"
-  }, 
-  {
-    "network": "Aircel", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
-    "mnc": "42"
-  }, 
-  {
-    "network": "Aircel", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
     "mnc": "33"
   }, 
   {
@@ -4152,12 +4136,20 @@
     "mnc": "25"
   }, 
   {
-    "network": "Aircel Digilink India", 
+    "network": "Aircel", 
     "country": "India", 
     "mcc": "404", 
     "iso": "in", 
     "country_code": "91", 
-    "mnc": "60"
+    "mnc": "17"
+  }, 
+  {
+    "network": "Aircel", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "42"
   }, 
   {
     "network": "Aircel Digilink India", 
@@ -4174,6 +4166,14 @@
     "iso": "in", 
     "country_code": "91", 
     "mnc": "15"
+  }, 
+  {
+    "network": "Aircel Digilink India", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "60"
   }, 
   {
     "network": "AirTel", 
@@ -4198,46 +4198,6 @@
     "iso": "in", 
     "country_code": "91", 
     "mnc": "13"
-  }, 
-  {
-    "network": "BSNL", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
-    "mnc": "75"
-  }, 
-  {
-    "network": "BSNL", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
-    "mnc": "51"
-  }, 
-  {
-    "network": "BSNL", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
-    "mnc": "58"
-  }, 
-  {
-    "network": "BSNL", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
-    "mnc": "81"
-  }, 
-  {
-    "network": "BSNL", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
-    "mnc": "74"
   }, 
   {
     "network": "BSNL", 
@@ -4368,6 +4328,46 @@
     "mnc": "59"
   }, 
   {
+    "network": "BSNL", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "75"
+  }, 
+  {
+    "network": "BSNL", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "51"
+  }, 
+  {
+    "network": "BSNL", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "58"
+  }, 
+  {
+    "network": "BSNL", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "81"
+  }, 
+  {
+    "network": "BSNL", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "74"
+  }, 
+  {
     "network": "Bharti Airtel Limited (Delhi)", 
     "country": "India", 
     "mcc": "405", 
@@ -4389,22 +4389,6 @@
     "mcc": "404", 
     "iso": "in", 
     "country_code": "91", 
-    "mnc": "82"
-  }, 
-  {
-    "network": "Escorts Telecom Ltd.", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
-    "mnc": "89"
-  }, 
-  {
-    "network": "Escorts Telecom Ltd.", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
     "mnc": "88"
   }, 
   {
@@ -4414,6 +4398,22 @@
     "iso": "in", 
     "country_code": "91", 
     "mnc": "87"
+  }, 
+  {
+    "network": "Escorts Telecom Ltd.", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "82"
+  }, 
+  {
+    "network": "Escorts Telecom Ltd.", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "89"
   }, 
   {
     "network": "Escotel Mobile Communications", 
@@ -4477,22 +4477,6 @@
     "mcc": "404", 
     "iso": "in", 
     "country_code": "91", 
-    "mnc": "07"
-  }, 
-  {
-    "network": "Idea Cellular Ltd.", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
-    "mnc": "04"
-  }, 
-  {
-    "network": "Idea Cellular Ltd.", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
     "mnc": "24"
   }, 
   {
@@ -4510,6 +4494,22 @@
     "iso": "in", 
     "country_code": "91", 
     "mnc": "78"
+  }, 
+  {
+    "network": "Idea Cellular Ltd.", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "07"
+  }, 
+  {
+    "network": "Idea Cellular Ltd.", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "04"
   }, 
   {
     "network": "Mahanagar Telephone Nigam", 
@@ -4534,22 +4534,6 @@
     "iso": "in", 
     "country_code": "91", 
     "mnc": "83"
-  }, 
-  {
-    "network": "Reliance Telecom Private", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
-    "mnc": "85"
-  }, 
-  {
-    "network": "Reliance Telecom Private", 
-    "country": "India", 
-    "mcc": "404", 
-    "iso": "in", 
-    "country_code": "91", 
-    "mnc": "09"
   }, 
   {
     "network": "Reliance Telecom Private", 
@@ -4590,6 +4574,22 @@
     "iso": "in", 
     "country_code": "91", 
     "mnc": "18"
+  }, 
+  {
+    "network": "Reliance Telecom Private", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "85"
+  }, 
+  {
+    "network": "Reliance Telecom Private", 
+    "country": "India", 
+    "mcc": "404", 
+    "iso": "in", 
+    "country_code": "91", 
+    "mnc": "09"
   }, 
   {
     "network": "RPG Cellular", 
@@ -4808,20 +4808,20 @@
     "mnc": "45"
   }, 
   {
-    "network": "Orascom Telecom", 
-    "country": "Iraq", 
-    "mcc": "418", 
-    "iso": "iq", 
-    "country_code": "964", 
-    "mnc": "30"
-  }, 
-  {
     "network": "ZAIN/Atheer", 
     "country": "Iraq", 
     "mcc": "418", 
     "iso": "iq", 
     "country_code": "964", 
     "mnc": "20"
+  }, 
+  {
+    "network": "Orascom Telecom", 
+    "country": "Iraq", 
+    "mcc": "418", 
+    "iso": "iq", 
+    "country_code": "964", 
+    "mnc": "30"
   }, 
   {
     "network": "Sanatel", 
@@ -5045,14 +5045,6 @@
     "mcc": "222", 
     "iso": "it", 
     "country_code": "39", 
-    "mnc": "48"
-  }, 
-  {
-    "network": "Telecom Italia Mobile SpA", 
-    "country": "Italy", 
-    "mcc": "222", 
-    "iso": "it", 
-    "country_code": "39", 
     "mnc": "43"
   }, 
   {
@@ -5062,6 +5054,14 @@
     "iso": "it", 
     "country_code": "39", 
     "mnc": "01"
+  }, 
+  {
+    "network": "Telecom Italia Mobile SpA", 
+    "country": "Italy", 
+    "mcc": "222", 
+    "iso": "it", 
+    "country_code": "39", 
+    "mnc": "48"
   }, 
   {
     "network": "Vodafone", 
@@ -5157,7 +5157,7 @@
     "mcc": "338", 
     "iso": "jm", 
     "country_code": "1876", 
-    "mnc": "020"
+    "mnc": "110"
   }, 
   {
     "network": "Cable & Wireless", 
@@ -5165,7 +5165,7 @@
     "mcc": "338", 
     "iso": "jm", 
     "country_code": "1876", 
-    "mnc": "110"
+    "mnc": "020"
   }, 
   {
     "network": "Cable & Wireless", 
@@ -5190,46 +5190,6 @@
     "iso": "jp", 
     "country_code": "81", 
     "mnc": "00"
-  }, 
-  {
-    "network": "KDDI Corporation", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "55"
-  }, 
-  {
-    "network": "KDDI Corporation", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "50"
-  }, 
-  {
-    "network": "KDDI Corporation", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "88"
-  }, 
-  {
-    "network": "KDDI Corporation", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "74"
-  }, 
-  {
-    "network": "KDDI Corporation", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "70"
   }, 
   {
     "network": "KDDI Corporation", 
@@ -5360,124 +5320,44 @@
     "mnc": "73"
   }, 
   {
-    "network": "NTT Docomo", 
+    "network": "KDDI Corporation", 
     "country": "Japan", 
     "mcc": "440", 
     "iso": "jp", 
     "country_code": "81", 
-    "mnc": "66"
+    "mnc": "55"
   }, 
   {
-    "network": "NTT Docomo", 
+    "network": "KDDI Corporation", 
     "country": "Japan", 
     "mcc": "440", 
     "iso": "jp", 
     "country_code": "81", 
-    "mnc": "35"
+    "mnc": "50"
   }, 
   {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "441", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "93"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "441", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "40"
-  }, 
-  {
-    "network": "NTT Docomo", 
+    "network": "KDDI Corporation", 
     "country": "Japan", 
     "mcc": "440", 
     "iso": "jp", 
     "country_code": "81", 
-    "mnc": "49"
+    "mnc": "88"
   }, 
   {
-    "network": "NTT Docomo", 
+    "network": "KDDI Corporation", 
     "country": "Japan", 
     "mcc": "440", 
     "iso": "jp", 
     "country_code": "81", 
-    "mnc": "29"
+    "mnc": "74"
   }, 
   {
-    "network": "NTT Docomo", 
+    "network": "KDDI Corporation", 
     "country": "Japan", 
     "mcc": "440", 
     "iso": "jp", 
     "country_code": "81", 
-    "mnc": "09"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "19"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "441", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "90"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "33"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "60"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "67"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "14"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "441", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "94"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "441", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "41"
+    "mnc": "70"
   }, 
   {
     "network": "NTT Docomo", 
@@ -5549,14 +5429,6 @@
     "mcc": "440", 
     "iso": "jp", 
     "country_code": "81", 
-    "mnc": "68"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
     "mnc": "15"
   }, 
   {
@@ -5574,6 +5446,14 @@
     "iso": "jp", 
     "country_code": "81", 
     "mnc": "42"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "68"
   }, 
   {
     "network": "NTT Docomo", 
@@ -5645,14 +5525,6 @@
     "mcc": "440", 
     "iso": "jp", 
     "country_code": "81", 
-    "mnc": "69"
-  }, 
-  {
-    "network": "NTT Docomo", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
     "mnc": "16"
   }, 
   {
@@ -5670,6 +5542,14 @@
     "iso": "jp", 
     "country_code": "81", 
     "mnc": "34"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "69"
   }, 
   {
     "network": "NTT Docomo", 
@@ -5845,6 +5725,126 @@
     "mcc": "440", 
     "iso": "jp", 
     "country_code": "81", 
+    "mnc": "35"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "441", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "93"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "441", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "40"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "66"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "49"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "29"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "09"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "19"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "441", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "90"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "33"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "60"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "14"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "441", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "94"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "441", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "41"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "67"
+  }, 
+  {
+    "network": "NTT Docomo", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
     "mnc": "99"
   }, 
   {
@@ -5854,54 +5854,6 @@
     "iso": "jp", 
     "country_code": "81", 
     "mnc": "78"
-  }, 
-  {
-    "network": "SoftBank Mobile Corp", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "48"
-  }, 
-  {
-    "network": "SoftBank Mobile Corp", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "06"
-  }, 
-  {
-    "network": "SoftBank Mobile Corp", 
-    "country": "Japan", 
-    "mcc": "441", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "61"
-  }, 
-  {
-    "network": "SoftBank Mobile Corp", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "44"
-  }, 
-  {
-    "network": "SoftBank Mobile Corp", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "94"
-  }, 
-  {
-    "network": "SoftBank Mobile Corp", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "04"
   }, 
   {
     "network": "SoftBank Mobile Corp", 
@@ -6048,6 +6000,54 @@
     "mnc": "93"
   }, 
   {
+    "network": "SoftBank Mobile Corp", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "48"
+  }, 
+  {
+    "network": "SoftBank Mobile Corp", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "06"
+  }, 
+  {
+    "network": "SoftBank Mobile Corp", 
+    "country": "Japan", 
+    "mcc": "441", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "61"
+  }, 
+  {
+    "network": "SoftBank Mobile Corp", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "44"
+  }, 
+  {
+    "network": "SoftBank Mobile Corp", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "94"
+  }, 
+  {
+    "network": "SoftBank Mobile Corp", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "04"
+  }, 
+  {
     "network": "KDDI Corporation", 
     "country": "Japan", 
     "mcc": "440", 
@@ -6069,6 +6069,14 @@
     "mcc": "440", 
     "iso": "jp", 
     "country_code": "81", 
+    "mnc": "86"
+  }, 
+  {
+    "network": "KDDI Corporation", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
     "mnc": "81"
   }, 
   {
@@ -6078,14 +6086,6 @@
     "iso": "jp", 
     "country_code": "81", 
     "mnc": "80"
-  }, 
-  {
-    "network": "KDDI Corporation", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "86"
   }, 
   {
     "network": "KDDI Corporation", 
@@ -6221,6 +6221,14 @@
     "mcc": "450", 
     "iso": "kr", 
     "country_code": "82", 
+    "mnc": "02"
+  }, 
+  {
+    "network": "KT Freetel Co. Ltd.", 
+    "country": "Korea S, Republic of", 
+    "mcc": "450", 
+    "iso": "kr", 
+    "country_code": "82", 
     "mnc": "04"
   }, 
   {
@@ -6230,14 +6238,6 @@
     "iso": "kr", 
     "country_code": "82", 
     "mnc": "08"
-  }, 
-  {
-    "network": "KT Freetel Co. Ltd.", 
-    "country": "Korea S, Republic of", 
-    "mcc": "450", 
-    "iso": "kr", 
-    "country_code": "82", 
-    "mnc": "02"
   }, 
   {
     "network": "LG Telecom", 
@@ -6453,14 +6453,6 @@
     "mcc": "415", 
     "iso": "lb", 
     "country_code": "961", 
-    "mnc": "37"
-  }, 
-  {
-    "network": "MIC2/LibanCell", 
-    "country": "Lebanon", 
-    "mcc": "415", 
-    "iso": "lb", 
-    "country_code": "961", 
     "mnc": "39"
   }, 
   {
@@ -6470,6 +6462,14 @@
     "iso": "lb", 
     "country_code": "961", 
     "mnc": "38"
+  }, 
+  {
+    "network": "MIC2/LibanCell", 
+    "country": "Lebanon", 
+    "mcc": "415", 
+    "iso": "lb", 
+    "country_code": "961", 
+    "mnc": "37"
   }, 
   {
     "network": "MIC1 (Alfa)", 
@@ -6701,7 +6701,7 @@
     "mcc": "455", 
     "iso": "mo", 
     "country_code": "853", 
-    "mnc": "01"
+    "mnc": "04"
   }, 
   {
     "network": "C.T.M. TELEMOVEL+", 
@@ -6709,7 +6709,7 @@
     "mcc": "455", 
     "iso": "mo", 
     "country_code": "853", 
-    "mnc": "04"
+    "mnc": "01"
   }, 
   {
     "network": "China Telecom", 
@@ -6741,7 +6741,7 @@
     "mcc": "455", 
     "iso": "mo", 
     "country_code": "853", 
-    "mnc": "00"
+    "mnc": "06"
   }, 
   {
     "network": "Smartone Mobile", 
@@ -6749,7 +6749,7 @@
     "mcc": "455", 
     "iso": "mo", 
     "country_code": "853", 
-    "mnc": "06"
+    "mnc": "00"
   }, 
   {
     "network": "MTS/Cosmofone", 
@@ -6869,7 +6869,7 @@
     "mcc": "502", 
     "iso": "my", 
     "country_code": "60", 
-    "mnc": "10"
+    "mnc": "16"
   }, 
   {
     "network": "Digi Telecommunications", 
@@ -6877,7 +6877,7 @@
     "mcc": "502", 
     "iso": "my", 
     "country_code": "60", 
-    "mnc": "16"
+    "mnc": "10"
   }, 
   {
     "network": "Electcoms Wireless Sdn Bhd", 
@@ -6893,7 +6893,7 @@
     "mcc": "502", 
     "iso": "my", 
     "country_code": "60", 
-    "mnc": "12"
+    "mnc": "17"
   }, 
   {
     "network": "Maxis", 
@@ -6901,7 +6901,7 @@
     "mcc": "502", 
     "iso": "my", 
     "country_code": "60", 
-    "mnc": "17"
+    "mnc": "12"
   }, 
   {
     "network": "MTX Utara", 
@@ -7085,22 +7085,6 @@
     "mcc": "334", 
     "iso": "mx", 
     "country_code": "52", 
-    "mnc": "50"
-  }, 
-  {
-    "network": "IUSACell/UneFon", 
-    "country": "Mexico", 
-    "mcc": "334", 
-    "iso": "mx", 
-    "country_code": "52", 
-    "mnc": "050"
-  }, 
-  {
-    "network": "IUSACell/UneFon", 
-    "country": "Mexico", 
-    "mcc": "334", 
-    "iso": "mx", 
-    "country_code": "52", 
     "mnc": "040"
   }, 
   {
@@ -7110,6 +7094,22 @@
     "iso": "mx", 
     "country_code": "52", 
     "mnc": "04"
+  }, 
+  {
+    "network": "IUSACell/UneFon", 
+    "country": "Mexico", 
+    "mcc": "334", 
+    "iso": "mx", 
+    "country_code": "52", 
+    "mnc": "50"
+  }, 
+  {
+    "network": "IUSACell/UneFon", 
+    "country": "Mexico", 
+    "mcc": "334", 
+    "iso": "mx", 
+    "country_code": "52", 
+    "mnc": "050"
   }, 
   {
     "network": "Movistar/Pegaso", 
@@ -7157,7 +7157,7 @@
     "mcc": "334", 
     "iso": "mx", 
     "country_code": "52", 
-    "mnc": "080"
+    "mnc": "070"
   }, 
   {
     "network": "Operadora Unefon SA de CV", 
@@ -7165,7 +7165,7 @@
     "mcc": "334", 
     "iso": "mx", 
     "country_code": "52", 
-    "mnc": "070"
+    "mnc": "080"
   }, 
   {
     "network": "SAI PCS", 
@@ -7213,6 +7213,14 @@
     "mcc": "259", 
     "iso": "md", 
     "country_code": "373", 
+    "mnc": "05"
+  }, 
+  {
+    "network": "IDC/Unite ", 
+    "country": "Moldova", 
+    "mcc": "259", 
+    "iso": "md", 
+    "country_code": "373", 
     "mnc": "03"
   }, 
   {
@@ -7222,14 +7230,6 @@
     "iso": "md", 
     "country_code": "373", 
     "mnc": "99"
-  }, 
-  {
-    "network": "IDC/Unite ", 
-    "country": "Moldova", 
-    "mcc": "259", 
-    "iso": "md", 
-    "country_code": "373", 
-    "mnc": "05"
   }, 
   {
     "network": "Moldcell", 
@@ -7253,7 +7253,7 @@
     "mcc": "212", 
     "iso": "mc", 
     "country_code": "377", 
-    "mnc": "10"
+    "mnc": "01"
   }, 
   {
     "network": "Monaco Telecom", 
@@ -7261,7 +7261,7 @@
     "mcc": "212", 
     "iso": "mc", 
     "country_code": "377", 
-    "mnc": "01"
+    "mnc": "10"
   }, 
   {
     "network": "G-Mobile Corporation Ltd", 
@@ -7461,6 +7461,14 @@
     "mcc": "204", 
     "iso": "nl", 
     "country_code": "31", 
+    "mnc": "10"
+  }, 
+  {
+    "network": "KPN Telecom B.V.", 
+    "country": "Netherlands", 
+    "mcc": "204", 
+    "iso": "nl", 
+    "country_code": "31", 
     "mnc": "08"
   }, 
   {
@@ -7470,14 +7478,6 @@
     "iso": "nl", 
     "country_code": "31", 
     "mnc": "69"
-  }, 
-  {
-    "network": "KPN Telecom B.V.", 
-    "country": "Netherlands", 
-    "mcc": "204", 
-    "iso": "nl", 
-    "country_code": "31", 
-    "mnc": "10"
   }, 
   {
     "network": "KPN/Telfort", 
@@ -7845,7 +7845,7 @@
     "mcc": "242", 
     "iso": "no", 
     "country_code": "47", 
-    "mnc": "20"
+    "mnc": "21"
   }, 
   {
     "network": "Jernbaneverket (GSM-R)", 
@@ -7853,7 +7853,7 @@
     "mcc": "242", 
     "iso": "no", 
     "country_code": "47", 
-    "mnc": "21"
+    "mnc": "20"
   }, 
   {
     "network": "Lycamobile Ltd", 
@@ -8405,7 +8405,7 @@
     "mcc": "260", 
     "iso": "pl", 
     "country_code": "48", 
-    "mnc": "34"
+    "mnc": "02"
   }, 
   {
     "network": "T-Mobile/ERA", 
@@ -8413,15 +8413,7 @@
     "mcc": "260", 
     "iso": "pl", 
     "country_code": "48", 
-    "mnc": "02"
-  }, 
-  {
-    "network": "Tele2", 
-    "country": "Poland", 
-    "mcc": "260", 
-    "iso": "pl", 
-    "country_code": "48", 
-    "mnc": "15"
+    "mnc": "34"
   }, 
   {
     "network": "Tele2", 
@@ -8430,6 +8422,14 @@
     "iso": "pl", 
     "country_code": "48", 
     "mnc": "04"
+  }, 
+  {
+    "network": "Tele2", 
+    "country": "Poland", 
+    "mcc": "260", 
+    "iso": "pl", 
+    "country_code": "48", 
+    "mnc": "15"
   }, 
   {
     "network": "CTT - Correios de Portugal SA", 
@@ -8973,7 +8973,7 @@
     "mcc": "220", 
     "iso": "rs", 
     "country_code": "381", 
-    "mnc": "02"
+    "mnc": "01"
   }, 
   {
     "network": "Telenor/Mobtel", 
@@ -8981,7 +8981,7 @@
     "mcc": "220", 
     "iso": "rs", 
     "country_code": "381", 
-    "mnc": "01"
+    "mnc": "02"
   }, 
   {
     "network": "VIP Mobile", 
@@ -9085,14 +9085,6 @@
     "mcc": "525", 
     "iso": "sg", 
     "country_code": "65", 
-    "mnc": "07"
-  }, 
-  {
-    "network": "Singtel", 
-    "country": "Singapore", 
-    "mcc": "525", 
-    "iso": "sg", 
-    "country_code": "65", 
     "mnc": "02"
   }, 
   {
@@ -9104,12 +9096,12 @@
     "mnc": "01"
   }, 
   {
-    "network": "Starhub", 
+    "network": "Singtel", 
     "country": "Singapore", 
     "mcc": "525", 
     "iso": "sg", 
     "country_code": "65", 
-    "mnc": "06"
+    "mnc": "07"
   }, 
   {
     "network": "Starhub", 
@@ -9118,6 +9110,14 @@
     "iso": "sg", 
     "country_code": "65", 
     "mnc": "05"
+  }, 
+  {
+    "network": "Starhub", 
+    "country": "Singapore", 
+    "mcc": "525", 
+    "iso": "sg", 
+    "country_code": "65", 
+    "mnc": "06"
   }, 
   {
     "network": "O2", 
@@ -9157,7 +9157,7 @@
     "mcc": "231", 
     "iso": "sk", 
     "country_code": "421", 
-    "mnc": "02"
+    "mnc": "04"
   }, 
   {
     "network": "T-Mobile", 
@@ -9165,7 +9165,7 @@
     "mcc": "231", 
     "iso": "sk", 
     "country_code": "421", 
-    "mnc": "04"
+    "mnc": "02"
   }, 
   {
     "network": "Zeleznice Slovenskej republiky (ZSR)", 
@@ -9469,7 +9469,7 @@
     "mcc": "214", 
     "iso": "es", 
     "country_code": "34", 
-    "mnc": "07"
+    "mnc": "05"
   }, 
   {
     "network": "Movistar", 
@@ -9477,7 +9477,15 @@
     "mcc": "214", 
     "iso": "es", 
     "country_code": "34", 
-    "mnc": "05"
+    "mnc": "07"
+  }, 
+  {
+    "network": "Orange", 
+    "country": "Spain", 
+    "mcc": "214", 
+    "iso": "es", 
+    "country_code": "34", 
+    "mnc": "11"
   }, 
   {
     "network": "Orange", 
@@ -9494,14 +9502,6 @@
     "iso": "es", 
     "country_code": "34", 
     "mnc": "03"
-  }, 
-  {
-    "network": "Orange", 
-    "country": "Spain", 
-    "mcc": "214", 
-    "iso": "es", 
-    "country_code": "34", 
-    "mnc": "11"
   }, 
   {
     "network": "R Cable y Telec. Galicia SA", 
@@ -9677,7 +9677,7 @@
     "mcc": "634", 
     "iso": "sd", 
     "country_code": "249", 
-    "mnc": "07"
+    "mnc": "15"
   }, 
   {
     "network": "Sudani One", 
@@ -9685,7 +9685,7 @@
     "mcc": "634", 
     "iso": "sd", 
     "country_code": "249", 
-    "mnc": "15"
+    "mnc": "07"
   }, 
   {
     "network": "Vivacell", 
@@ -9709,7 +9709,7 @@
     "mcc": "634", 
     "iso": "sd", 
     "country_code": "249", 
-    "mnc": "01"
+    "mnc": "06"
   }, 
   {
     "network": "ZAIN/Mobitel", 
@@ -9717,7 +9717,7 @@
     "mcc": "634", 
     "iso": "sd", 
     "country_code": "249", 
-    "mnc": "06"
+    "mnc": "01"
   }, 
   {
     "network": "Digicel", 
@@ -9773,7 +9773,7 @@
     "mcc": "240", 
     "iso": "se", 
     "country_code": "46", 
-    "mnc": "16"
+    "mnc": "35"
   }, 
   {
     "network": "42 Telecom AB", 
@@ -9781,7 +9781,7 @@
     "mcc": "240", 
     "iso": "se", 
     "country_code": "46", 
-    "mnc": "35"
+    "mnc": "16"
   }, 
   {
     "network": "Beepsend", 
@@ -10069,7 +10069,7 @@
     "mcc": "228", 
     "iso": "ch", 
     "country_code": "41", 
-    "mnc": "02"
+    "mnc": "12"
   }, 
   {
     "network": "TDC Sunrise", 
@@ -10077,7 +10077,7 @@
     "mcc": "228", 
     "iso": "ch", 
     "country_code": "41", 
-    "mnc": "12"
+    "mnc": "02"
   }, 
   {
     "network": "TDC Sunrise", 
@@ -10157,14 +10157,6 @@
     "mcc": "466", 
     "iso": "tw", 
     "country_code": "886", 
-    "mnc": "03"
-  }, 
-  {
-    "network": "Far EasTone", 
-    "country": "Taiwan", 
-    "mcc": "466", 
-    "iso": "tw", 
-    "country_code": "886", 
     "mnc": "01"
   }, 
   {
@@ -10190,6 +10182,14 @@
     "iso": "tw", 
     "country_code": "886", 
     "mnc": "06"
+  }, 
+  {
+    "network": "Far EasTone", 
+    "country": "Taiwan", 
+    "mcc": "466", 
+    "iso": "tw", 
+    "country_code": "886", 
+    "mnc": "03"
   }, 
   {
     "network": "Global Mobile Corp.", 
@@ -10437,7 +10437,7 @@
     "mcc": "520", 
     "iso": "th", 
     "country_code": "66", 
-    "mnc": "18"
+    "mnc": "05"
   }, 
   {
     "network": "Total Access (DTAC)", 
@@ -10445,15 +10445,7 @@
     "mcc": "520", 
     "iso": "th", 
     "country_code": "66", 
-    "mnc": "05"
-  }, 
-  {
-    "network": "True Move/Orange", 
-    "country": "Thailand", 
-    "mcc": "520", 
-    "iso": "th", 
-    "country_code": "66", 
-    "mnc": "04"
+    "mnc": "18"
   }, 
   {
     "network": "True Move/Orange", 
@@ -10462,6 +10454,14 @@
     "iso": "th", 
     "country_code": "66", 
     "mnc": "99"
+  }, 
+  {
+    "network": "True Move/Orange", 
+    "country": "Thailand", 
+    "mcc": "520", 
+    "iso": "th", 
+    "country_code": "66", 
+    "mnc": "04"
   }, 
   {
     "network": "Telin/ Telkomcel", 
@@ -10941,7 +10941,7 @@
     "mcc": "234", 
     "iso": "gb", 
     "country_code": "44", 
-    "mnc": "20"
+    "mnc": "94"
   }, 
   {
     "network": "Hutchinson 3G", 
@@ -10949,7 +10949,7 @@
     "mcc": "234", 
     "iso": "gb", 
     "country_code": "44", 
-    "mnc": "94"
+    "mnc": "20"
   }, 
   {
     "network": "Inquam Telecom Ltd", 
@@ -11021,7 +11021,7 @@
     "mcc": "234", 
     "iso": "gb", 
     "country_code": "44", 
-    "mnc": "02"
+    "mnc": "11"
   }, 
   {
     "network": "O2 Ltd.", 
@@ -11029,7 +11029,7 @@
     "mcc": "234", 
     "iso": "gb", 
     "country_code": "44", 
-    "mnc": "11"
+    "mnc": "02"
   }, 
   {
     "network": "OnePhone", 
@@ -11109,7 +11109,7 @@
     "mcc": "234", 
     "iso": "gb", 
     "country_code": "44", 
-    "mnc": "31"
+    "mnc": "30"
   }, 
   {
     "network": "Everyth. Ev.wh./T-Mobile", 
@@ -11117,7 +11117,7 @@
     "mcc": "234", 
     "iso": "gb", 
     "country_code": "44", 
-    "mnc": "30"
+    "mnc": "31"
   }, 
   {
     "network": "Everyth. Ev.wh./T-Mobile", 
@@ -11269,14 +11269,6 @@
     "mcc": "310", 
     "iso": "us", 
     "country_code": "1", 
-    "mnc": "410"
-  }, 
-  {
-    "network": "AT&T Wireless Inc.", 
-    "country": "United States", 
-    "mcc": "310", 
-    "iso": "us", 
-    "country_code": "1", 
     "mnc": "380"
   }, 
   {
@@ -11325,7 +11317,23 @@
     "mcc": "310", 
     "iso": "us", 
     "country_code": "1", 
+    "mnc": "410"
+  }, 
+  {
+    "network": "AT&T Wireless Inc.", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
     "mnc": "980"
+  }, 
+  {
+    "network": "Bluegrass Wireless LLC", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "440"
   }, 
   {
     "network": "Bluegrass Wireless LLC", 
@@ -11342,14 +11350,6 @@
     "iso": "us", 
     "country_code": "1", 
     "mnc": "800"
-  }, 
-  {
-    "network": "Bluegrass Wireless LLC", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "440"
   }, 
   {
     "network": "Cable & Communications Corp.", 
@@ -11382,6 +11382,238 @@
     "iso": "us", 
     "country_code": "1", 
     "mnc": "830"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "278"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "483"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "004"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "283"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "488"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "890"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "272"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "288"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "277"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "482"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "282"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "487"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "590"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "271"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "287"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "276"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "481"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "281"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "486"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "013"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "270"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "286"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "275"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "480"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "280"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "485"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "012"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "110"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "285"
   }, 
   {
     "network": "Verizon Wireless", 
@@ -11462,238 +11694,6 @@
     "iso": "us", 
     "country_code": "1", 
     "mnc": "289"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "278"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "483"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "310", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "004"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "310", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "890"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "283"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "488"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "272"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "288"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "277"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "482"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "310", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "590"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "282"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "487"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "271"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "287"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "276"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "481"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "310", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "013"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "281"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "486"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "270"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "286"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "275"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "480"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "310", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "012"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "280"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "485"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "110"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "285"
   }, 
   {
     "network": "Cellular Network Partnership LLC", 
@@ -12141,14 +12141,6 @@
     "mcc": "311", 
     "iso": "us", 
     "country_code": "1", 
-    "mnc": "920"
-  }, 
-  {
-    "network": "Missouri RSA No 5 Partnership", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
     "mnc": "020"
   }, 
   {
@@ -12174,6 +12166,14 @@
     "iso": "us", 
     "country_code": "1", 
     "mnc": "010"
+  }, 
+  {
+    "network": "Missouri RSA No 5 Partnership", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "920"
   }, 
   {
     "network": "Mohave Cellular LP", 
@@ -12250,18 +12250,18 @@
   {
     "network": "North Dakota Network Company", 
     "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "610"
-  }, 
-  {
-    "network": "North Dakota Network Company", 
-    "country": "United States", 
     "mcc": "312", 
     "iso": "us", 
     "country_code": "1", 
     "mnc": "230"
+  }, 
+  {
+    "network": "North Dakota Network Company", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "610"
   }, 
   {
     "network": "Northeast Colorado Cellular Inc.", 
@@ -12381,7 +12381,7 @@
     "mcc": "311", 
     "iso": "us", 
     "country_code": "1", 
-    "mnc": "540"
+    "mnc": "730"
   }, 
   {
     "network": "", 
@@ -12389,7 +12389,7 @@
     "mcc": "311", 
     "iso": "us", 
     "country_code": "1", 
-    "mnc": "730"
+    "mnc": "540"
   }, 
   {
     "network": "Public Service Cellular Inc.", 
@@ -12482,22 +12482,6 @@
   {
     "network": "Sprint Spectrum", 
     "country": "United States", 
-    "mcc": "310", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "120"
-  }, 
-  {
-    "network": "Sprint Spectrum", 
-    "country": "United States", 
-    "mcc": "316", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "010"
-  }, 
-  {
-    "network": "Sprint Spectrum", 
-    "country": "United States", 
     "mcc": "312", 
     "iso": "us", 
     "country_code": "1", 
@@ -12528,28 +12512,20 @@
     "mnc": "490"
   }, 
   {
-    "network": "T-Mobile", 
+    "network": "Sprint Spectrum", 
     "country": "United States", 
     "mcc": "310", 
     "iso": "us", 
     "country_code": "1", 
-    "mnc": "660"
+    "mnc": "120"
   }, 
   {
-    "network": "T-Mobile", 
+    "network": "Sprint Spectrum", 
     "country": "United States", 
-    "mcc": "310", 
+    "mcc": "316", 
     "iso": "us", 
     "country_code": "1", 
-    "mnc": "230"
-  }, 
-  {
-    "network": "T-Mobile", 
-    "country": "United States", 
-    "mcc": "310", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "31"
+    "mnc": "010"
   }, 
   {
     "network": "T-Mobile", 
@@ -12621,7 +12597,23 @@
     "mcc": "310", 
     "iso": "us", 
     "country_code": "1", 
-    "mnc": "300"
+    "mnc": "660"
+  }, 
+  {
+    "network": "T-Mobile", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "230"
+  }, 
+  {
+    "network": "T-Mobile", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "31"
   }, 
   {
     "network": "T-Mobile", 
@@ -12646,6 +12638,14 @@
     "iso": "us", 
     "country_code": "1", 
     "mnc": "800"
+  }, 
+  {
+    "network": "T-Mobile", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "300"
   }, 
   {
     "network": "T-Mobile", 
@@ -12730,14 +12730,6 @@
   {
     "network": "Uintah Basin Electronics Telecommunications Inc.", 
     "country": "United States", 
-    "mcc": "312", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "290"
-  }, 
-  {
-    "network": "Uintah Basin Electronics Telecommunications Inc.", 
-    "country": "United States", 
     "mcc": "311", 
     "iso": "us", 
     "country_code": "1", 
@@ -12750,6 +12742,14 @@
     "iso": "us", 
     "country_code": "1", 
     "mnc": "960"
+  }, 
+  {
+    "network": "Uintah Basin Electronics Telecommunications Inc.", 
+    "country": "United States", 
+    "mcc": "312", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "290"
   }, 
   {
     "network": "Union Telephone Co.", 
