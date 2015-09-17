@@ -51,18 +51,18 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 505,1285,13,319,au,Australia,61,Railcorp/Vodafone
 505,1285,02,47,au,Australia,61,Singtel Optus
 505,1285,90,2319,au,Australia,61,Singtel Optus
-505,1285,71,1823,au,Australia,61,Telstra Corp. Ltd.
 505,1285,11,287,au,Australia,61,Telstra Corp. Ltd.
+505,1285,71,1823,au,Australia,61,Telstra Corp. Ltd.
 505,1285,72,1839,au,Australia,61,Telstra Corp. Ltd.
 505,1285,01,31,au,Australia,61,Telstra Corp. Ltd.
 505,1285,05,95,au,Australia,61,The Ozitel Network Pty.
 505,1285,16,367,au,Australia,61,Victorian Rail Track Corp. (VicTrack)
 505,1285,07,127,au,Australia,61,Vodafone
 505,1285,03,63,au,Australia,61,Vodafone
+232,562,02,47,at,Austria,43,A1 MobilKom
 232,562,01,31,at,Austria,43,A1 MobilKom
 232,562,11,287,at,Austria,43,A1 MobilKom
 232,562,09,159,at,Austria,43,A1 MobilKom
-232,562,02,47,at,Austria,43,A1 MobilKom
 232,562,15,351,at,Austria,43,T-Mobile/Telering
 232,562,00,15,at,Austria,43,Fix Line
 232,562,10,271,at,Austria,43,H3G
@@ -141,10 +141,10 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 724,1828,08,143,br,Brazil,55,TIM
 724,1828,39,927,br,Brazil,55,Nextel (Telet)
 724,1828,00,15,br,Brazil,55,Nextel (Telet)
-724,1828,16,367,br,Brazil,55,Brazil Telcom
-724,1828,24,591,br,Brazil,55,Amazonia Celular S/A
 724,1828,30,783,br,Brazil,55,Oi (TNL PCS / Oi)
 724,1828,31,799,br,Brazil,55,Oi (TNL PCS / Oi)
+724,1828,16,367,br,Brazil,55,Brazil Telcom
+724,1828,24,591,br,Brazil,55,Amazonia Celular S/A
 724,1828,15,351,br,Brazil,55,Sercontel Cel
 724,1828,07,127,br,Brazil,55,CTBC/Triangulo
 724,1828,19,415,br,Brazil,55,Vivo S.A./Telemig
@@ -193,26 +193,26 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 302,770,651,1617,ca,Canada,1,Bell Mobility
 302,770,610,1552,ca,Canada,1,Bell Mobility
 302,770,670,1648,ca,Canada,1,CityWest Mobility
-302,770,361,865,ca,Canada,1,Clearnet
 302,770,360,864,ca,Canada,1,Clearnet
+302,770,361,865,ca,Canada,1,Clearnet
 302,770,380,896,ca,Canada,1,DMTS Mobility
 302,770,710,1808,ca,Canada,1,Globalstar Canada
 302,770,640,1600,ca,Canada,1,Latitude Wireless
 302,770,370,880,ca,Canada,1,FIDO (Rogers AT&T/ Microcell)
 302,770,320,800,ca,Canada,1,mobilicity
 302,770,702,1794,ca,Canada,1,MT&T Mobility
-302,770,660,1632,ca,Canada,1,MTS Mobility
 302,770,655,1621,ca,Canada,1,MTS Mobility
+302,770,660,1632,ca,Canada,1,MTS Mobility
 302,770,701,1793,ca,Canada,1,NB Tel Mobility
 302,770,703,1795,ca,Canada,1,New Tel Mobility
 302,770,760,1888,ca,Canada,1,Public Mobile
 302,770,657,1623,ca,Canada,1,Quebectel Mobility
 302,770,720,1824,ca,Canada,1,Rogers AT&T Wireless
-302,770,680,1664,ca,Canada,1,Sask Tel Mobility
 302,770,654,1620,ca,Canada,1,Sask Tel Mobility
+302,770,680,1664,ca,Canada,1,Sask Tel Mobility
 302,770,656,1622,ca,Canada,1,Tbay Mobility
-302,770,653,1619,ca,Canada,1,Telus Mobility
 302,770,220,544,ca,Canada,1,Telus Mobility
+302,770,653,1619,ca,Canada,1,Telus Mobility
 302,770,500,1280,ca,Canada,1,Videotron
 302,770,490,1168,ca,Canada,1,WIND
 625,1573,01,31,cv,Cape Verde,238,CV Movel
@@ -238,8 +238,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 730,1840,05,95,cl,Chile,56,Nextel SA
 730,1840,04,79,cl,Chile,56,Nextel SA
 730,1840,09,159,cl,Chile,56,Nextel SA
-730,1840,07,127,cl,Chile,56,TELEFONICA
 730,1840,02,47,cl,Chile,56,TELEFONICA
+730,1840,07,127,cl,Chile,56,TELEFONICA
 730,1840,12,303,cl,Chile,56,Telestar Movil SA
 730,1840,00,15,cl,Chile,56,TESAM SA
 730,1840,13,319,cl,Chile,56,Tribe Mobile SPA
@@ -1156,8 +1156,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 540,1344,01,31,sb,Solomon Islands,677,BREEZE
 637,1591,30,783,so,Somalia,252,Golis
 637,1591,19,415,so,Somalia,252,HorTel
-637,1591,10,271,so,Somalia,252,Nationlink
 637,1591,60,1551,so,Somalia,252,Nationlink
+637,1591,10,271,so,Somalia,252,Nationlink
 637,1591,04,79,so,Somalia,252,Somafone
 637,1591,82,2095,so,Somalia,252,Telcom Mobile Somalia
 637,1591,01,31,so,Somalia,252,Telesom
