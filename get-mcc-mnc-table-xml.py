@@ -21,7 +21,6 @@ for line in html.split('\n'):
         break
     elif tbody_start:
         td_search = td_re.search(line)
-        csv_line = ''
         current_item = {}
         td_search = td_re.split(line)
 
