@@ -429,14 +429,6 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "71"
-  }, 
-  {
-    "network": "Telstra Corp. Ltd.", 
-    "country": "Australia", 
-    "mcc": "505", 
-    "iso": "au", 
-    "country_code": "61", 
     "mnc": "72"
   }, 
   {
@@ -446,6 +438,14 @@
     "iso": "au", 
     "country_code": "61", 
     "mnc": "01"
+  }, 
+  {
+    "network": "Telstra Corp. Ltd.", 
+    "country": "Australia", 
+    "mcc": "505", 
+    "iso": "au", 
+    "country_code": "61", 
+    "mnc": "71"
   }, 
   {
     "network": "The Ozitel Network Pty.", 
@@ -485,14 +485,6 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "02"
-  }, 
-  {
-    "network": "A1 MobilKom", 
-    "country": "Austria", 
-    "mcc": "232", 
-    "iso": "at", 
-    "country_code": "43", 
     "mnc": "01"
   }, 
   {
@@ -502,6 +494,14 @@
     "iso": "at", 
     "country_code": "43", 
     "mnc": "11"
+  }, 
+  {
+    "network": "A1 MobilKom", 
+    "country": "Austria", 
+    "mcc": "232", 
+    "iso": "at", 
+    "country_code": "43", 
+    "mnc": "02"
   }, 
   {
     "network": "A1 MobilKom", 
@@ -1136,22 +1136,6 @@
     "mnc": "00"
   }, 
   {
-    "network": "Oi (TNL PCS / Oi)", 
-    "country": "Brazil", 
-    "mcc": "724", 
-    "iso": "br", 
-    "country_code": "55", 
-    "mnc": "30"
-  }, 
-  {
-    "network": "Oi (TNL PCS / Oi)", 
-    "country": "Brazil", 
-    "mcc": "724", 
-    "iso": "br", 
-    "country_code": "55", 
-    "mnc": "31"
-  }, 
-  {
     "network": "Brazil Telcom", 
     "country": "Brazil", 
     "mcc": "724", 
@@ -1166,6 +1150,22 @@
     "iso": "br", 
     "country_code": "55", 
     "mnc": "24"
+  }, 
+  {
+    "network": "Oi (TNL PCS / Oi)", 
+    "country": "Brazil", 
+    "mcc": "724", 
+    "iso": "br", 
+    "country_code": "55", 
+    "mnc": "30"
+  }, 
+  {
+    "network": "Oi (TNL PCS / Oi)", 
+    "country": "Brazil", 
+    "mcc": "724", 
+    "iso": "br", 
+    "country_code": "55", 
+    "mnc": "31"
   }, 
   {
     "network": "Sercontel Cel", 
@@ -1533,7 +1533,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "651"
+    "mnc": "610"
   }, 
   {
     "network": "Bell Mobility", 
@@ -1541,7 +1541,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "610"
+    "mnc": "651"
   }, 
   {
     "network": "CityWest Mobility", 
@@ -1557,7 +1557,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "360"
+    "mnc": "361"
   }, 
   {
     "network": "Clearnet", 
@@ -1565,7 +1565,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "361"
+    "mnc": "360"
   }, 
   {
     "network": "DMTS Mobility", 
@@ -1621,7 +1621,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "655"
+    "mnc": "660"
   }, 
   {
     "network": "MTS Mobility", 
@@ -1629,7 +1629,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "660"
+    "mnc": "655"
   }, 
   {
     "network": "NB Tel Mobility", 
@@ -1677,7 +1677,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "654"
+    "mnc": "680"
   }, 
   {
     "network": "Sask Tel Mobility", 
@@ -1685,7 +1685,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "680"
+    "mnc": "654"
   }, 
   {
     "network": "Tbay Mobility", 
@@ -1701,7 +1701,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "220"
+    "mnc": "653"
   }, 
   {
     "network": "Telus Mobility", 
@@ -1709,7 +1709,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "653"
+    "mnc": "220"
   }, 
   {
     "network": "Videotron", 
@@ -1917,7 +1917,7 @@
     "mcc": "730", 
     "iso": "cl", 
     "country_code": "56", 
-    "mnc": "02"
+    "mnc": "07"
   }, 
   {
     "network": "TELEFONICA", 
@@ -1925,7 +1925,7 @@
     "mcc": "730", 
     "iso": "cl", 
     "country_code": "56", 
-    "mnc": "07"
+    "mnc": "02"
   }, 
   {
     "network": "Telestar Movil SA", 
@@ -9261,7 +9261,7 @@
     "mcc": "637", 
     "iso": "so", 
     "country_code": "252", 
-    "mnc": "60"
+    "mnc": "10"
   }, 
   {
     "network": "Nationlink", 
@@ -9269,7 +9269,7 @@
     "mcc": "637", 
     "iso": "so", 
     "country_code": "252", 
-    "mnc": "10"
+    "mnc": "60"
   }, 
   {
     "network": "Somafone", 
