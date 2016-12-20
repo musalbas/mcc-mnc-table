@@ -478,10 +478,10 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 372,882,01,31,ht,Haiti,509,Comcel
 372,882,02,47,ht,Haiti,509,Digicel
 372,882,03,63,ht,Haiti,509,National Telecom SA (NatCom)
-708,1800,40,1039,hn,Honduras,504,Digicel
-708,1800,30,783,hn,Honduras,504,HonduTel
-708,1800,01,31,hn,Honduras,504,SERCOM/CLARO
-708,1800,02,47,hn,Honduras,504,Telefonica/CELTEL
+708,1800,040,64,hn,Honduras,504,Digicel
+708,1800,030,48,hn,Honduras,504,HonduTel
+708,1800,001,1,hn,Honduras,504,SERCOM/CLARO
+708,1800,002,2,hn,Honduras,504,Telefonica/CELTEL
 454,1108,28,655,hk,Hongkong China,852,China Mobile/Peoples
 454,1108,13,319,hk,Hongkong China,852,China Mobile/Peoples
 454,1108,12,303,hk,Hongkong China,852,China Mobile/Peoples
@@ -769,7 +769,7 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,04,79,jp,Japan,81,SoftBank Mobile Corp
 441,1089,62,1583,jp,Japan,81,SoftBank Mobile Corp
 440,1088,45,1119,jp,Japan,81,SoftBank Mobile Corp
-440,1088,20,527,jp,Japan,81,NTT Docomo
+440,1088,20,527,jp,Japan,81,SoftBank Mobile Corp
 440,1088,96,2415,jp,Japan,81,SoftBank Mobile Corp
 440,1088,40,1039,jp,Japan,81,SoftBank Mobile Corp
 440,1088,85,2143,jp,Japan,81,KDDI Corporation
@@ -873,6 +873,7 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 502,1282,151,337,my,Malaysia,60,Baraka Telecom Sdn Bhd
 502,1282,19,415,my,Malaysia,60,CelCom
 502,1282,13,319,my,Malaysia,60,CelCom
+502,1282,198,408,my,Malaysia,60,CelCom
 502,1282,16,367,my,Malaysia,60,Digi Telecommunications
 502,1282,10,271,my,Malaysia,60,Digi Telecommunications
 502,1282,20,527,my,Malaysia,60,Electcoms Wireless Sdn Bhd
