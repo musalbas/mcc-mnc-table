@@ -446,7 +446,7 @@
         <mcc>505</mcc>
         <iso>au</iso>
         <country_code>61</country_code>
-        <mnc>01</mnc>
+        <mnc>71</mnc>
     </carrier>
     <carrier>
         <network>Telstra Corp. Ltd.</network>
@@ -454,7 +454,7 @@
         <mcc>505</mcc>
         <iso>au</iso>
         <country_code>61</country_code>
-        <mnc>71</mnc>
+        <mnc>01</mnc>
     </carrier>
     <carrier>
         <network>Telstra Corp. Ltd.</network>
@@ -502,7 +502,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>01</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>A1 MobilKom</network>
@@ -526,7 +526,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>02</mnc>
+        <mnc>01</mnc>
     </carrier>
     <carrier>
         <network>T-Mobile/Telering</network>
@@ -542,7 +542,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>14</mnc>
+        <mnc>10</mnc>
     </carrier>
     <carrier>
         <network>H3G</network>
@@ -550,7 +550,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>10</mnc>
+        <mnc>14</mnc>
     </carrier>
     <carrier>
         <network>3/Orange/One Connect</network>
@@ -726,7 +726,7 @@
         <mcc>470</mcc>
         <iso>bd</iso>
         <country_code>880</country_code>
-        <mnc>05</mnc>
+        <mnc>06</mnc>
     </carrier>
     <carrier>
         <network>Citycell</network>
@@ -734,7 +734,7 @@
         <mcc>470</mcc>
         <iso>bd</iso>
         <country_code>880</country_code>
-        <mnc>06</mnc>
+        <mnc>05</mnc>
     </carrier>
     <carrier>
         <network>GrameenPhone</network>
@@ -1230,6 +1230,14 @@
         <mcc>724</mcc>
         <iso>br</iso>
         <country_code>55</country_code>
+        <mnc>03</mnc>
+    </carrier>
+    <carrier>
+        <network>TIM</network>
+        <country>Brazil</country>
+        <mcc>724</mcc>
+        <iso>br</iso>
+        <country_code>55</country_code>
         <mnc>02</mnc>
     </carrier>
     <carrier>
@@ -1239,14 +1247,6 @@
         <iso>br</iso>
         <country_code>55</country_code>
         <mnc>04</mnc>
-    </carrier>
-    <carrier>
-        <network>TIM</network>
-        <country>Brazil</country>
-        <mcc>724</mcc>
-        <iso>br</iso>
-        <country_code>55</country_code>
-        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>Unicel do Brasil Telecomunicacoes Ltda</network>
@@ -1558,7 +1558,7 @@
         <mcc>302</mcc>
         <iso>ca</iso>
         <country_code>1</country_code>
-        <mnc>610</mnc>
+        <mnc>651</mnc>
     </carrier>
     <carrier>
         <network>Bell Mobility</network>
@@ -1566,7 +1566,7 @@
         <mcc>302</mcc>
         <iso>ca</iso>
         <country_code>1</country_code>
-        <mnc>651</mnc>
+        <mnc>610</mnc>
     </carrier>
     <carrier>
         <network>CityWest Mobility</network>
@@ -1726,7 +1726,7 @@
         <mcc>302</mcc>
         <iso>ca</iso>
         <country_code>1</country_code>
-        <mnc>220</mnc>
+        <mnc>653</mnc>
     </carrier>
     <carrier>
         <network>Telus Mobility</network>
@@ -1734,7 +1734,7 @@
         <mcc>302</mcc>
         <iso>ca</iso>
         <country_code>1</country_code>
-        <mnc>653</mnc>
+        <mnc>220</mnc>
     </carrier>
     <carrier>
         <network>Videotron</network>
@@ -1942,7 +1942,7 @@
         <mcc>730</mcc>
         <iso>cl</iso>
         <country_code>56</country_code>
-        <mnc>07</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>TELEFONICA</network>
@@ -1950,7 +1950,7 @@
         <mcc>730</mcc>
         <iso>cl</iso>
         <country_code>56</country_code>
-        <mnc>02</mnc>
+        <mnc>07</mnc>
     </carrier>
     <carrier>
         <network>Telestar Movil SA</network>
@@ -2609,7 +2609,7 @@
         <mnc>01</mnc>
     </carrier>
     <carrier>
-        <network>EMS - Mobinil</network>
+        <network>Orange/Mobinil</network>
         <country>Egypt</country>
         <mcc>602</mcc>
         <iso>eg</iso>
@@ -7233,7 +7233,7 @@
         <mnc>01</mnc>
     </carrier>
     <carrier>
-        <network>IUSACell/UneFon</network>
+        <network>AT&amp;T/IUSACell</network>
         <country>Mexico</country>
         <mcc>334</mcc>
         <iso>mx</iso>
@@ -7241,7 +7241,7 @@
         <mnc>50</mnc>
     </carrier>
     <carrier>
-        <network>IUSACell/UneFon</network>
+        <network>AT&amp;T/IUSACell</network>
         <country>Mexico</country>
         <mcc>334</mcc>
         <iso>mx</iso>
@@ -7249,7 +7249,7 @@
         <mnc>050</mnc>
     </carrier>
     <carrier>
-        <network>IUSACell/UneFon</network>
+        <network>AT&amp;T/IUSACell</network>
         <country>Mexico</country>
         <mcc>334</mcc>
         <iso>mx</iso>
@@ -7257,7 +7257,7 @@
         <mnc>040</mnc>
     </carrier>
     <carrier>
-        <network>IUSACell/UneFon</network>
+        <network>AT&amp;T/IUSACell</network>
         <country>Mexico</country>
         <mcc>334</mcc>
         <iso>mx</iso>
