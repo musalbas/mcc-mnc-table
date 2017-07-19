@@ -221,7 +221,7 @@
     "mcc": "722", 
     "iso": "ar", 
     "country_code": "54", 
-    "mnc": "320"
+    "mnc": "330"
   }, 
   {
     "network": "Claro/ CTI/AMX", 
@@ -229,7 +229,7 @@
     "mcc": "722", 
     "iso": "ar", 
     "country_code": "54", 
-    "mnc": "330"
+    "mnc": "320"
   }, 
   {
     "network": "Compania De Radiocomunicaciones Moviles SA", 
@@ -397,7 +397,7 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "99"
+    "mnc": "08"
   }, 
   {
     "network": "Railcorp/Vodafone", 
@@ -405,7 +405,7 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "08"
+    "mnc": "99"
   }, 
   {
     "network": "Railcorp/Vodafone", 
@@ -453,7 +453,7 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "71"
+    "mnc": "72"
   }, 
   {
     "network": "Telstra Corp. Ltd.", 
@@ -461,7 +461,7 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "72"
+    "mnc": "71"
   }, 
   {
     "network": "The Ozitel Network Pty.", 
@@ -509,7 +509,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "02"
+    "mnc": "01"
   }, 
   {
     "network": "A1 MobilKom", 
@@ -517,7 +517,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "01"
+    "mnc": "02"
   }, 
   {
     "network": "A1 MobilKom", 
@@ -541,7 +541,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "14"
+    "mnc": "10"
   }, 
   {
     "network": "H3G", 
@@ -549,7 +549,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "10"
+    "mnc": "14"
   }, 
   {
     "network": "3/Orange/One Connect", 
@@ -1101,7 +1101,7 @@
     "mcc": "724", 
     "iso": "br", 
     "country_code": "55", 
-    "mnc": "05"
+    "mnc": "38"
   }, 
   {
     "network": "Claro/Albra/America Movil", 
@@ -1109,7 +1109,7 @@
     "mcc": "724", 
     "iso": "br", 
     "country_code": "55", 
-    "mnc": "38"
+    "mnc": "05"
   }, 
   {
     "network": "Vivo S.A./Telemig ", 
@@ -1168,20 +1168,20 @@
     "mnc": "00"
   }, 
   {
-    "network": "Amazonia Celular S/A", 
-    "country": "Brazil", 
-    "mcc": "724", 
-    "iso": "br", 
-    "country_code": "55", 
-    "mnc": "24"
-  }, 
-  {
     "network": "Brazil Telcom", 
     "country": "Brazil", 
     "mcc": "724", 
     "iso": "br", 
     "country_code": "55", 
     "mnc": "16"
+  }, 
+  {
+    "network": "Amazonia Celular S/A", 
+    "country": "Brazil", 
+    "mcc": "724", 
+    "iso": "br", 
+    "country_code": "55", 
+    "mnc": "24"
   }, 
   {
     "network": "Oi (TNL PCS / Oi)", 
@@ -1237,6 +1237,14 @@
     "mcc": "724", 
     "iso": "br", 
     "country_code": "55", 
+    "mnc": "02"
+  }, 
+  {
+    "network": "TIM", 
+    "country": "Brazil", 
+    "mcc": "724", 
+    "iso": "br", 
+    "country_code": "55", 
     "mnc": "04"
   }, 
   {
@@ -1246,14 +1254,6 @@
     "iso": "br", 
     "country_code": "55", 
     "mnc": "03"
-  }, 
-  {
-    "network": "TIM", 
-    "country": "Brazil", 
-    "mcc": "724", 
-    "iso": "br", 
-    "country_code": "55", 
-    "mnc": "02"
   }, 
   {
     "network": "Unicel do Brasil Telecomunicacoes Ltda", 
@@ -1709,7 +1709,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "654"
+    "mnc": "680"
   }, 
   {
     "network": "Sask Tel Mobility", 
@@ -1717,7 +1717,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "680"
+    "mnc": "654"
   }, 
   {
     "network": "Tbay Mobility", 
@@ -1949,7 +1949,7 @@
     "mcc": "730", 
     "iso": "cl", 
     "country_code": "56", 
-    "mnc": "02"
+    "mnc": "07"
   }, 
   {
     "network": "TELEFONICA", 
@@ -1957,7 +1957,7 @@
     "mcc": "730", 
     "iso": "cl", 
     "country_code": "56", 
-    "mnc": "07"
+    "mnc": "02"
   }, 
   {
     "network": "Telestar Movil SA", 
@@ -9501,7 +9501,7 @@
     "mcc": "637", 
     "iso": "so", 
     "country_code": "252", 
-    "mnc": "60"
+    "mnc": "10"
   }, 
   {
     "network": "Nationlink", 
@@ -9509,7 +9509,7 @@
     "mcc": "637", 
     "iso": "so", 
     "country_code": "252", 
-    "mnc": "10"
+    "mnc": "60"
   }, 
   {
     "network": "Somafone", 
