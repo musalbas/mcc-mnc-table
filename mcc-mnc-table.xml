@@ -446,14 +446,6 @@
         <mcc>505</mcc>
         <iso>au</iso>
         <country_code>61</country_code>
-        <mnc>71</mnc>
-    </carrier>
-    <carrier>
-        <network>Telstra Corp. Ltd.</network>
-        <country>Australia</country>
-        <mcc>505</mcc>
-        <iso>au</iso>
-        <country_code>61</country_code>
         <mnc>01</mnc>
     </carrier>
     <carrier>
@@ -463,6 +455,14 @@
         <iso>au</iso>
         <country_code>61</country_code>
         <mnc>11</mnc>
+    </carrier>
+    <carrier>
+        <network>Telstra Corp. Ltd.</network>
+        <country>Australia</country>
+        <mcc>505</mcc>
+        <iso>au</iso>
+        <country_code>61</country_code>
+        <mnc>71</mnc>
     </carrier>
     <carrier>
         <network>The Ozitel Network Pty.</network>
@@ -502,7 +502,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>11</mnc>
+        <mnc>01</mnc>
     </carrier>
     <carrier>
         <network>A1 MobilKom</network>
@@ -510,7 +510,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>02</mnc>
+        <mnc>11</mnc>
     </carrier>
     <carrier>
         <network>A1 MobilKom</network>
@@ -526,7 +526,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>01</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>T-Mobile/Telering</network>
@@ -542,7 +542,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>10</mnc>
+        <mnc>14</mnc>
     </carrier>
     <carrier>
         <network>H3G</network>
@@ -550,7 +550,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>14</mnc>
+        <mnc>10</mnc>
     </carrier>
     <carrier>
         <network>3/Orange/One Connect</network>
@@ -1185,20 +1185,20 @@
         <mnc>30</mnc>
     </carrier>
     <carrier>
-        <network>Oi (TNL PCS / Oi)</network>
-        <country>Brazil</country>
-        <mcc>724</mcc>
-        <iso>br</iso>
-        <country_code>55</country_code>
-        <mnc>31</mnc>
-    </carrier>
-    <carrier>
         <network>Brazil Telcom</network>
         <country>Brazil</country>
         <mcc>724</mcc>
         <iso>br</iso>
         <country_code>55</country_code>
         <mnc>16</mnc>
+    </carrier>
+    <carrier>
+        <network>Oi (TNL PCS / Oi)</network>
+        <country>Brazil</country>
+        <mcc>724</mcc>
+        <iso>br</iso>
+        <country_code>55</country_code>
+        <mnc>31</mnc>
     </carrier>
     <carrier>
         <network>PORTO SEGURO TELECOMUNICACOES</network>
@@ -1238,14 +1238,6 @@
         <mcc>724</mcc>
         <iso>br</iso>
         <country_code>55</country_code>
-        <mnc>03</mnc>
-    </carrier>
-    <carrier>
-        <network>TIM</network>
-        <country>Brazil</country>
-        <mcc>724</mcc>
-        <iso>br</iso>
-        <country_code>55</country_code>
         <mnc>02</mnc>
     </carrier>
     <carrier>
@@ -1255,6 +1247,14 @@
         <iso>br</iso>
         <country_code>55</country_code>
         <mnc>04</mnc>
+    </carrier>
+    <carrier>
+        <network>TIM</network>
+        <country>Brazil</country>
+        <mcc>724</mcc>
+        <iso>br</iso>
+        <country_code>55</country_code>
+        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>Unicel do Brasil Telecomunicacoes Ltda</network>
@@ -1502,7 +1502,7 @@
         <mcc>456</mcc>
         <iso>kh</iso>
         <country_code>855</country_code>
-        <mnc>05</mnc>
+        <mnc>06</mnc>
     </carrier>
     <carrier>
         <network>Smart Mobile</network>
@@ -1510,7 +1510,7 @@
         <mcc>456</mcc>
         <iso>kh</iso>
         <country_code>855</country_code>
-        <mnc>06</mnc>
+        <mnc>05</mnc>
     </carrier>
     <carrier>
         <network>Sotelco/Beeline</network>
@@ -1734,7 +1734,7 @@
         <mcc>302</mcc>
         <iso>ca</iso>
         <country_code>1</country_code>
-        <mnc>653</mnc>
+        <mnc>220</mnc>
     </carrier>
     <carrier>
         <network>Telus Mobility</network>
@@ -1742,7 +1742,7 @@
         <mcc>302</mcc>
         <iso>ca</iso>
         <country_code>1</country_code>
-        <mnc>220</mnc>
+        <mnc>653</mnc>
     </carrier>
     <carrier>
         <network>Videotron</network>
@@ -1950,7 +1950,7 @@
         <mcc>730</mcc>
         <iso>cl</iso>
         <country_code>56</country_code>
-        <mnc>02</mnc>
+        <mnc>07</mnc>
     </carrier>
     <carrier>
         <network>TELEFONICA</network>
@@ -1958,7 +1958,7 @@
         <mcc>730</mcc>
         <iso>cl</iso>
         <country_code>56</country_code>
-        <mnc>07</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>Telestar Movil SA</network>
@@ -2006,7 +2006,7 @@
         <mcc>460</mcc>
         <iso>cn</iso>
         <country_code>86</country_code>
-        <mnc>02</mnc>
+        <mnc>00</mnc>
     </carrier>
     <carrier>
         <network>China Mobile GSM</network>
@@ -2014,7 +2014,7 @@
         <mcc>460</mcc>
         <iso>cn</iso>
         <country_code>86</country_code>
-        <mnc>00</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>China Space Mobile Satellite Telecommunications Co. Ltd (China Spacecom)</network>

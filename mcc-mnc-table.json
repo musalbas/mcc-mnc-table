@@ -445,14 +445,6 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "71"
-  }, 
-  {
-    "network": "Telstra Corp. Ltd.", 
-    "country": "Australia", 
-    "mcc": "505", 
-    "iso": "au", 
-    "country_code": "61", 
     "mnc": "01"
   }, 
   {
@@ -462,6 +454,14 @@
     "iso": "au", 
     "country_code": "61", 
     "mnc": "11"
+  }, 
+  {
+    "network": "Telstra Corp. Ltd.", 
+    "country": "Australia", 
+    "mcc": "505", 
+    "iso": "au", 
+    "country_code": "61", 
+    "mnc": "71"
   }, 
   {
     "network": "The Ozitel Network Pty.", 
@@ -501,7 +501,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "11"
+    "mnc": "01"
   }, 
   {
     "network": "A1 MobilKom", 
@@ -509,7 +509,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "02"
+    "mnc": "11"
   }, 
   {
     "network": "A1 MobilKom", 
@@ -525,7 +525,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "01"
+    "mnc": "02"
   }, 
   {
     "network": "T-Mobile/Telering", 
@@ -541,7 +541,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "10"
+    "mnc": "14"
   }, 
   {
     "network": "H3G", 
@@ -549,7 +549,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "14"
+    "mnc": "10"
   }, 
   {
     "network": "3/Orange/One Connect", 
@@ -1184,20 +1184,20 @@
     "mnc": "30"
   }, 
   {
-    "network": "Oi (TNL PCS / Oi)", 
-    "country": "Brazil", 
-    "mcc": "724", 
-    "iso": "br", 
-    "country_code": "55", 
-    "mnc": "31"
-  }, 
-  {
     "network": "Brazil Telcom", 
     "country": "Brazil", 
     "mcc": "724", 
     "iso": "br", 
     "country_code": "55", 
     "mnc": "16"
+  }, 
+  {
+    "network": "Oi (TNL PCS / Oi)", 
+    "country": "Brazil", 
+    "mcc": "724", 
+    "iso": "br", 
+    "country_code": "55", 
+    "mnc": "31"
   }, 
   {
     "network": "PORTO SEGURO TELECOMUNICACOES", 
@@ -1237,14 +1237,6 @@
     "mcc": "724", 
     "iso": "br", 
     "country_code": "55", 
-    "mnc": "03"
-  }, 
-  {
-    "network": "TIM", 
-    "country": "Brazil", 
-    "mcc": "724", 
-    "iso": "br", 
-    "country_code": "55", 
     "mnc": "02"
   }, 
   {
@@ -1254,6 +1246,14 @@
     "iso": "br", 
     "country_code": "55", 
     "mnc": "04"
+  }, 
+  {
+    "network": "TIM", 
+    "country": "Brazil", 
+    "mcc": "724", 
+    "iso": "br", 
+    "country_code": "55", 
+    "mnc": "03"
   }, 
   {
     "network": "Unicel do Brasil Telecomunicacoes Ltda", 
@@ -1501,7 +1501,7 @@
     "mcc": "456", 
     "iso": "kh", 
     "country_code": "855", 
-    "mnc": "05"
+    "mnc": "06"
   }, 
   {
     "network": "Smart Mobile", 
@@ -1509,7 +1509,7 @@
     "mcc": "456", 
     "iso": "kh", 
     "country_code": "855", 
-    "mnc": "06"
+    "mnc": "05"
   }, 
   {
     "network": "Sotelco/Beeline", 
@@ -1733,7 +1733,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "653"
+    "mnc": "220"
   }, 
   {
     "network": "Telus Mobility", 
@@ -1741,7 +1741,7 @@
     "mcc": "302", 
     "iso": "ca", 
     "country_code": "1", 
-    "mnc": "220"
+    "mnc": "653"
   }, 
   {
     "network": "Videotron", 
@@ -1949,7 +1949,7 @@
     "mcc": "730", 
     "iso": "cl", 
     "country_code": "56", 
-    "mnc": "02"
+    "mnc": "07"
   }, 
   {
     "network": "TELEFONICA", 
@@ -1957,7 +1957,7 @@
     "mcc": "730", 
     "iso": "cl", 
     "country_code": "56", 
-    "mnc": "07"
+    "mnc": "02"
   }, 
   {
     "network": "Telestar Movil SA", 
@@ -2005,7 +2005,7 @@
     "mcc": "460", 
     "iso": "cn", 
     "country_code": "86", 
-    "mnc": "02"
+    "mnc": "00"
   }, 
   {
     "network": "China Mobile GSM", 
@@ -2013,7 +2013,7 @@
     "mcc": "460", 
     "iso": "cn", 
     "country_code": "86", 
-    "mnc": "00"
+    "mnc": "02"
   }, 
   {
     "network": "China Space Mobile Satellite Telecommunications Co. Ltd (China Spacecom)", 
