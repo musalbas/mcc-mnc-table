@@ -230,7 +230,7 @@
         <mcc>722</mcc>
         <iso>ar</iso>
         <country_code>54</country_code>
-        <mnc>330</mnc>
+        <mnc>320</mnc>
     </carrier>
     <carrier>
         <network>Claro/ CTI/AMX</network>
@@ -238,7 +238,7 @@
         <mcc>722</mcc>
         <iso>ar</iso>
         <country_code>54</country_code>
-        <mnc>320</mnc>
+        <mnc>330</mnc>
     </carrier>
     <carrier>
         <network>Compania De Radiocomunicaciones Moviles SA</network>
@@ -558,7 +558,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>10</mnc>
+        <mnc>14</mnc>
     </carrier>
     <carrier>
         <network>H3G</network>
@@ -566,7 +566,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>14</mnc>
+        <mnc>10</mnc>
     </carrier>
     <carrier>
         <network>3/Orange/One Connect</network>
@@ -1254,6 +1254,14 @@
         <mcc>724</mcc>
         <iso>br</iso>
         <country_code>55</country_code>
+        <mnc>04</mnc>
+    </carrier>
+    <carrier>
+        <network>TIM</network>
+        <country>Brazil</country>
+        <mcc>724</mcc>
+        <iso>br</iso>
+        <country_code>55</country_code>
         <mnc>03</mnc>
     </carrier>
     <carrier>
@@ -1265,20 +1273,20 @@
         <mnc>02</mnc>
     </carrier>
     <carrier>
-        <network>TIM</network>
-        <country>Brazil</country>
-        <mcc>724</mcc>
-        <iso>br</iso>
-        <country_code>55</country_code>
-        <mnc>04</mnc>
-    </carrier>
-    <carrier>
         <network>Unicel do Brasil Telecomunicacoes Ltda</network>
         <country>Brazil</country>
         <mcc>724</mcc>
         <iso>br</iso>
         <country_code>55</country_code>
         <mnc>37</mnc>
+    </carrier>
+    <carrier>
+        <network>Vivo S.A./Telemig </network>
+        <country>Brazil</country>
+        <mcc>724</mcc>
+        <iso>br</iso>
+        <country_code>55</country_code>
+        <mnc>11</mnc>
     </carrier>
     <carrier>
         <network>Vivo S.A./Telemig </network>
@@ -1303,14 +1311,6 @@
         <iso>br</iso>
         <country_code>55</country_code>
         <mnc>23</mnc>
-    </carrier>
-    <carrier>
-        <network>Vivo S.A./Telemig </network>
-        <country>Brazil</country>
-        <mcc>724</mcc>
-        <iso>br</iso>
-        <country_code>55</country_code>
-        <mnc>11</mnc>
     </carrier>
     <carrier>
         <network>Caribbean Cellular</network>
@@ -2526,7 +2526,7 @@
         <mcc>238</mcc>
         <iso>dk</iso>
         <country_code>45</country_code>
-        <mnc>01</mnc>
+        <mnc>10</mnc>
     </carrier>
     <carrier>
         <network>TDC Denmark</network>
@@ -2534,7 +2534,7 @@
         <mcc>238</mcc>
         <iso>dk</iso>
         <country_code>45</country_code>
-        <mnc>10</mnc>
+        <mnc>01</mnc>
     </carrier>
     <carrier>
         <network>Telenor/Sonofon</network>
@@ -2854,6 +2854,14 @@
         <mcc>244</mcc>
         <iso>fi</iso>
         <country_code>358</country_code>
+        <mnc>12</mnc>
+    </carrier>
+    <carrier>
+        <network>DNA/Finnet</network>
+        <country>Finland</country>
+        <mcc>244</mcc>
+        <iso>fi</iso>
+        <country_code>358</country_code>
         <mnc>04</mnc>
     </carrier>
     <carrier>
@@ -2871,14 +2879,6 @@
         <iso>fi</iso>
         <country_code>358</country_code>
         <mnc>13</mnc>
-    </carrier>
-    <carrier>
-        <network>DNA/Finnet</network>
-        <country>Finland</country>
-        <mcc>244</mcc>
-        <iso>fi</iso>
-        <country_code>358</country_code>
-        <mnc>12</mnc>
     </carrier>
     <carrier>
         <network>Elisa/Saunalahti</network>
@@ -3062,7 +3062,7 @@
         <mcc>208</mcc>
         <iso>fr</iso>
         <country_code>33</country_code>
-        <mnc>24</mnc>
+        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>MobiquiThings</network>
@@ -3070,7 +3070,7 @@
         <mcc>208</mcc>
         <iso>fr</iso>
         <country_code>33</country_code>
-        <mnc>03</mnc>
+        <mnc>24</mnc>
     </carrier>
     <carrier>
         <network>Mundio Mobile (France) Ltd</network>
@@ -3134,6 +3134,14 @@
         <mcc>208</mcc>
         <iso>fr</iso>
         <country_code>33</country_code>
+        <mnc>10</mnc>
+    </carrier>
+    <carrier>
+        <network>S.F.R.</network>
+        <country>France</country>
+        <mcc>208</mcc>
+        <iso>fr</iso>
+        <country_code>33</country_code>
         <mnc>09</mnc>
     </carrier>
     <carrier>
@@ -3151,14 +3159,6 @@
         <iso>fr</iso>
         <country_code>33</country_code>
         <mnc>13</mnc>
-    </carrier>
-    <carrier>
-        <network>S.F.R.</network>
-        <country>France</country>
-        <mcc>208</mcc>
-        <iso>fr</iso>
-        <country_code>33</country_code>
-        <mnc>10</mnc>
     </carrier>
     <carrier>
         <network>SISTEER</network>
@@ -3214,7 +3214,7 @@
         <mcc>340</mcc>
         <iso>fg</iso>
         <country_code>594</country_code>
-        <mnc>03</mnc>
+        <mnc>11</mnc>
     </carrier>
     <carrier>
         <network>TelCell GSM</network>
@@ -3222,7 +3222,7 @@
         <mcc>340</mcc>
         <iso>fg</iso>
         <country_code>594</country_code>
-        <mnc>11</mnc>
+        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>Pacific Mobile Telecom (PMT)</network>
@@ -3374,6 +3374,14 @@
         <mcc>262</mcc>
         <iso>de</iso>
         <country_code>49</country_code>
+        <mnc>03</mnc>
+    </carrier>
+    <carrier>
+        <network>E-Plus</network>
+        <country>Germany</country>
+        <mcc>262</mcc>
+        <iso>de</iso>
+        <country_code>49</country_code>
         <mnc>05</mnc>
     </carrier>
     <carrier>
@@ -3383,14 +3391,6 @@
         <iso>de</iso>
         <country_code>49</country_code>
         <mnc>77</mnc>
-    </carrier>
-    <carrier>
-        <network>E-Plus</network>
-        <country>Germany</country>
-        <mcc>262</mcc>
-        <iso>de</iso>
-        <country_code>49</country_code>
-        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>E-Plus</network>
@@ -4014,6 +4014,14 @@
         <mcc>454</mcc>
         <iso>hk</iso>
         <country_code>852</country_code>
+        <mnc>03</mnc>
+    </carrier>
+    <carrier>
+        <network>H3G/Hutchinson</network>
+        <country>Hongkong, China</country>
+        <mcc>454</mcc>
+        <iso>hk</iso>
+        <country_code>852</country_code>
         <mnc>14</mnc>
     </carrier>
     <carrier>
@@ -4031,14 +4039,6 @@
         <iso>hk</iso>
         <country_code>852</country_code>
         <mnc>04</mnc>
-    </carrier>
-    <carrier>
-        <network>H3G/Hutchinson</network>
-        <country>Hongkong, China</country>
-        <mcc>454</mcc>
-        <iso>hk</iso>
-        <country_code>852</country_code>
-        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>HKT/PCCW</network>
@@ -4102,6 +4102,14 @@
         <mcc>454</mcc>
         <iso>hk</iso>
         <country_code>852</country_code>
+        <mnc>15</mnc>
+    </carrier>
+    <carrier>
+        <network>Vodafone/SmarTone</network>
+        <country>Hongkong, China</country>
+        <mcc>454</mcc>
+        <iso>hk</iso>
+        <country_code>852</country_code>
         <mnc>06</mnc>
     </carrier>
     <carrier>
@@ -4111,14 +4119,6 @@
         <iso>hk</iso>
         <country_code>852</country_code>
         <mnc>17</mnc>
-    </carrier>
-    <carrier>
-        <network>Vodafone/SmarTone</network>
-        <country>Hongkong, China</country>
-        <mcc>454</mcc>
-        <iso>hk</iso>
-        <country_code>852</country_code>
-        <mnc>15</mnc>
     </carrier>
     <carrier>
         <network>Pannon/Telenor</network>
@@ -4326,6 +4326,22 @@
         <mcc>404</mcc>
         <iso>in</iso>
         <country_code>91</country_code>
+        <mnc>62</mnc>
+    </carrier>
+    <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>53</mnc>
+    </carrier>
+    <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
         <mnc>59</mnc>
     </carrier>
     <carrier>
@@ -4471,22 +4487,6 @@
         <iso>in</iso>
         <country_code>91</country_code>
         <mnc>76</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>62</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>53</mnc>
     </carrier>
     <carrier>
         <network>Bharti Airtel Limited (Delhi)</network>
@@ -4670,6 +4670,14 @@
         <mcc>404</mcc>
         <iso>in</iso>
         <country_code>91</country_code>
+        <mnc>67</mnc>
+    </carrier>
+    <carrier>
+        <network>Reliance Telecom Private</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
         <mnc>18</mnc>
     </carrier>
     <carrier>
@@ -4711,14 +4719,6 @@
         <iso>in</iso>
         <country_code>91</country_code>
         <mnc>50</mnc>
-    </carrier>
-    <carrier>
-        <network>Reliance Telecom Private</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>67</mnc>
     </carrier>
     <carrier>
         <network>RPG Cellular</network>
@@ -5126,7 +5126,7 @@
         <mcc>425</mcc>
         <iso>il</iso>
         <country_code>972</country_code>
-        <mnc>12</mnc>
+        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>Pelephone</network>
@@ -5134,7 +5134,7 @@
         <mcc>425</mcc>
         <iso>il</iso>
         <country_code>972</country_code>
-        <mnc>03</mnc>
+        <mnc>12</mnc>
     </carrier>
     <carrier>
         <network>Rami Levy Hashikma Marketing Communications Ltd</network>
@@ -5406,6 +5406,22 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
+        <mnc>77</mnc>
+    </carrier>
+    <carrier>
+        <network>KDDI Corporation</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>08</mnc>
+    </carrier>
+    <carrier>
+        <network>KDDI Corporation</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
         <mnc>72</mnc>
     </carrier>
     <carrier>
@@ -5454,7 +5470,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>50</mnc>
+        <mnc>88</mnc>
     </carrier>
     <carrier>
         <network>KDDI Corporation</network>
@@ -5462,7 +5478,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>88</mnc>
+        <mnc>50</mnc>
     </carrier>
     <carrier>
         <network>KDDI Corporation</network>
@@ -5486,7 +5502,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>51</mnc>
+        <mnc>89</mnc>
     </carrier>
     <carrier>
         <network>KDDI Corporation</network>
@@ -5494,7 +5510,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>89</mnc>
+        <mnc>51</mnc>
     </carrier>
     <carrier>
         <network>KDDI Corporation</network>
@@ -5515,18 +5531,18 @@
     <carrier>
         <network>KDDI Corporation</network>
         <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>52</mnc>
-    </carrier>
-    <carrier>
-        <network>KDDI Corporation</network>
-        <country>Japan</country>
         <mcc>441</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
         <mnc>70</mnc>
+    </carrier>
+    <carrier>
+        <network>KDDI Corporation</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>52</mnc>
     </carrier>
     <carrier>
         <network>KDDI Corporation</network>
@@ -5553,20 +5569,44 @@
         <mnc>53</mnc>
     </carrier>
     <carrier>
-        <network>KDDI Corporation</network>
+        <network>NTT Docomo</network>
         <country>Japan</country>
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>77</mnc>
+        <mnc>28</mnc>
     </carrier>
     <carrier>
-        <network>KDDI Corporation</network>
+        <network>NTT Docomo</network>
         <country>Japan</country>
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>08</mnc>
+        <mnc>03</mnc>
+    </carrier>
+    <carrier>
+        <network>NTT Docomo</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>12</mnc>
+    </carrier>
+    <carrier>
+        <network>NTT Docomo</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>58</mnc>
+    </carrier>
+    <carrier>
+        <network>NTT Docomo</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>32</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5595,10 +5635,18 @@
     <carrier>
         <network>NTT Docomo</network>
         <country>Japan</country>
-        <mcc>440</mcc>
+        <mcc>441</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>32</mnc>
+        <mnc>93</mnc>
+    </carrier>
+    <carrier>
+        <network>NTT Docomo</network>
+        <country>Japan</country>
+        <mcc>441</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>40</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5619,18 +5667,18 @@
     <carrier>
         <network>NTT Docomo</network>
         <country>Japan</country>
-        <mcc>441</mcc>
+        <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>93</mnc>
+        <mnc>29</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
         <country>Japan</country>
-        <mcc>441</mcc>
+        <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>40</mnc>
+        <mnc>09</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5646,15 +5694,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>29</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>09</mnc>
+        <mnc>33</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5683,10 +5723,18 @@
     <carrier>
         <network>NTT Docomo</network>
         <country>Japan</country>
-        <mcc>440</mcc>
+        <mcc>441</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>33</mnc>
+        <mnc>94</mnc>
+    </carrier>
+    <carrier>
+        <network>NTT Docomo</network>
+        <country>Japan</country>
+        <mcc>441</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>41</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5707,18 +5755,18 @@
     <carrier>
         <network>NTT Docomo</network>
         <country>Japan</country>
-        <mcc>441</mcc>
+        <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>94</mnc>
+        <mnc>30</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
         <country>Japan</country>
-        <mcc>441</mcc>
+        <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>41</mnc>
+        <mnc>10</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5742,15 +5790,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>30</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>10</mnc>
+        <mnc>24</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5759,30 +5799,6 @@
         <iso>jp</iso>
         <country_code>81</country_code>
         <mnc>45</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>24</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>68</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>15</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5806,7 +5822,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>63</mnc>
+        <mnc>68</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5814,7 +5830,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>38</mnc>
+        <mnc>15</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5831,6 +5847,30 @@
         <iso>jp</iso>
         <country_code>81</country_code>
         <mnc>11</mnc>
+    </carrier>
+    <carrier>
+        <network>NTT Docomo</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>63</mnc>
+    </carrier>
+    <carrier>
+        <network>NTT Docomo</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>38</mnc>
+    </carrier>
+    <carrier>
+        <network>NTT Docomo</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>13</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5867,10 +5907,18 @@
     <carrier>
         <network>NTT Docomo</network>
         <country>Japan</country>
+        <mcc>441</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>99</mnc>
+    </carrier>
+    <carrier>
+        <network>NTT Docomo</network>
+        <country>Japan</country>
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>13</mnc>
+        <mnc>34</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5891,18 +5939,10 @@
     <carrier>
         <network>NTT Docomo</network>
         <country>Japan</country>
-        <mcc>441</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>99</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>34</mnc>
+        <mnc>25</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5926,7 +5966,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>25</mnc>
+        <mnc>27</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5958,7 +5998,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>27</mnc>
+        <mnc>31</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -5979,10 +6019,10 @@
     <carrier>
         <network>NTT Docomo</network>
         <country>Japan</country>
-        <mcc>440</mcc>
+        <mcc>441</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>31</mnc>
+        <mnc>92</mnc>
     </carrier>
     <carrier>
         <network>NTT Docomo</network>
@@ -6003,46 +6043,6 @@
     <carrier>
         <network>NTT Docomo</network>
         <country>Japan</country>
-        <mcc>441</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>92</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>12</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>58</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>28</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>03</mnc>
-    </carrier>
-    <carrier>
-        <network>NTT Docomo</network>
-        <country>Japan</country>
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
@@ -6055,6 +6055,22 @@
         <iso>jp</iso>
         <country_code>81</country_code>
         <mnc>78</mnc>
+    </carrier>
+    <carrier>
+        <network>SoftBank Mobile Corp</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>92</mnc>
+    </carrier>
+    <carrier>
+        <network>SoftBank Mobile Corp</network>
+        <country>Japan</country>
+        <mcc>440</mcc>
+        <iso>jp</iso>
+        <country_code>81</country_code>
+        <mnc>98</mnc>
     </carrier>
     <carrier>
         <network>SoftBank Mobile Corp</network>
@@ -6227,14 +6243,6 @@
     <carrier>
         <network>SoftBank Mobile Corp</network>
         <country>Japan</country>
-        <mcc>441</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>65</mnc>
-    </carrier>
-    <carrier>
-        <network>SoftBank Mobile Corp</network>
-        <country>Japan</country>
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
@@ -6243,18 +6251,10 @@
     <carrier>
         <network>SoftBank Mobile Corp</network>
         <country>Japan</country>
-        <mcc>440</mcc>
+        <mcc>441</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>92</mnc>
-    </carrier>
-    <carrier>
-        <network>SoftBank Mobile Corp</network>
-        <country>Japan</country>
-        <mcc>440</mcc>
-        <iso>jp</iso>
-        <country_code>81</country_code>
-        <mnc>98</mnc>
+        <mnc>65</mnc>
     </carrier>
     <carrier>
         <network>KDDI Corporation</network>
@@ -6302,7 +6302,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>84</mnc>
+        <mnc>82</mnc>
     </carrier>
     <carrier>
         <network>KDDI Corporation</network>
@@ -6310,7 +6310,7 @@
         <mcc>440</mcc>
         <iso>jp</iso>
         <country_code>81</country_code>
-        <mnc>82</mnc>
+        <mnc>84</mnc>
     </carrier>
     <carrier>
         <network>Orange/Petra</network>
@@ -6942,7 +6942,7 @@
         <mcc>455</mcc>
         <iso>mo</iso>
         <country_code>853</country_code>
-        <mnc>06</mnc>
+        <mnc>00</mnc>
     </carrier>
     <carrier>
         <network>Smartone Mobile</network>
@@ -6950,7 +6950,7 @@
         <mcc>455</mcc>
         <iso>mo</iso>
         <country_code>853</country_code>
-        <mnc>00</mnc>
+        <mnc>06</mnc>
     </carrier>
     <carrier>
         <network>ONE/Cosmofone</network>
@@ -7326,7 +7326,7 @@
         <mcc>334</mcc>
         <iso>mx</iso>
         <country_code>52</country_code>
-        <mnc>030</mnc>
+        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>Movistar/Pegaso</network>
@@ -7334,7 +7334,7 @@
         <mcc>334</mcc>
         <iso>mx</iso>
         <country_code>52</country_code>
-        <mnc>03</mnc>
+        <mnc>030</mnc>
     </carrier>
     <carrier>
         <network>NEXTEL</network>
@@ -7374,7 +7374,7 @@
         <mcc>334</mcc>
         <iso>mx</iso>
         <country_code>52</country_code>
-        <mnc>070</mnc>
+        <mnc>080</mnc>
     </carrier>
     <carrier>
         <network>Operadora Unefon SA de CV</network>
@@ -7382,7 +7382,7 @@
         <mcc>334</mcc>
         <iso>mx</iso>
         <country_code>52</country_code>
-        <mnc>080</mnc>
+        <mnc>070</mnc>
     </carrier>
     <carrier>
         <network>SAI PCS</network>
@@ -7502,7 +7502,7 @@
         <mcc>428</mcc>
         <iso>mn</iso>
         <country_code>976</country_code>
-        <mnc>00</mnc>
+        <mnc>91</mnc>
     </carrier>
     <carrier>
         <network>Skytel Co. Ltd</network>
@@ -7510,7 +7510,7 @@
         <mcc>428</mcc>
         <iso>mn</iso>
         <country_code>976</country_code>
-        <mnc>91</mnc>
+        <mnc>00</mnc>
     </carrier>
     <carrier>
         <network>Unitel</network>
@@ -8102,7 +8102,7 @@
         <mcc>242</mcc>
         <iso>no</iso>
         <country_code>47</country_code>
-        <mnc>21</mnc>
+        <mnc>20</mnc>
     </carrier>
     <carrier>
         <network>Jernbaneverket (GSM-R)</network>
@@ -8110,7 +8110,7 @@
         <mcc>242</mcc>
         <iso>no</iso>
         <country_code>47</country_code>
-        <mnc>20</mnc>
+        <mnc>21</mnc>
     </carrier>
     <carrier>
         <network>Lycamobile Ltd</network>
@@ -8430,7 +8430,7 @@
         <mcc>716</mcc>
         <iso>pe</iso>
         <country_code>51</country_code>
-        <mnc>01</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>GlobalStar</network>
@@ -8438,7 +8438,7 @@
         <mcc>716</mcc>
         <iso>pe</iso>
         <country_code>51</country_code>
-        <mnc>02</mnc>
+        <mnc>01</mnc>
     </carrier>
     <carrier>
         <network>Movistar</network>
@@ -8662,6 +8662,14 @@
         <mcc>260</mcc>
         <iso>pl</iso>
         <country_code>48</country_code>
+        <mnc>13</mnc>
+    </carrier>
+    <carrier>
+        <network>Sferia</network>
+        <country>Poland</country>
+        <mcc>260</mcc>
+        <iso>pl</iso>
+        <country_code>48</country_code>
         <mnc>10</mnc>
     </carrier>
     <carrier>
@@ -8671,14 +8679,6 @@
         <iso>pl</iso>
         <country_code>48</country_code>
         <mnc>14</mnc>
-    </carrier>
-    <carrier>
-        <network>Sferia</network>
-        <country>Poland</country>
-        <mcc>260</mcc>
-        <iso>pl</iso>
-        <country_code>48</country_code>
-        <mnc>13</mnc>
     </carrier>
     <carrier>
         <network>T-Mobile/ERA</network>
@@ -8726,7 +8726,7 @@
         <mcc>268</mcc>
         <iso>pt</iso>
         <country_code>351</country_code>
-        <mnc>07</mnc>
+        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>NOS/Optimus</network>
@@ -8734,7 +8734,7 @@
         <mcc>268</mcc>
         <iso>pt</iso>
         <country_code>351</country_code>
-        <mnc>03</mnc>
+        <mnc>07</mnc>
     </carrier>
     <carrier>
         <network>MEO/TMN</network>
@@ -8758,7 +8758,7 @@
         <mcc>330</mcc>
         <iso>pr</iso>
         <country_code/>
-        <mnc>11</mnc>
+        <mnc>110</mnc>
     </carrier>
     <carrier>
         <network>Puerto Rico Telephone Company Inc. (PRTC)</network>
@@ -8766,7 +8766,7 @@
         <mcc>330</mcc>
         <iso>pr</iso>
         <country_code/>
-        <mnc>110</mnc>
+        <mnc>11</mnc>
     </carrier>
     <carrier>
         <network>Ooredoo/Qtel</network>
@@ -9390,6 +9390,14 @@
         <mcc>525</mcc>
         <iso>sg</iso>
         <country_code>65</country_code>
+        <mnc>02</mnc>
+    </carrier>
+    <carrier>
+        <network>Singtel</network>
+        <country>Singapore</country>
+        <mcc>525</mcc>
+        <iso>sg</iso>
+        <country_code>65</country_code>
         <mnc>01</mnc>
     </carrier>
     <carrier>
@@ -9399,14 +9407,6 @@
         <iso>sg</iso>
         <country_code>65</country_code>
         <mnc>07</mnc>
-    </carrier>
-    <carrier>
-        <network>Singtel</network>
-        <country>Singapore</country>
-        <mcc>525</mcc>
-        <iso>sg</iso>
-        <country_code>65</country_code>
-        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>Starhub</network>
@@ -10102,7 +10102,7 @@
         <mcc>240</mcc>
         <iso>se</iso>
         <country_code>46</country_code>
-        <mnc>35</mnc>
+        <mnc>16</mnc>
     </carrier>
     <carrier>
         <network>42 Telecom AB</network>
@@ -10110,7 +10110,7 @@
         <mcc>240</mcc>
         <iso>se</iso>
         <country_code>46</country_code>
-        <mnc>16</mnc>
+        <mnc>35</mnc>
     </carrier>
     <carrier>
         <network>Beepsend</network>
@@ -10486,6 +10486,14 @@
         <mcc>466</mcc>
         <iso>tw</iso>
         <country_code>886</country_code>
+        <mnc>06</mnc>
+    </carrier>
+    <carrier>
+        <network>Far EasTone</network>
+        <country>Taiwan</country>
+        <mcc>466</mcc>
+        <iso>tw</iso>
+        <country_code>886</country_code>
         <mnc>02</mnc>
     </carrier>
     <carrier>
@@ -10502,14 +10510,6 @@
         <mcc>466</mcc>
         <iso>tw</iso>
         <country_code>886</country_code>
-        <mnc>01</mnc>
-    </carrier>
-    <carrier>
-        <network>Far EasTone</network>
-        <country>Taiwan</country>
-        <mcc>466</mcc>
-        <iso>tw</iso>
-        <country_code>886</country_code>
         <mnc>07</mnc>
     </carrier>
     <carrier>
@@ -10518,7 +10518,7 @@
         <mcc>466</mcc>
         <iso>tw</iso>
         <country_code>886</country_code>
-        <mnc>06</mnc>
+        <mnc>01</mnc>
     </carrier>
     <carrier>
         <network>Global Mobile Corp.</network>
@@ -11206,7 +11206,7 @@
         <mcc>234</mcc>
         <iso>gb</iso>
         <country_code>44</country_code>
-        <mnc>77</mnc>
+        <mnc>76</mnc>
     </carrier>
     <carrier>
         <network>BT Group</network>
@@ -11214,7 +11214,7 @@
         <mcc>234</mcc>
         <iso>gb</iso>
         <country_code>44</country_code>
-        <mnc>76</mnc>
+        <mnc>77</mnc>
     </carrier>
     <carrier>
         <network>Cable and Wireless </network>
@@ -11398,7 +11398,7 @@
         <mcc>234</mcc>
         <iso>gb</iso>
         <country_code>44</country_code>
-        <mnc>33</mnc>
+        <mnc>34</mnc>
     </carrier>
     <carrier>
         <network>Everyth. Ev.wh./Orange</network>
@@ -11406,7 +11406,7 @@
         <mcc>234</mcc>
         <iso>gb</iso>
         <country_code>44</country_code>
-        <mnc>34</mnc>
+        <mnc>33</mnc>
     </carrier>
     <carrier>
         <network>PMN/Teleware</network>
@@ -11622,6 +11622,14 @@
         <mcc>310</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
+        <mnc>410</mnc>
+    </carrier>
+    <carrier>
+        <network>AT&amp;T Wireless Inc.</network>
+        <country>United States</country>
+        <mcc>310</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
         <mnc>380</mnc>
     </carrier>
     <carrier>
@@ -11663,14 +11671,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>560</mnc>
-    </carrier>
-    <carrier>
-        <network>AT&amp;T Wireless Inc.</network>
-        <country>United States</country>
-        <mcc>310</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>410</mnc>
     </carrier>
     <carrier>
         <network>AT&amp;T Wireless Inc.</network>
@@ -11742,6 +11742,38 @@
         <mcc>310</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
+        <mnc>010</mnc>
+    </carrier>
+    <carrier>
+        <network>Verizon Wireless</network>
+        <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>279</mnc>
+    </carrier>
+    <carrier>
+        <network>Verizon Wireless</network>
+        <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>484</mnc>
+    </carrier>
+    <carrier>
+        <network>Verizon Wireless</network>
+        <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>489</mnc>
+    </carrier>
+    <carrier>
+        <network>Verizon Wireless</network>
+        <country>United States</country>
+        <mcc>310</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
         <mnc>910</mnc>
     </carrier>
     <carrier>
@@ -11751,14 +11783,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>284</mnc>
-    </carrier>
-    <carrier>
-        <network>Verizon Wireless</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>489</mnc>
     </carrier>
     <carrier>
         <network>Verizon Wireless</network>
@@ -11803,6 +11827,14 @@
     <carrier>
         <network>Verizon Wireless</network>
         <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>488</mnc>
+    </carrier>
+    <carrier>
+        <network>Verizon Wireless</network>
+        <country>United States</country>
         <mcc>310</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
@@ -11815,14 +11847,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>283</mnc>
-    </carrier>
-    <carrier>
-        <network>Verizon Wireless</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>488</mnc>
     </carrier>
     <carrier>
         <network>Verizon Wireless</network>
@@ -11859,6 +11883,14 @@
     <carrier>
         <network>Verizon Wireless</network>
         <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>487</mnc>
+    </carrier>
+    <carrier>
+        <network>Verizon Wireless</network>
+        <country>United States</country>
         <mcc>310</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
@@ -11871,14 +11903,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>282</mnc>
-    </carrier>
-    <carrier>
-        <network>Verizon Wireless</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>487</mnc>
     </carrier>
     <carrier>
         <network>Verizon Wireless</network>
@@ -11915,6 +11939,14 @@
     <carrier>
         <network>Verizon Wireless</network>
         <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>486</mnc>
+    </carrier>
+    <carrier>
+        <network>Verizon Wireless</network>
+        <country>United States</country>
         <mcc>310</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
@@ -11927,14 +11959,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>281</mnc>
-    </carrier>
-    <carrier>
-        <network>Verizon Wireless</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>486</mnc>
     </carrier>
     <carrier>
         <network>Verizon Wireless</network>
@@ -12023,30 +12047,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>390</mnc>
-    </carrier>
-    <carrier>
-        <network>Verizon Wireless</network>
-        <country>United States</country>
-        <mcc>310</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>010</mnc>
-    </carrier>
-    <carrier>
-        <network>Verizon Wireless</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>279</mnc>
-    </carrier>
-    <carrier>
-        <network>Verizon Wireless</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>484</mnc>
     </carrier>
     <carrier>
         <network>Cellular Network Partnership LLC</network>
@@ -12150,7 +12150,7 @@
         <mcc>310</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
-        <mnc>06</mnc>
+        <mnc>60</mnc>
     </carrier>
     <carrier>
         <network>Consolidated Telcom</network>
@@ -12158,7 +12158,7 @@
         <mcc>310</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
-        <mnc>60</mnc>
+        <mnc>06</mnc>
     </carrier>
     <carrier>
         <network/>
@@ -12502,6 +12502,14 @@
         <mcc>311</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
+        <mnc>920</mnc>
+    </carrier>
+    <carrier>
+        <network>Missouri RSA No 5 Partnership</network>
+        <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
         <mnc>020</mnc>
     </carrier>
     <carrier>
@@ -12527,14 +12535,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>010</mnc>
-    </carrier>
-    <carrier>
-        <network>Missouri RSA No 5 Partnership</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>920</mnc>
     </carrier>
     <carrier>
         <network>Mohave Cellular LP</network>
@@ -12611,18 +12611,18 @@
     <carrier>
         <network>North Dakota Network Company</network>
         <country>United States</country>
-        <mcc>312</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>230</mnc>
-    </carrier>
-    <carrier>
-        <network>North Dakota Network Company</network>
-        <country>United States</country>
         <mcc>311</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>610</mnc>
+    </carrier>
+    <carrier>
+        <network>North Dakota Network Company</network>
+        <country>United States</country>
+        <mcc>312</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>230</mnc>
     </carrier>
     <carrier>
         <network>Northeast Colorado Cellular Inc.</network>
@@ -12843,6 +12843,14 @@
     <carrier>
         <network>Sprint Spectrum</network>
         <country>United States</country>
+        <mcc>316</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>010</mnc>
+    </carrier>
+    <carrier>
+        <network>Sprint Spectrum</network>
+        <country>United States</country>
         <mcc>312</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
@@ -12879,14 +12887,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>120</mnc>
-    </carrier>
-    <carrier>
-        <network>Sprint Spectrum</network>
-        <country>United States</country>
-        <mcc>316</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>010</mnc>
     </carrier>
     <carrier>
         <network>T-Mobile</network>
