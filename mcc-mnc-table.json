@@ -437,7 +437,7 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "90"
+    "mnc": "02"
   }, 
   {
     "network": "Singtel Optus", 
@@ -445,7 +445,7 @@
     "mcc": "505", 
     "iso": "au", 
     "country_code": "61", 
-    "mnc": "02"
+    "mnc": "90"
   }, 
   {
     "network": "Telstra Corp. Ltd.", 
@@ -525,7 +525,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "11"
+    "mnc": "02"
   }, 
   {
     "network": "A1 MobilKom", 
@@ -533,7 +533,7 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
-    "mnc": "02"
+    "mnc": "11"
   }, 
   {
     "network": "A1 MobilKom", 
@@ -605,6 +605,14 @@
     "mcc": "232", 
     "iso": "at", 
     "country_code": "43", 
+    "mnc": "04"
+  }, 
+  {
+    "network": "T-Mobile/Telering", 
+    "country": "Austria", 
+    "mcc": "232", 
+    "iso": "at", 
+    "country_code": "43", 
     "mnc": "03"
   }, 
   {
@@ -614,14 +622,6 @@
     "iso": "at", 
     "country_code": "43", 
     "mnc": "07"
-  }, 
-  {
-    "network": "T-Mobile/Telering", 
-    "country": "Austria", 
-    "mcc": "232", 
-    "iso": "at", 
-    "country_code": "43", 
-    "mnc": "04"
   }, 
   {
     "network": "Tele2", 
@@ -2165,7 +2165,7 @@
     "mcc": "732", 
     "iso": "co", 
     "country_code": "57", 
-    "mnc": "020"
+    "mnc": "142"
   }, 
   {
     "network": "UNE EPM Telecomunicaciones SA ESP", 
@@ -2173,7 +2173,7 @@
     "mcc": "732", 
     "iso": "co", 
     "country_code": "57", 
-    "mnc": "142"
+    "mnc": "020"
   }, 
   {
     "network": "Virgin Mobile Colombia SAS", 
@@ -2853,7 +2853,7 @@
     "mcc": "244", 
     "iso": "fi", 
     "country_code": "358", 
-    "mnc": "12"
+    "mnc": "13"
   }, 
   {
     "network": "DNA/Finnet", 
@@ -2861,7 +2861,7 @@
     "mcc": "244", 
     "iso": "fi", 
     "country_code": "358", 
-    "mnc": "13"
+    "mnc": "12"
   }, 
   {
     "network": "DNA/Finnet", 
@@ -3093,7 +3093,7 @@
     "mcc": "208", 
     "iso": "fr", 
     "country_code": "33", 
-    "mnc": "89"
+    "mnc": "23"
   }, 
   {
     "network": "Virgin Mobile/Omer", 
@@ -3101,7 +3101,7 @@
     "mcc": "208", 
     "iso": "fr", 
     "country_code": "33", 
-    "mnc": "23"
+    "mnc": "89"
   }, 
   {
     "network": "Orange", 
@@ -3117,7 +3117,7 @@
     "mcc": "208", 
     "iso": "fr", 
     "country_code": "33", 
-    "mnc": "01"
+    "mnc": "91"
   }, 
   {
     "network": "Orange", 
@@ -3125,7 +3125,7 @@
     "mcc": "208", 
     "iso": "fr", 
     "country_code": "33", 
-    "mnc": "91"
+    "mnc": "01"
   }, 
   {
     "network": "S.F.R.", 
@@ -3493,6 +3493,14 @@
     "mcc": "262", 
     "iso": "de", 
     "country_code": "49", 
+    "mnc": "04"
+  }, 
+  {
+    "network": "Vodafone D2", 
+    "country": "Germany", 
+    "mcc": "262", 
+    "iso": "de", 
+    "country_code": "49", 
     "mnc": "42"
   }, 
   {
@@ -3510,14 +3518,6 @@
     "iso": "de", 
     "country_code": "49", 
     "mnc": "09"
-  }, 
-  {
-    "network": "Vodafone D2", 
-    "country": "Germany", 
-    "mcc": "262", 
-    "iso": "de", 
-    "country_code": "49", 
-    "mnc": "04"
   }, 
   {
     "network": "Expresso Ghana Ltd", 
@@ -4061,7 +4061,7 @@
     "mcc": "454", 
     "iso": "hk", 
     "country_code": "852", 
-    "mnc": "16"
+    "mnc": "19"
   }, 
   {
     "network": "HKT/PCCW", 
@@ -4069,7 +4069,7 @@
     "mcc": "454", 
     "iso": "hk", 
     "country_code": "852", 
-    "mnc": "19"
+    "mnc": "16"
   }, 
   {
     "network": "shared by private TETRA systems", 
@@ -5245,6 +5245,14 @@
     "mcc": "222", 
     "iso": "it", 
     "country_code": "39", 
+    "mnc": "48"
+  }, 
+  {
+    "network": "Telecom Italia Mobile SpA", 
+    "country": "Italy", 
+    "mcc": "222", 
+    "iso": "it", 
+    "country_code": "39", 
     "mnc": "43"
   }, 
   {
@@ -5254,14 +5262,6 @@
     "iso": "it", 
     "country_code": "39", 
     "mnc": "01"
-  }, 
-  {
-    "network": "Telecom Italia Mobile SpA", 
-    "country": "Italy", 
-    "mcc": "222", 
-    "iso": "it", 
-    "country_code": "39", 
-    "mnc": "48"
   }, 
   {
     "network": "Vodafone", 
@@ -5398,6 +5398,14 @@
     "iso": "jp", 
     "country_code": "81", 
     "mnc": "00"
+  }, 
+  {
+    "network": "KDDI Corporation", 
+    "country": "Japan", 
+    "mcc": "440", 
+    "iso": "jp", 
+    "country_code": "81", 
+    "mnc": "56"
   }, 
   {
     "network": "KDDI Corporation", 
@@ -5558,14 +5566,6 @@
     "iso": "jp", 
     "country_code": "81", 
     "mnc": "75"
-  }, 
-  {
-    "network": "KDDI Corporation", 
-    "country": "Japan", 
-    "mcc": "440", 
-    "iso": "jp", 
-    "country_code": "81", 
-    "mnc": "56"
   }, 
   {
     "network": "NTT Docomo", 
@@ -7709,6 +7709,14 @@
     "mcc": "204", 
     "iso": "nl", 
     "country_code": "31", 
+    "mnc": "08"
+  }, 
+  {
+    "network": "KPN Telecom B.V.", 
+    "country": "Netherlands", 
+    "mcc": "204", 
+    "iso": "nl", 
+    "country_code": "31", 
     "mnc": "69"
   }, 
   {
@@ -7718,14 +7726,6 @@
     "iso": "nl", 
     "country_code": "31", 
     "mnc": "10"
-  }, 
-  {
-    "network": "KPN Telecom B.V.", 
-    "country": "Netherlands", 
-    "mcc": "204", 
-    "iso": "nl", 
-    "country_code": "31", 
-    "mnc": "08"
   }, 
   {
     "network": "KPN/Telfort", 
@@ -8485,7 +8485,7 @@
     "mcc": "515", 
     "iso": "ph", 
     "country_code": "63", 
-    "mnc": "02"
+    "mnc": "01"
   }, 
   {
     "network": "Globe Telecom", 
@@ -8493,7 +8493,7 @@
     "mcc": "515", 
     "iso": "ph", 
     "country_code": "63", 
-    "mnc": "01"
+    "mnc": "02"
   }, 
   {
     "network": "Next Mobile", 
@@ -10544,6 +10544,14 @@
     "mnc": "88"
   }, 
   {
+    "network": "TransAsia", 
+    "country": "Taiwan", 
+    "mcc": "466", 
+    "iso": "tw", 
+    "country_code": "886", 
+    "mnc": "99"
+  }, 
+  {
     "network": "Taiwan Cellular", 
     "country": "Taiwan", 
     "mcc": "466", 
@@ -10558,14 +10566,6 @@
     "iso": "tw", 
     "country_code": "886", 
     "mnc": "93"
-  }, 
-  {
-    "network": "TransAsia", 
-    "country": "Taiwan", 
-    "mcc": "466", 
-    "iso": "tw", 
-    "country_code": "886", 
-    "mnc": "99"
   }, 
   {
     "network": "T-Star/VIBO", 
@@ -10901,7 +10901,7 @@
     "mcc": "605", 
     "iso": "tn", 
     "country_code": "216", 
-    "mnc": "02"
+    "mnc": "06"
   }, 
   {
     "network": "TuniCell/Tunisia Telecom", 
@@ -10909,7 +10909,7 @@
     "mcc": "605", 
     "iso": "tn", 
     "country_code": "216", 
-    "mnc": "06"
+    "mnc": "02"
   }, 
   {
     "network": "AVEA/Aria", 
@@ -11170,6 +11170,14 @@
   {
     "network": "Etisalat", 
     "country": "United Arab Emirates", 
+    "mcc": "431", 
+    "iso": "ae", 
+    "country_code": "971", 
+    "mnc": "02"
+  }, 
+  {
+    "network": "Etisalat", 
+    "country": "United Arab Emirates", 
     "mcc": "430", 
     "iso": "ae", 
     "country_code": "971", 
@@ -11179,14 +11187,6 @@
     "network": "Etisalat", 
     "country": "United Arab Emirates", 
     "mcc": "424", 
-    "iso": "ae", 
-    "country_code": "971", 
-    "mnc": "02"
-  }, 
-  {
-    "network": "Etisalat", 
-    "country": "United Arab Emirates", 
-    "mcc": "431", 
     "iso": "ae", 
     "country_code": "971", 
     "mnc": "02"
