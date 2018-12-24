@@ -214,9 +214,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 302,770,760,1888,ca,Canada,1,Public Mobile
 302,770,657,1623,ca,Canada,1,Quebectel Mobility
 302,770,720,1824,ca,Canada,1,Rogers AT&T Wireless
+302,770,780,1920,ca,Canada,1,Sask Tel Mobility
 302,770,680,1664,ca,Canada,1,Sask Tel Mobility
 302,770,654,1620,ca,Canada,1,Sask Tel Mobility
-302,770,780,1920,ca,Canada,1,Sask Tel Mobility
 302,770,656,1622,ca,Canada,1,Tbay Mobility
 302,770,220,544,ca,Canada,1,Telus Mobility
 302,770,653,1619,ca,Canada,1,Telus Mobility
@@ -423,8 +423,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 262,610,77,1919,de,Germany,49,E-Plus
 262,610,03,63,de,Germany,49,E-Plus
 262,610,05,95,de,Germany,49,E-Plus
-262,610,20,527,de,Germany,49,E-Plus
 262,610,12,303,de,Germany,49,E-Plus
+262,610,20,527,de,Germany,49,E-Plus
 262,610,14,335,de,Germany,49,Group 3G UMTS
 262,610,43,1087,de,Germany,49,Lycamobile
 262,610,13,319,de,Germany,49,Mobilcom
@@ -639,8 +639,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 425,1061,77,1919,il,Israel,972,Hot Mobile/Mirs
 425,1061,07,127,il,Israel,972,Hot Mobile/Mirs
 425,1061,01,31,il,Israel,972,Orange/Partner Co. Ltd.
-425,1061,12,303,il,Israel,972,Pelephone
 425,1061,03,63,il,Israel,972,Pelephone
+425,1061,12,303,il,Israel,972,Pelephone
 425,1061,16,367,il,Israel,972,Rami Levy Hashikma Marketing Communications Ltd
 425,1061,19,415,il,Israel,972,Telzar/AZI
 222,546,34,847,it,Italy,39,BT Italia SpA
@@ -918,8 +918,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 334,820,03,63,mx,Mexico,52,Movistar/Pegaso
 334,820,090,144,mx,Mexico,52,NEXTEL
 334,820,010,16,mx,Mexico,52,NEXTEL
-334,820,09,159,mx,Mexico,52,NEXTEL
 334,820,01,31,mx,Mexico,52,NEXTEL
+334,820,09,159,mx,Mexico,52,NEXTEL
 334,820,080,128,mx,Mexico,52,Operadora Unefon SA de CV
 334,820,070,112,mx,Mexico,52,Operadora Unefon SA de CV
 334,820,060,96,mx,Mexico,52,SAI PCS
@@ -1346,8 +1346,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 520,1312,00,15,th,Thailand,66,Hutch/CAT CDMA
 520,1312,05,95,th,Thailand,66,Total Access (DTAC)
 520,1312,18,399,th,Thailand,66,Total Access (DTAC)
-520,1312,99,2463,th,Thailand,66,True Move/Orange
 520,1312,04,79,th,Thailand,66,True Move/Orange
+520,1312,99,2463,th,Thailand,66,True Move/Orange
 514,1300,01,31,tp,Timor-Leste,670,Telin/ Telkomcel
 514,1300,02,47,tp,Timor-Leste,670,Timor Telecom
 615,1557,02,47,tg,Togo,228,Telecel/MOOV
@@ -1355,8 +1355,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 615,1557,01,31,tg,Togo,228,Togo Telecom/TogoCELL
 539,1337,43,1087,to,Tonga,676,Shoreline Communication
 539,1337,01,31,to,Tonga,676,Tonga Communications
-374,884,120,288,tt,Trinidad and Tobago,1868,Bmobile/TSTT
 374,884,12,303,tt,Trinidad and Tobago,1868,Bmobile/TSTT
+374,884,120,288,tt,Trinidad and Tobago,1868,Bmobile/TSTT
 374,884,130,304,tt,Trinidad and Tobago,1868,Digicel
 374,884,140,320,tt,Trinidad and Tobago,1868,LaqTel Ltd.
 605,1541,01,31,tn,Tunisia,216,Orange
@@ -1451,13 +1451,13 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 312,786,090,144,us,United States,1,Allied Wireless Communications Corporation
 311,785,130,304,us,United States,1,
 310,784,710,1808,us,United States,1,Arctic Slope Telephone Association Cooperative Inc.
+310,784,070,112,us,United States,1,AT&T Wireless Inc.
 310,784,560,1376,us,United States,1,AT&T Wireless Inc.
 310,784,410,1040,us,United States,1,AT&T Wireless Inc.
 310,784,380,896,us,United States,1,AT&T Wireless Inc.
 310,784,170,368,us,United States,1,AT&T Wireless Inc.
 310,784,150,336,us,United States,1,AT&T Wireless Inc.
 310,784,680,1664,us,United States,1,AT&T Wireless Inc.
-310,784,070,112,us,United States,1,AT&T Wireless Inc.
 310,784,980,2432,us,United States,1,AT&T Wireless Inc.
 311,785,810,2064,us,United States,1,Bluegrass Wireless LLC
 311,785,800,2048,us,United States,1,Bluegrass Wireless LLC
@@ -1466,45 +1466,45 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 311,785,590,1424,us,United States,1,California RSA No. 3 Limited Partnership
 311,785,500,1280,us,United States,1,Cambridge Telephone Company Inc.
 310,784,830,2096,us,United States,1,Caprock Cellular Ltd.
-311,785,280,640,us,United States,1,Verizon Wireless
+311,785,275,629,us,United States,1,Verizon Wireless
+311,785,480,1152,us,United States,1,Verizon Wireless
 311,785,485,1157,us,United States,1,Verizon Wireless
 310,784,012,18,us,United States,1,Verizon Wireless
-311,785,285,645,us,United States,1,Verizon Wireless
+311,785,280,640,us,United States,1,Verizon Wireless
 311,785,110,272,us,United States,1,Verizon Wireless
-311,785,390,912,us,United States,1,Verizon Wireless
+311,785,285,645,us,United States,1,Verizon Wireless
 311,785,274,628,us,United States,1,Verizon Wireless
-311,785,279,633,us,United States,1,Verizon Wireless
+311,785,390,912,us,United States,1,Verizon Wireless
 311,785,484,1156,us,United States,1,Verizon Wireless
 310,784,010,16,us,United States,1,Verizon Wireless
-311,785,284,644,us,United States,1,Verizon Wireless
+311,785,279,633,us,United States,1,Verizon Wireless
 311,785,489,1161,us,United States,1,Verizon Wireless
 310,784,910,2320,us,United States,1,Verizon Wireless
-311,785,289,649,us,United States,1,Verizon Wireless
+311,785,284,644,us,United States,1,Verizon Wireless
 311,785,273,627,us,United States,1,Verizon Wireless
+311,785,289,649,us,United States,1,Verizon Wireless
+310,784,004,4,us,United States,1,Verizon Wireless
 311,785,278,632,us,United States,1,Verizon Wireless
 311,785,483,1155,us,United States,1,Verizon Wireless
-310,784,004,4,us,United States,1,Verizon Wireless
-311,785,283,643,us,United States,1,Verizon Wireless
 311,785,488,1160,us,United States,1,Verizon Wireless
 310,784,890,2192,us,United States,1,Verizon Wireless
-311,785,288,648,us,United States,1,Verizon Wireless
+311,785,283,643,us,United States,1,Verizon Wireless
 311,785,272,626,us,United States,1,Verizon Wireless
-311,785,482,1154,us,United States,1,Verizon Wireless
+311,785,288,648,us,United States,1,Verizon Wireless
 311,785,277,631,us,United States,1,Verizon Wireless
-311,785,282,642,us,United States,1,Verizon Wireless
+311,785,482,1154,us,United States,1,Verizon Wireless
 311,785,487,1159,us,United States,1,Verizon Wireless
 310,784,590,1424,us,United States,1,Verizon Wireless
-311,785,287,647,us,United States,1,Verizon Wireless
+311,785,282,642,us,United States,1,Verizon Wireless
 311,785,271,625,us,United States,1,Verizon Wireless
-311,785,481,1153,us,United States,1,Verizon Wireless
+311,785,287,647,us,United States,1,Verizon Wireless
 311,785,276,630,us,United States,1,Verizon Wireless
-311,785,281,641,us,United States,1,Verizon Wireless
+311,785,481,1153,us,United States,1,Verizon Wireless
 311,785,486,1158,us,United States,1,Verizon Wireless
 310,784,013,19,us,United States,1,Verizon Wireless
-311,785,286,646,us,United States,1,Verizon Wireless
+311,785,281,641,us,United States,1,Verizon Wireless
 311,785,270,624,us,United States,1,Verizon Wireless
-311,785,480,1152,us,United States,1,Verizon Wireless
-311,785,275,629,us,United States,1,Verizon Wireless
+311,785,286,646,us,United States,1,Verizon Wireless
 310,784,360,864,us,United States,1,Cellular Network Partnership LLC
 312,786,280,640,us,United States,1,Cellular Network Partnership LLC
 312,786,270,624,us,United States,1,Cellular Network Partnership LLC
@@ -1539,8 +1539,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 311,785,210,528,us,United States,1,
 311,785,311,785,us,United States,1,Farmers
 311,785,460,1120,us,United States,1,Fisher Wireless Services Inc.
-311,785,370,880,us,United States,1,GCI Communication Corp.
 310,784,430,1072,us,United States,1,GCI Communication Corp.
+311,785,370,880,us,United States,1,GCI Communication Corp.
 310,784,920,2336,us,United States,1,Get Mobile Inc.
 310,784,970,2416,us,United States,1,
 311,785,340,832,us,United States,1,Illinois Valley Cellular RSA 2 Partnership
@@ -1591,8 +1591,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 310,784,790,1936,us,United States,1,
 310,784,100,256,us,United States,1,Plateau Telecommunications Inc.
 310,784,940,2368,us,United States,1,Poka Lambro Telco Ltd.
-311,785,540,1344,us,United States,1,
 311,785,730,1840,us,United States,1,
+311,785,540,1344,us,United States,1,
 310,784,500,1280,us,United States,1,Public Service Cellular Inc.
 312,786,160,352,us,United States,1,RSA 1 Limited Partnership
 311,785,430,1072,us,United States,1,RSA 1 Limited Partnership
@@ -1604,12 +1604,12 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 310,784,15,351,us,United States,1,Unknown
 316,790,011,17,us,United States,1,Southern Communications Services Inc.
 312,786,530,1328,us,United States,1,Sprint Spectrum
+311,785,490,1168,us,United States,1,Sprint Spectrum
 310,784,120,288,us,United States,1,Sprint Spectrum
 316,790,010,16,us,United States,1,Sprint Spectrum
 312,786,190,400,us,United States,1,Sprint Spectrum
 311,785,880,2176,us,United States,1,Sprint Spectrum
 311,785,870,2160,us,United States,1,Sprint Spectrum
-311,785,490,1168,us,United States,1,Sprint Spectrum
 310,784,160,352,us,United States,1,T-Mobile
 310,784,240,576,us,United States,1,T-Mobile
 310,784,660,1632,us,United States,1,T-Mobile
@@ -1639,8 +1639,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 311,785,860,2144,us,United States,1,Uintah Basin Electronics Telecommunications Inc.
 310,784,960,2400,us,United States,1,Uintah Basin Electronics Telecommunications Inc.
 310,784,020,32,us,United States,1,Union Telephone Co.
-311,785,220,544,us,United States,1,United States Cellular Corp.
 310,784,730,1840,us,United States,1,United States Cellular Corp.
+311,785,220,544,us,United States,1,United States Cellular Corp.
 311,785,650,1616,us,United States,1,United Wireless Communications Inc.
 310,784,38,911,us,United States,1,USA 3650 AT&T
 310,784,520,1312,us,United States,1,VeriSign
