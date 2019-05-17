@@ -390,9 +390,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 208,520,91,2335,fr,France,33,Orange
 208,520,02,47,fr,France,33,Orange
 208,520,01,31,fr,France,33,Orange
-208,520,11,287,fr,France,33,S.F.R.
 208,520,10,271,fr,France,33,S.F.R.
 208,520,09,159,fr,France,33,S.F.R.
+208,520,11,287,fr,France,33,S.F.R.
 208,520,13,319,fr,France,33,S.F.R.
 208,520,04,79,fr,France,33,SISTEER
 208,520,00,15,fr,France,33,Tel/Tel
@@ -489,8 +489,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 708,1800,030,48,hn,Honduras,504,HonduTel
 708,1800,001,1,hn,Honduras,504,SERCOM/CLARO
 708,1800,002,2,hn,Honduras,504,Telefonica/CELTEL
-454,1108,28,655,hk,Hongkong China,852,China Mobile/Peoples
 454,1108,13,319,hk,Hongkong China,852,China Mobile/Peoples
+454,1108,28,655,hk,Hongkong China,852,China Mobile/Peoples
 454,1108,12,303,hk,Hongkong China,852,China Mobile/Peoples
 454,1108,09,159,hk,Hongkong China,852,China Motion
 454,1108,07,127,hk,Hongkong China,852,China Unicom Ltd
@@ -524,9 +524,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 274,628,01,31,is,Iceland,354,Siminn
 274,628,11,287,is,Iceland,354,NOVA
 274,628,04,79,is,Iceland,354,VIKING/IMC
-274,628,03,63,is,Iceland,354,Vodafone/Tal hf
 274,628,05,95,is,Iceland,354,Vodafone/Tal hf
 274,628,02,47,is,Iceland,354,Vodafone/Tal hf
+274,628,03,63,is,Iceland,354,Vodafone/Tal hf
 404,1028,28,655,in,India,91,Aircel
 404,1028,25,607,in,India,91,Aircel
 404,1028,17,383,in,India,91,Aircel
@@ -539,8 +539,6 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 405,1029,53,1343,in,India,91,AirTel
 404,1028,86,2159,in,India,91,Barakhamba Sales & Serv.
 404,1028,13,319,in,India,91,Barakhamba Sales & Serv.
-404,1028,64,1615,in,India,91,BSNL
-404,1028,54,1359,in,India,91,BSNL
 404,1028,71,1823,in,India,91,BSNL
 404,1028,76,1903,in,India,91,BSNL
 404,1028,62,1583,in,India,91,BSNL
@@ -560,6 +558,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 404,1028,55,1375,in,India,91,BSNL
 404,1028,72,1839,in,India,91,BSNL
 404,1028,77,1919,in,India,91,BSNL
+404,1028,64,1615,in,India,91,BSNL
+404,1028,54,1359,in,India,91,BSNL
 404,1028,10,271,in,India,91,Bharti Airtel Limited (Delhi)
 404,1028,045,69,in,India,91,Bharti Airtel Limited (Karnataka) (India)
 404,1028,79,1951,in,India,91,CellOne A&N
