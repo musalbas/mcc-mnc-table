@@ -318,7 +318,7 @@
         <mcc>363</mcc>
         <iso>aw</iso>
         <country_code>297</country_code>
-        <mnc>02</mnc>
+        <mnc>20</mnc>
     </carrier>
     <carrier>
         <network>Digicel</network>
@@ -326,7 +326,7 @@
         <mcc>363</mcc>
         <iso>aw</iso>
         <country_code>297</country_code>
-        <mnc>20</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>Setar GSM</network>
@@ -7054,6 +7054,14 @@
         <mcc>502</mcc>
         <iso>my</iso>
         <country_code>60</country_code>
+        <mnc>198</mnc>
+    </carrier>
+    <carrier>
+        <network>CelCom</network>
+        <country>Malaysia</country>
+        <mcc>502</mcc>
+        <iso>my</iso>
+        <country_code>60</country_code>
         <mnc>19</mnc>
     </carrier>
     <carrier>
@@ -7063,14 +7071,6 @@
         <iso>my</iso>
         <country_code>60</country_code>
         <mnc>13</mnc>
-    </carrier>
-    <carrier>
-        <network>CelCom</network>
-        <country>Malaysia</country>
-        <mcc>502</mcc>
-        <iso>my</iso>
-        <country_code>60</country_code>
-        <mnc>198</mnc>
     </carrier>
     <carrier>
         <network>Digi Telecommunications</network>
@@ -7342,7 +7342,7 @@
         <mcc>334</mcc>
         <iso>mx</iso>
         <country_code>52</country_code>
-        <mnc>09</mnc>
+        <mnc>090</mnc>
     </carrier>
     <carrier>
         <network>NEXTEL</network>
@@ -7350,7 +7350,7 @@
         <mcc>334</mcc>
         <iso>mx</iso>
         <country_code>52</country_code>
-        <mnc>090</mnc>
+        <mnc>09</mnc>
     </carrier>
     <carrier>
         <network>NEXTEL</network>
@@ -11622,6 +11622,14 @@
         <mcc>310</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
+        <mnc>170</mnc>
+    </carrier>
+    <carrier>
+        <network>AT&amp;T Wireless Inc.</network>
+        <country>United States</country>
+        <mcc>310</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
         <mnc>150</mnc>
     </carrier>
     <carrier>
@@ -11663,14 +11671,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>380</mnc>
-    </carrier>
-    <carrier>
-        <network>AT&amp;T Wireless Inc.</network>
-        <country>United States</country>
-        <mcc>310</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>170</mnc>
     </carrier>
     <carrier>
         <network>AT&amp;T Wireless Inc.</network>
@@ -11735,6 +11735,22 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>830</mnc>
+    </carrier>
+    <carrier>
+        <network>Verizon Wireless</network>
+        <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>482</mnc>
+    </carrier>
+    <carrier>
+        <network>Verizon Wireless</network>
+        <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>277</mnc>
     </carrier>
     <carrier>
         <network>Verizon Wireless</network>
@@ -12033,22 +12049,6 @@
         <mnc>272</mnc>
     </carrier>
     <carrier>
-        <network>Verizon Wireless</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>482</mnc>
-    </carrier>
-    <carrier>
-        <network>Verizon Wireless</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>277</mnc>
-    </carrier>
-    <carrier>
         <network>Cellular Network Partnership LLC</network>
         <country>United States</country>
         <mcc>312</mcc>
@@ -12171,18 +12171,18 @@
     <carrier>
         <network/>
         <country>United States</country>
-        <mcc>312</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>380</mnc>
-    </carrier>
-    <carrier>
-        <network/>
-        <country>United States</country>
         <mcc>310</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>930</mnc>
+    </carrier>
+    <carrier>
+        <network/>
+        <country>United States</country>
+        <mcc>312</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>380</mnc>
     </carrier>
     <carrier>
         <network/>
@@ -12499,6 +12499,14 @@
     <carrier>
         <network>Missouri RSA No 5 Partnership</network>
         <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>010</mnc>
+    </carrier>
+    <carrier>
+        <network>Missouri RSA No 5 Partnership</network>
+        <country>United States</country>
         <mcc>312</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
@@ -12527,14 +12535,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>020</mnc>
-    </carrier>
-    <carrier>
-        <network>Missouri RSA No 5 Partnership</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>010</mnc>
     </carrier>
     <carrier>
         <network>Mohave Cellular LP</network>
@@ -12763,18 +12763,18 @@
     <carrier>
         <network>RSA 1 Limited Partnership</network>
         <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>430</mnc>
-    </carrier>
-    <carrier>
-        <network>RSA 1 Limited Partnership</network>
-        <country>United States</country>
         <mcc>312</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>160</mnc>
+    </carrier>
+    <carrier>
+        <network>RSA 1 Limited Partnership</network>
+        <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
+        <mnc>430</mnc>
     </carrier>
     <carrier>
         <network>Sagebrush Cellular Inc.</network>
@@ -12846,6 +12846,14 @@
         <mcc>311</mcc>
         <iso>us</iso>
         <country_code>1</country_code>
+        <mnc>880</mnc>
+    </carrier>
+    <carrier>
+        <network>Sprint Spectrum</network>
+        <country>United States</country>
+        <mcc>311</mcc>
+        <iso>us</iso>
+        <country_code>1</country_code>
         <mnc>870</mnc>
     </carrier>
     <carrier>
@@ -12879,14 +12887,6 @@
         <iso>us</iso>
         <country_code>1</country_code>
         <mnc>190</mnc>
-    </carrier>
-    <carrier>
-        <network>Sprint Spectrum</network>
-        <country>United States</country>
-        <mcc>311</mcc>
-        <iso>us</iso>
-        <country_code>1</country_code>
-        <mnc>880</mnc>
     </carrier>
     <carrier>
         <network>T-Mobile</network>
