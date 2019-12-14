@@ -317,7 +317,7 @@
     "mcc": "363", 
     "iso": "aw", 
     "country_code": "297", 
-    "mnc": "20"
+    "mnc": "02"
   }, 
   {
     "network": "Digicel", 
@@ -325,7 +325,7 @@
     "mcc": "363", 
     "iso": "aw", 
     "country_code": "297", 
-    "mnc": "02"
+    "mnc": "20"
   }, 
   {
     "network": "Setar GSM", 
@@ -7053,14 +7053,6 @@
     "mcc": "502", 
     "iso": "my", 
     "country_code": "60", 
-    "mnc": "198"
-  }, 
-  {
-    "network": "CelCom", 
-    "country": "Malaysia", 
-    "mcc": "502", 
-    "iso": "my", 
-    "country_code": "60", 
     "mnc": "19"
   }, 
   {
@@ -7070,6 +7062,14 @@
     "iso": "my", 
     "country_code": "60", 
     "mnc": "13"
+  }, 
+  {
+    "network": "CelCom", 
+    "country": "Malaysia", 
+    "mcc": "502", 
+    "iso": "my", 
+    "country_code": "60", 
+    "mnc": "198"
   }, 
   {
     "network": "Digi Telecommunications", 
@@ -7341,7 +7341,7 @@
     "mcc": "334", 
     "iso": "mx", 
     "country_code": "52", 
-    "mnc": "090"
+    "mnc": "09"
   }, 
   {
     "network": "NEXTEL", 
@@ -7349,7 +7349,7 @@
     "mcc": "334", 
     "iso": "mx", 
     "country_code": "52", 
-    "mnc": "09"
+    "mnc": "090"
   }, 
   {
     "network": "NEXTEL", 
@@ -11621,14 +11621,6 @@
     "mcc": "310", 
     "iso": "us", 
     "country_code": "1", 
-    "mnc": "170"
-  }, 
-  {
-    "network": "AT&T Wireless Inc.", 
-    "country": "United States", 
-    "mcc": "310", 
-    "iso": "us", 
-    "country_code": "1", 
     "mnc": "150"
   }, 
   {
@@ -11670,6 +11662,14 @@
     "iso": "us", 
     "country_code": "1", 
     "mnc": "380"
+  }, 
+  {
+    "network": "AT&T Wireless Inc.", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "170"
   }, 
   {
     "network": "AT&T Wireless Inc.", 
@@ -11734,22 +11734,6 @@
     "iso": "us", 
     "country_code": "1", 
     "mnc": "830"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "482"
-  }, 
-  {
-    "network": "Verizon Wireless", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "277"
   }, 
   {
     "network": "Verizon Wireless", 
@@ -12048,6 +12032,22 @@
     "mnc": "272"
   }, 
   {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "482"
+  }, 
+  {
+    "network": "Verizon Wireless", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "277"
+  }, 
+  {
     "network": "Cellular Network Partnership LLC", 
     "country": "United States", 
     "mcc": "312", 
@@ -12170,18 +12170,18 @@
   {
     "network": "", 
     "country": "United States", 
-    "mcc": "310", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "930"
-  }, 
-  {
-    "network": "", 
-    "country": "United States", 
     "mcc": "312", 
     "iso": "us", 
     "country_code": "1", 
     "mnc": "380"
+  }, 
+  {
+    "network": "", 
+    "country": "United States", 
+    "mcc": "310", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "930"
   }, 
   {
     "network": "", 
@@ -12498,14 +12498,6 @@
   {
     "network": "Missouri RSA No 5 Partnership", 
     "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "010"
-  }, 
-  {
-    "network": "Missouri RSA No 5 Partnership", 
-    "country": "United States", 
     "mcc": "312", 
     "iso": "us", 
     "country_code": "1", 
@@ -12534,6 +12526,14 @@
     "iso": "us", 
     "country_code": "1", 
     "mnc": "020"
+  }, 
+  {
+    "network": "Missouri RSA No 5 Partnership", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "010"
   }, 
   {
     "network": "Mohave Cellular LP", 
@@ -12762,18 +12762,18 @@
   {
     "network": "RSA 1 Limited Partnership", 
     "country": "United States", 
-    "mcc": "312", 
-    "iso": "us", 
-    "country_code": "1", 
-    "mnc": "160"
-  }, 
-  {
-    "network": "RSA 1 Limited Partnership", 
-    "country": "United States", 
     "mcc": "311", 
     "iso": "us", 
     "country_code": "1", 
     "mnc": "430"
+  }, 
+  {
+    "network": "RSA 1 Limited Partnership", 
+    "country": "United States", 
+    "mcc": "312", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "160"
   }, 
   {
     "network": "Sagebrush Cellular Inc.", 
@@ -12845,14 +12845,6 @@
     "mcc": "311", 
     "iso": "us", 
     "country_code": "1", 
-    "mnc": "880"
-  }, 
-  {
-    "network": "Sprint Spectrum", 
-    "country": "United States", 
-    "mcc": "311", 
-    "iso": "us", 
-    "country_code": "1", 
     "mnc": "870"
   }, 
   {
@@ -12886,6 +12878,14 @@
     "iso": "us", 
     "country_code": "1", 
     "mnc": "190"
+  }, 
+  {
+    "network": "Sprint Spectrum", 
+    "country": "United States", 
+    "mcc": "311", 
+    "iso": "us", 
+    "country_code": "1", 
+    "mnc": "880"
   }, 
   {
     "network": "T-Mobile", 
