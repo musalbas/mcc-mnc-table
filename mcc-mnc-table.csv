@@ -582,13 +582,13 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 404,1028,69,1695,in,India,91,Mahanagar Telephone Nigam
 404,1028,68,1679,in,India,91,Mahanagar Telephone Nigam
 404,1028,83,2111,in,India,91,Reliable Internet Services
-404,1028,50,1295,in,India,91,Reliance Telecom Private
 404,1028,67,1663,in,India,91,Reliance Telecom Private
 404,1028,18,399,in,India,91,Reliance Telecom Private
 404,1028,85,2143,in,India,91,Reliance Telecom Private
 404,1028,09,159,in,India,91,Reliance Telecom Private
 404,1028,36,879,in,India,91,Reliance Telecom Private
 404,1028,52,1327,in,India,91,Reliance Telecom Private
+404,1028,50,1295,in,India,91,Reliance Telecom Private
 404,1028,41,1055,in,India,91,RPG Cellular
 404,1028,14,335,in,India,91,Spice
 404,1028,44,1103,in,India,91,Spice
@@ -695,10 +695,6 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,56,1391,jp,Japan,81,KDDI Corporation
 440,1088,52,1327,jp,Japan,81,KDDI Corporation
 441,1089,70,1807,jp,Japan,81,KDDI Corporation
-441,1089,43,1087,jp,Japan,81,NTT Docomo
-440,1088,27,639,jp,Japan,81,NTT Docomo
-440,1088,02,47,jp,Japan,81,NTT Docomo
-440,1088,22,559,jp,Japan,81,NTT Docomo
 440,1088,31,799,jp,Japan,81,NTT Docomo
 440,1088,87,2175,jp,Japan,81,NTT Docomo
 440,1088,17,383,jp,Japan,81,NTT Docomo
@@ -714,11 +710,11 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,61,1567,jp,Japan,81,NTT Docomo
 440,1088,18,399,jp,Japan,81,NTT Docomo
 440,1088,35,863,jp,Japan,81,NTT Docomo
-440,1088,01,31,jp,Japan,81,NTT Docomo
 441,1089,93,2367,jp,Japan,81,NTT Docomo
 441,1089,40,1039,jp,Japan,81,NTT Docomo
 440,1088,66,1647,jp,Japan,81,NTT Docomo
 440,1088,49,1183,jp,Japan,81,NTT Docomo
+440,1088,01,31,jp,Japan,81,NTT Docomo
 440,1088,29,671,jp,Japan,81,NTT Docomo
 440,1088,09,159,jp,Japan,81,NTT Docomo
 441,1089,90,2319,jp,Japan,81,NTT Docomo
@@ -735,10 +731,10 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,62,1583,jp,Japan,81,NTT Docomo
 441,1089,45,1119,jp,Japan,81,NTT Docomo
 440,1088,24,591,jp,Japan,81,NTT Docomo
-440,1088,15,351,jp,Japan,81,NTT Docomo
 441,1089,98,2447,jp,Japan,81,NTT Docomo
 441,1089,42,1071,jp,Japan,81,NTT Docomo
 440,1088,68,1679,jp,Japan,81,NTT Docomo
+440,1088,15,351,jp,Japan,81,NTT Docomo
 440,1088,38,911,jp,Japan,81,NTT Docomo
 440,1088,26,623,jp,Japan,81,NTT Docomo
 440,1088,11,287,jp,Japan,81,NTT Docomo
@@ -747,20 +743,22 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,13,319,jp,Japan,81,NTT Docomo
 440,1088,23,575,jp,Japan,81,NTT Docomo
 440,1088,21,543,jp,Japan,81,NTT Docomo
-440,1088,16,367,jp,Japan,81,NTT Docomo
 441,1089,99,2463,jp,Japan,81,NTT Docomo
 440,1088,34,847,jp,Japan,81,NTT Docomo
 440,1088,69,1695,jp,Japan,81,NTT Docomo
+440,1088,16,367,jp,Japan,81,NTT Docomo
 440,1088,37,895,jp,Japan,81,NTT Docomo
 440,1088,25,607,jp,Japan,81,NTT Docomo
 440,1088,64,1615,jp,Japan,81,NTT Docomo
+441,1089,43,1087,jp,Japan,81,NTT Docomo
+440,1088,27,639,jp,Japan,81,NTT Docomo
+440,1088,02,47,jp,Japan,81,NTT Docomo
+440,1088,22,559,jp,Japan,81,NTT Docomo
 440,1088,99,2463,jp,Japan,81,NTT Docomo
 440,1088,78,1935,jp,Japan,81,Okinawa Cellular Telephone
-440,1088,97,2431,jp,Japan,81,SoftBank Mobile Corp
-440,1088,46,1135,jp,Japan,81,SoftBank Mobile Corp
 440,1088,42,1071,jp,Japan,81,SoftBank Mobile Corp
-441,1089,65,1631,jp,Japan,81,SoftBank Mobile Corp
 440,1088,90,2319,jp,Japan,81,SoftBank Mobile Corp
+441,1089,65,1631,jp,Japan,81,SoftBank Mobile Corp
 440,1088,98,2447,jp,Japan,81,SoftBank Mobile Corp
 440,1088,92,2351,jp,Japan,81,SoftBank Mobile Corp
 440,1088,93,2367,jp,Japan,81,SoftBank Mobile Corp
@@ -781,13 +779,15 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,47,1151,jp,Japan,81,SoftBank Mobile Corp
 440,1088,41,1055,jp,Japan,81,SoftBank Mobile Corp
 441,1089,64,1615,jp,Japan,81,SoftBank Mobile Corp
+440,1088,97,2431,jp,Japan,81,SoftBank Mobile Corp
+440,1088,46,1135,jp,Japan,81,SoftBank Mobile Corp
 440,1088,83,2111,jp,Japan,81,KDDI Corporation
 440,1088,85,2143,jp,Japan,81,KDDI Corporation
 440,1088,81,2079,jp,Japan,81,KDDI Corporation
 440,1088,80,2063,jp,Japan,81,KDDI Corporation
 440,1088,86,2159,jp,Japan,81,KDDI Corporation
-440,1088,84,2127,jp,Japan,81,KDDI Corporation
 440,1088,82,2095,jp,Japan,81,KDDI Corporation
+440,1088,84,2127,jp,Japan,81,KDDI Corporation
 416,1046,77,1919,jo,Jordan,962,Orange/Petra
 416,1046,03,63,jo,Jordan,962,Umniah Mobile Co.
 416,1046,02,47,jo,Jordan,962,Xpress
@@ -881,8 +881,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 502,1282,01,31,my,Malaysia,60,Art900
 502,1282,151,337,my,Malaysia,60,Baraka Telecom Sdn Bhd
 502,1282,19,415,my,Malaysia,60,CelCom
-502,1282,13,319,my,Malaysia,60,CelCom
 502,1282,198,408,my,Malaysia,60,CelCom
+502,1282,13,319,my,Malaysia,60,CelCom
 502,1282,16,367,my,Malaysia,60,Digi Telecommunications
 502,1282,10,271,my,Malaysia,60,Digi Telecommunications
 502,1282,20,527,my,Malaysia,60,Electcoms Wireless Sdn Bhd
@@ -914,8 +914,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 334,820,04,79,mx,Mexico,52,AT&T/IUSACell
 334,820,50,1295,mx,Mexico,52,AT&T/IUSACell
 334,820,050,80,mx,Mexico,52,AT&T/IUSACell
-334,820,030,48,mx,Mexico,52,Movistar/Pegaso
 334,820,03,63,mx,Mexico,52,Movistar/Pegaso
+334,820,030,48,mx,Mexico,52,Movistar/Pegaso
 334,820,09,159,mx,Mexico,52,NEXTEL
 334,820,090,144,mx,Mexico,52,NEXTEL
 334,820,010,16,mx,Mexico,52,NEXTEL
@@ -927,8 +927,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 334,820,02,47,mx,Mexico,52,TelCel/America Movil
 550,1360,01,31,fm,Micronesia,691,FSM Telecom
 259,601,04,79,md,Moldova,373,Eventis Mobile
-259,601,05,95,md,Moldova,373,IDC/Unite
 259,601,99,2463,md,Moldova,373,IDC/Unite
+259,601,05,95,md,Moldova,373,IDC/Unite
 259,601,03,63,md,Moldova,373,IDC/Unite
 259,601,02,47,md,Moldova,373,Moldcell
 259,601,01,31,md,Moldova,373,Orange/Voxtel
