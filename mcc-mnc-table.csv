@@ -449,8 +449,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 266,614,09,159,gi,Gibraltar,350,eazi telecom
 266,614,01,31,gi,Gibraltar,350,Gibtel GSM
 202,514,07,127,gr,Greece,30,AMD Telecom SA
-202,514,02,47,gr,Greece,30,Cosmote
 202,514,01,31,gr,Greece,30,Cosmote
+202,514,02,47,gr,Greece,30,Cosmote
 202,514,14,335,gr,Greece,30,CyTa Mobile
 202,514,04,79,gr,Greece,30,Organismos Sidirodromon Ellados (OSE)
 202,514,03,63,gr,Greece,30,OTE Hellenic Telecommunications Organization SA
@@ -496,9 +496,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 454,1108,07,127,hk,Hongkong China,852,China Unicom Ltd
 454,1108,11,287,hk,Hongkong China,852,China-HongKong Telecom Ltd (CHKTL)
 454,1108,01,31,hk,Hongkong China,852,Citic Telecom Ltd.
+454,1108,00,15,hk,Hongkong China,852,CSL Ltd.
 454,1108,18,399,hk,Hongkong China,852,CSL Ltd.
 454,1108,02,47,hk,Hongkong China,852,CSL Ltd.
-454,1108,00,15,hk,Hongkong China,852,CSL Ltd.
 454,1108,10,271,hk,Hongkong China,852,CSL/New World PCS Ltd.
 454,1108,03,63,hk,Hongkong China,852,H3G/Hutchinson
 454,1108,14,335,hk,Hongkong China,852,H3G/Hutchinson
@@ -506,8 +506,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 454,1108,04,79,hk,Hongkong China,852,H3G/Hutchinson
 454,1108,20,527,hk,Hongkong China,852,HKT/PCCW
 454,1108,29,671,hk,Hongkong China,852,HKT/PCCW
-454,1108,19,415,hk,Hongkong China,852,HKT/PCCW
 454,1108,16,367,hk,Hongkong China,852,HKT/PCCW
+454,1108,19,415,hk,Hongkong China,852,HKT/PCCW
 454,1108,47,1151,hk,Hongkong China,852,shared by private TETRA systems
 454,1108,40,1039,hk,Hongkong China,852,shared by private TETRA systems
 454,1108,08,143,hk,Hongkong China,852,Truephone
@@ -527,18 +527,19 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 274,628,05,95,is,Iceland,354,Vodafone/Tal hf
 274,628,03,63,is,Iceland,354,Vodafone/Tal hf
 274,628,02,47,is,Iceland,354,Vodafone/Tal hf
+404,1028,33,831,in,India,91,Aircel
 404,1028,29,671,in,India,91,Aircel
 404,1028,28,655,in,India,91,Aircel
 404,1028,25,607,in,India,91,Aircel
 404,1028,17,383,in,India,91,Aircel
 404,1028,42,1071,in,India,91,Aircel
-404,1028,33,831,in,India,91,Aircel
 404,1028,01,31,in,India,91,Aircel Digilink India
 404,1028,15,351,in,India,91,Aircel Digilink India
 404,1028,60,1551,in,India,91,Aircel Digilink India
 405,1029,53,1343,in,India,91,AirTel
 404,1028,86,2159,in,India,91,Barakhamba Sales & Serv.
 404,1028,13,319,in,India,91,Barakhamba Sales & Serv.
+404,1028,73,1855,in,India,91,BSNL
 404,1028,34,847,in,India,91,BSNL
 404,1028,66,1647,in,India,91,BSNL
 404,1028,55,1375,in,India,91,BSNL
@@ -559,14 +560,13 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 404,1028,38,911,in,India,91,BSNL
 404,1028,57,1407,in,India,91,BSNL
 404,1028,80,2063,in,India,91,BSNL
-404,1028,73,1855,in,India,91,BSNL
 404,1028,10,271,in,India,91,Bharti Airtel Limited (Delhi)
 404,1028,045,69,in,India,91,Bharti Airtel Limited (Karnataka) (India)
 404,1028,79,1951,in,India,91,CellOne A&N
+404,1028,88,2191,in,India,91,Escorts Telecom Ltd.
 404,1028,87,2175,in,India,91,Escorts Telecom Ltd.
 404,1028,82,2095,in,India,91,Escorts Telecom Ltd.
 404,1028,89,2207,in,India,91,Escorts Telecom Ltd.
-404,1028,88,2191,in,India,91,Escorts Telecom Ltd.
 404,1028,12,303,in,India,91,Escotel Mobile Communications
 404,1028,19,415,in,India,91,Escotel Mobile Communications
 404,1028,56,1391,in,India,91,Escotel Mobile Communications
@@ -786,8 +786,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,81,2079,jp,Japan,81,KDDI Corporation
 440,1088,80,2063,jp,Japan,81,KDDI Corporation
 440,1088,86,2159,jp,Japan,81,KDDI Corporation
-440,1088,82,2095,jp,Japan,81,KDDI Corporation
 440,1088,84,2127,jp,Japan,81,KDDI Corporation
+440,1088,82,2095,jp,Japan,81,KDDI Corporation
 416,1046,77,1919,jo,Jordan,962,Orange/Petra
 416,1046,03,63,jo,Jordan,962,Umniah Mobile Co.
 416,1046,02,47,jo,Jordan,962,Xpress
@@ -881,8 +881,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 502,1282,01,31,my,Malaysia,60,Art900
 502,1282,151,337,my,Malaysia,60,Baraka Telecom Sdn Bhd
 502,1282,19,415,my,Malaysia,60,CelCom
-502,1282,198,408,my,Malaysia,60,CelCom
 502,1282,13,319,my,Malaysia,60,CelCom
+502,1282,198,408,my,Malaysia,60,CelCom
 502,1282,16,367,my,Malaysia,60,Digi Telecommunications
 502,1282,10,271,my,Malaysia,60,Digi Telecommunications
 502,1282,20,527,my,Malaysia,60,Electcoms Wireless Sdn Bhd
@@ -914,8 +914,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 334,820,04,79,mx,Mexico,52,AT&T/IUSACell
 334,820,50,1295,mx,Mexico,52,AT&T/IUSACell
 334,820,050,80,mx,Mexico,52,AT&T/IUSACell
-334,820,03,63,mx,Mexico,52,Movistar/Pegaso
 334,820,030,48,mx,Mexico,52,Movistar/Pegaso
+334,820,03,63,mx,Mexico,52,Movistar/Pegaso
 334,820,09,159,mx,Mexico,52,NEXTEL
 334,820,090,144,mx,Mexico,52,NEXTEL
 334,820,010,16,mx,Mexico,52,NEXTEL
@@ -927,8 +927,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 334,820,02,47,mx,Mexico,52,TelCel/America Movil
 550,1360,01,31,fm,Micronesia,691,FSM Telecom
 259,601,04,79,md,Moldova,373,Eventis Mobile
-259,601,99,2463,md,Moldova,373,IDC/Unite
 259,601,05,95,md,Moldova,373,IDC/Unite
+259,601,99,2463,md,Moldova,373,IDC/Unite
 259,601,03,63,md,Moldova,373,IDC/Unite
 259,601,02,47,md,Moldova,373,Moldcell
 259,601,01,31,md,Moldova,373,Orange/Voxtel
