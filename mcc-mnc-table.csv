@@ -316,8 +316,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 238,568,04,79,dk,Denmark,45,NextGen Mobile Ltd (CardBoardFish)
 238,568,10,271,dk,Denmark,45,TDC Denmark
 238,568,01,31,dk,Denmark,45,TDC Denmark
-238,568,02,47,dk,Denmark,45,Telenor/Sonofon
 238,568,77,1919,dk,Denmark,45,Telenor/Sonofon
+238,568,02,47,dk,Denmark,45,Telenor/Sonofon
 238,568,20,527,dk,Denmark,45,Telia
 238,568,30,783,dk,Denmark,45,Telia
 638,1592,01,31,dj,Djibouti,253,Djibouti Telecom SA (Evatis)
@@ -423,8 +423,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 262,610,77,1919,de,Germany,49,E-Plus
 262,610,03,63,de,Germany,49,E-Plus
 262,610,05,95,de,Germany,49,E-Plus
-262,610,20,527,de,Germany,49,E-Plus
 262,610,12,303,de,Germany,49,E-Plus
+262,610,20,527,de,Germany,49,E-Plus
 262,610,14,335,de,Germany,49,Group 3G UMTS
 262,610,43,1087,de,Germany,49,Lycamobile
 262,610,13,319,de,Germany,49,Mobilcom
@@ -449,8 +449,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 266,614,09,159,gi,Gibraltar,350,eazi telecom
 266,614,01,31,gi,Gibraltar,350,Gibtel GSM
 202,514,07,127,gr,Greece,30,AMD Telecom SA
-202,514,02,47,gr,Greece,30,Cosmote
 202,514,01,31,gr,Greece,30,Cosmote
+202,514,02,47,gr,Greece,30,Cosmote
 202,514,14,335,gr,Greece,30,CyTa Mobile
 202,514,04,79,gr,Greece,30,Organismos Sidirodromon Ellados (OSE)
 202,514,03,63,gr,Greece,30,OTE Hellenic Telecommunications Organization SA
@@ -496,9 +496,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 454,1108,07,127,hk,Hongkong China,852,China Unicom Ltd
 454,1108,11,287,hk,Hongkong China,852,China-HongKong Telecom Ltd (CHKTL)
 454,1108,01,31,hk,Hongkong China,852,Citic Telecom Ltd.
-454,1108,02,47,hk,Hongkong China,852,CSL Ltd.
 454,1108,00,15,hk,Hongkong China,852,CSL Ltd.
 454,1108,18,399,hk,Hongkong China,852,CSL Ltd.
+454,1108,02,47,hk,Hongkong China,852,CSL Ltd.
 454,1108,10,271,hk,Hongkong China,852,CSL/New World PCS Ltd.
 454,1108,03,63,hk,Hongkong China,852,H3G/Hutchinson
 454,1108,14,335,hk,Hongkong China,852,H3G/Hutchinson
@@ -525,32 +525,31 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 274,628,11,287,is,Iceland,354,NOVA
 274,628,04,79,is,Iceland,354,VIKING/IMC
 274,628,05,95,is,Iceland,354,Vodafone/Tal hf
-274,628,02,47,is,Iceland,354,Vodafone/Tal hf
 274,628,03,63,is,Iceland,354,Vodafone/Tal hf
-404,1028,42,1071,in,India,91,Aircel
+274,628,02,47,is,Iceland,354,Vodafone/Tal hf
 404,1028,33,831,in,India,91,Aircel
 404,1028,29,671,in,India,91,Aircel
 404,1028,28,655,in,India,91,Aircel
 404,1028,25,607,in,India,91,Aircel
 404,1028,17,383,in,India,91,Aircel
+404,1028,42,1071,in,India,91,Aircel
 404,1028,01,31,in,India,91,Aircel Digilink India
 404,1028,15,351,in,India,91,Aircel Digilink India
 404,1028,60,1551,in,India,91,Aircel Digilink India
 405,1029,53,1343,in,India,91,AirTel
 404,1028,86,2159,in,India,91,Barakhamba Sales & Serv.
 404,1028,13,319,in,India,91,Barakhamba Sales & Serv.
-404,1028,74,1871,in,India,91,BSNL
 404,1028,38,911,in,India,91,BSNL
 404,1028,80,2063,in,India,91,BSNL
 404,1028,57,1407,in,India,91,BSNL
 404,1028,73,1855,in,India,91,BSNL
 404,1028,34,847,in,India,91,BSNL
-404,1028,55,1375,in,India,91,BSNL
 404,1028,66,1647,in,India,91,BSNL
+404,1028,55,1375,in,India,91,BSNL
 404,1028,72,1839,in,India,91,BSNL
 404,1028,77,1919,in,India,91,BSNL
-404,1028,54,1359,in,India,91,BSNL
 404,1028,64,1615,in,India,91,BSNL
+404,1028,54,1359,in,India,91,BSNL
 404,1028,71,1823,in,India,91,BSNL
 404,1028,76,1903,in,India,91,BSNL
 404,1028,62,1583,in,India,91,BSNL
@@ -560,13 +559,14 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 404,1028,51,1311,in,India,91,BSNL
 404,1028,81,2079,in,India,91,BSNL
 404,1028,58,1423,in,India,91,BSNL
+404,1028,74,1871,in,India,91,BSNL
 404,1028,10,271,in,India,91,Bharti Airtel Limited (Delhi)
 404,1028,045,69,in,India,91,Bharti Airtel Limited (Karnataka) (India)
 404,1028,79,1951,in,India,91,CellOne A&N
-404,1028,89,2207,in,India,91,Escorts Telecom Ltd.
 404,1028,88,2191,in,India,91,Escorts Telecom Ltd.
 404,1028,87,2175,in,India,91,Escorts Telecom Ltd.
 404,1028,82,2095,in,India,91,Escorts Telecom Ltd.
+404,1028,89,2207,in,India,91,Escorts Telecom Ltd.
 404,1028,12,303,in,India,91,Escotel Mobile Communications
 404,1028,19,415,in,India,91,Escotel Mobile Communications
 404,1028,56,1391,in,India,91,Escotel Mobile Communications
