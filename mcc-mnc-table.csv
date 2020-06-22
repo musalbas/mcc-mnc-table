@@ -32,8 +32,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 722,1826,010,16,ar,Argentina Republic,54,Compania De Radiocomunicaciones Moviles SA
 722,1826,070,112,ar,Argentina Republic,54,Movistar/Telefonica
 722,1826,020,32,ar,Argentina Republic,54,Nextel
-722,1826,341,833,ar,Argentina Republic,54,Telecom Personal S.A.
 722,1826,340,832,ar,Argentina Republic,54,Telecom Personal S.A.
+722,1826,341,833,ar,Argentina Republic,54,Telecom Personal S.A.
 283,643,01,31,am,Armenia,374,ArmenTel/Beeline
 283,643,04,79,am,Armenia,374,Karabakh Telecom
 283,643,10,271,am,Armenia,374,Orange
@@ -400,8 +400,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 340,832,20,527,fg,French Guiana,594,Bouygues/DigiCel
 340,832,01,31,fg,French Guiana,594,Orange Caribe
 340,832,02,47,fg,French Guiana,594,Outremer Telecom
-340,832,11,287,fg,French Guiana,594,TelCell GSM
 340,832,03,63,fg,French Guiana,594,TelCell GSM
+340,832,11,287,fg,French Guiana,594,TelCell GSM
 547,1351,15,351,pf,French Polynesia,689,Pacific Mobile Telecom (PMT)
 547,1351,20,527,pf,French Polynesia,689,Vini/Tikiphone
 628,1576,04,79,ga,Gabon,241,Azur/Usan S.A.
@@ -504,8 +504,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 454,1108,14,335,hk,Hongkong China,852,H3G/Hutchinson
 454,1108,05,95,hk,Hongkong China,852,H3G/Hutchinson
 454,1108,04,79,hk,Hongkong China,852,H3G/Hutchinson
-454,1108,19,415,hk,Hongkong China,852,HKT/PCCW
 454,1108,20,527,hk,Hongkong China,852,HKT/PCCW
+454,1108,19,415,hk,Hongkong China,852,HKT/PCCW
 454,1108,29,671,hk,Hongkong China,852,HKT/PCCW
 454,1108,16,367,hk,Hongkong China,852,HKT/PCCW
 454,1108,47,1151,hk,Hongkong China,852,shared by private TETRA systems
@@ -695,65 +695,65 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,52,1327,jp,Japan,81,KDDI Corporation
 440,1088,76,1903,jp,Japan,81,KDDI Corporation
 440,1088,71,1823,jp,Japan,81,KDDI Corporation
-441,1089,92,2351,jp,Japan,81,NTT Docomo
 440,1088,65,1631,jp,Japan,81,NTT Docomo
 440,1088,36,879,jp,Japan,81,NTT Docomo
-440,1088,28,655,jp,Japan,81,NTT Docomo
+441,1089,92,2351,jp,Japan,81,NTT Docomo
 440,1088,03,63,jp,Japan,81,NTT Docomo
 440,1088,12,303,jp,Japan,81,NTT Docomo
 440,1088,58,1423,jp,Japan,81,NTT Docomo
-440,1088,32,815,jp,Japan,81,NTT Docomo
+440,1088,28,655,jp,Japan,81,NTT Docomo
 440,1088,61,1567,jp,Japan,81,NTT Docomo
 440,1088,18,399,jp,Japan,81,NTT Docomo
 441,1089,91,2335,jp,Japan,81,NTT Docomo
-441,1089,93,2367,jp,Japan,81,NTT Docomo
+440,1088,32,815,jp,Japan,81,NTT Docomo
 441,1089,40,1039,jp,Japan,81,NTT Docomo
 440,1088,66,1647,jp,Japan,81,NTT Docomo
 440,1088,35,863,jp,Japan,81,NTT Docomo
-440,1088,29,671,jp,Japan,81,NTT Docomo
+441,1089,93,2367,jp,Japan,81,NTT Docomo
 440,1088,09,159,jp,Japan,81,NTT Docomo
 440,1088,49,1183,jp,Japan,81,NTT Docomo
-440,1088,33,831,jp,Japan,81,NTT Docomo
+440,1088,29,671,jp,Japan,81,NTT Docomo
 440,1088,60,1551,jp,Japan,81,NTT Docomo
 440,1088,19,415,jp,Japan,81,NTT Docomo
 441,1089,90,2319,jp,Japan,81,NTT Docomo
-441,1089,94,2383,jp,Japan,81,NTT Docomo
-441,1089,41,1055,jp,Japan,81,NTT Docomo
+440,1088,33,831,jp,Japan,81,NTT Docomo
 440,1088,67,1663,jp,Japan,81,NTT Docomo
 440,1088,14,335,jp,Japan,81,NTT Docomo
-440,1088,30,783,jp,Japan,81,NTT Docomo
+441,1089,94,2383,jp,Japan,81,NTT Docomo
+441,1089,41,1055,jp,Japan,81,NTT Docomo
 440,1088,10,271,jp,Japan,81,NTT Docomo
 440,1088,62,1583,jp,Japan,81,NTT Docomo
 440,1088,39,927,jp,Japan,81,NTT Docomo
-440,1088,24,591,jp,Japan,81,NTT Docomo
+440,1088,30,783,jp,Japan,81,NTT Docomo
 441,1089,45,1119,jp,Japan,81,NTT Docomo
-441,1089,98,2447,jp,Japan,81,NTT Docomo
-441,1089,42,1071,jp,Japan,81,NTT Docomo
+440,1088,24,591,jp,Japan,81,NTT Docomo
 440,1088,68,1679,jp,Japan,81,NTT Docomo
 440,1088,15,351,jp,Japan,81,NTT Docomo
-440,1088,26,623,jp,Japan,81,NTT Docomo
+441,1089,98,2447,jp,Japan,81,NTT Docomo
+441,1089,42,1071,jp,Japan,81,NTT Docomo
 440,1088,11,287,jp,Japan,81,NTT Docomo
 440,1088,63,1599,jp,Japan,81,NTT Docomo
 440,1088,38,911,jp,Japan,81,NTT Docomo
-440,1088,13,319,jp,Japan,81,NTT Docomo
+440,1088,26,623,jp,Japan,81,NTT Docomo
 440,1088,23,575,jp,Japan,81,NTT Docomo
 440,1088,01,31,jp,Japan,81,NTT Docomo
 440,1088,21,543,jp,Japan,81,NTT Docomo
 441,1089,44,1103,jp,Japan,81,NTT Docomo
-441,1089,99,2463,jp,Japan,81,NTT Docomo
-440,1088,34,847,jp,Japan,81,NTT Docomo
+440,1088,13,319,jp,Japan,81,NTT Docomo
 440,1088,69,1695,jp,Japan,81,NTT Docomo
 440,1088,16,367,jp,Japan,81,NTT Docomo
-440,1088,25,607,jp,Japan,81,NTT Docomo
+441,1089,99,2463,jp,Japan,81,NTT Docomo
+440,1088,34,847,jp,Japan,81,NTT Docomo
 440,1088,64,1615,jp,Japan,81,NTT Docomo
 440,1088,37,895,jp,Japan,81,NTT Docomo
-440,1088,27,639,jp,Japan,81,NTT Docomo
+440,1088,25,607,jp,Japan,81,NTT Docomo
 440,1088,02,47,jp,Japan,81,NTT Docomo
 440,1088,22,559,jp,Japan,81,NTT Docomo
 441,1089,43,1087,jp,Japan,81,NTT Docomo
-440,1088,31,799,jp,Japan,81,NTT Docomo
+440,1088,27,639,jp,Japan,81,NTT Docomo
 440,1088,87,2175,jp,Japan,81,NTT Docomo
 440,1088,17,383,jp,Japan,81,NTT Docomo
+440,1088,31,799,jp,Japan,81,NTT Docomo
 440,1088,99,2463,jp,Japan,81,NTT Docomo
 440,1088,78,1935,jp,Japan,81,Okinawa Cellular Telephone
 440,1088,90,2319,jp,Japan,81,SoftBank Mobile Corp
@@ -1089,8 +1089,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 260,608,15,351,pl,Poland,48,Tele2
 260,608,04,79,pl,Poland,48,Tele2
 268,616,04,79,pt,Portugal,351,Lycamobile
-268,616,03,63,pt,Portugal,351,NOS/Optimus
 268,616,07,127,pt,Portugal,351,NOS/Optimus
+268,616,03,63,pt,Portugal,351,NOS/Optimus
 268,616,06,111,pt,Portugal,351,MEO/TMN
 268,616,01,31,pt,Portugal,351,Vodafone
 330,816,110,272,pr,Puerto Rico,,Puerto Rico Telephone Company Inc. (PRTC)
@@ -1471,31 +1471,31 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 310,784,010,16,us,United States,1,Verizon Wireless
 311,785,279,633,us,United States,1,Verizon Wireless
 311,785,484,1156,us,United States,1,Verizon Wireless
-311,785,489,1161,us,United States,1,Verizon Wireless
 310,784,910,2320,us,United States,1,Verizon Wireless
 311,785,284,644,us,United States,1,Verizon Wireless
+311,785,489,1161,us,United States,1,Verizon Wireless
 311,785,273,627,us,United States,1,Verizon Wireless
 311,785,289,649,us,United States,1,Verizon Wireless
 310,784,004,4,us,United States,1,Verizon Wireless
 311,785,278,632,us,United States,1,Verizon Wireless
 311,785,483,1155,us,United States,1,Verizon Wireless
-311,785,488,1160,us,United States,1,Verizon Wireless
 310,784,890,2192,us,United States,1,Verizon Wireless
 311,785,283,643,us,United States,1,Verizon Wireless
+311,785,488,1160,us,United States,1,Verizon Wireless
 311,785,272,626,us,United States,1,Verizon Wireless
 311,785,288,648,us,United States,1,Verizon Wireless
 311,785,277,631,us,United States,1,Verizon Wireless
 311,785,482,1154,us,United States,1,Verizon Wireless
-311,785,487,1159,us,United States,1,Verizon Wireless
 310,784,590,1424,us,United States,1,Verizon Wireless
 311,785,282,642,us,United States,1,Verizon Wireless
+311,785,487,1159,us,United States,1,Verizon Wireless
 311,785,271,625,us,United States,1,Verizon Wireless
 311,785,287,647,us,United States,1,Verizon Wireless
 311,785,276,630,us,United States,1,Verizon Wireless
 311,785,481,1153,us,United States,1,Verizon Wireless
-311,785,486,1158,us,United States,1,Verizon Wireless
 310,784,013,19,us,United States,1,Verizon Wireless
 311,785,281,641,us,United States,1,Verizon Wireless
+311,785,486,1158,us,United States,1,Verizon Wireless
 311,785,270,624,us,United States,1,Verizon Wireless
 311,785,286,646,us,United States,1,Verizon Wireless
 311,785,275,629,us,United States,1,Verizon Wireless
