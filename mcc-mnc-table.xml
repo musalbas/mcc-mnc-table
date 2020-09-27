@@ -62,7 +62,7 @@
         <mcc>412</mcc>
         <iso>af</iso>
         <country_code>93</country_code>
-        <mnc>50</mnc>
+        <mnc>30</mnc>
     </carrier>
     <carrier>
         <network>Etisalat </network>
@@ -70,7 +70,7 @@
         <mcc>412</mcc>
         <iso>af</iso>
         <country_code>93</country_code>
-        <mnc>30</mnc>
+        <mnc>50</mnc>
     </carrier>
     <carrier>
         <network>Roshan/TDCA </network>
@@ -230,7 +230,7 @@
         <mcc>722</mcc>
         <iso>ar</iso>
         <country_code>54</country_code>
-        <mnc>330</mnc>
+        <mnc>320</mnc>
     </carrier>
     <carrier>
         <network>Claro/ CTI/AMX</network>
@@ -238,7 +238,7 @@
         <mcc>722</mcc>
         <iso>ar</iso>
         <country_code>54</country_code>
-        <mnc>320</mnc>
+        <mnc>330</mnc>
     </carrier>
     <carrier>
         <network>Compania De Radiocomunicaciones Moviles SA</network>
@@ -454,7 +454,7 @@
         <mcc>505</mcc>
         <iso>au</iso>
         <country_code>61</country_code>
-        <mnc>71</mnc>
+        <mnc>72</mnc>
     </carrier>
     <carrier>
         <network>Telstra Corp. Ltd.</network>
@@ -462,7 +462,7 @@
         <mcc>505</mcc>
         <iso>au</iso>
         <country_code>61</country_code>
-        <mnc>72</mnc>
+        <mnc>71</mnc>
     </carrier>
     <carrier>
         <network>Telstra Corp. Ltd.</network>
@@ -518,7 +518,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>01</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>A1 MobilKom</network>
@@ -542,7 +542,7 @@
         <mcc>232</mcc>
         <iso>at</iso>
         <country_code>43</country_code>
-        <mnc>02</mnc>
+        <mnc>01</mnc>
     </carrier>
     <carrier>
         <network>T-Mobile/Telering</network>
@@ -1193,14 +1193,6 @@
         <mnc>24</mnc>
     </carrier>
     <carrier>
-        <network>Brazil Telcom</network>
-        <country>Brazil</country>
-        <mcc>724</mcc>
-        <iso>br</iso>
-        <country_code>55</country_code>
-        <mnc>16</mnc>
-    </carrier>
-    <carrier>
         <network>Oi (TNL PCS / Oi)</network>
         <country>Brazil</country>
         <mcc>724</mcc>
@@ -1215,6 +1207,14 @@
         <iso>br</iso>
         <country_code>55</country_code>
         <mnc>31</mnc>
+    </carrier>
+    <carrier>
+        <network>Brazil Telcom</network>
+        <country>Brazil</country>
+        <mcc>724</mcc>
+        <iso>br</iso>
+        <country_code>55</country_code>
+        <mnc>16</mnc>
     </carrier>
     <carrier>
         <network>PORTO SEGURO TELECOMUNICACOES</network>
@@ -1254,6 +1254,14 @@
         <mcc>724</mcc>
         <iso>br</iso>
         <country_code>55</country_code>
+        <mnc>04</mnc>
+    </carrier>
+    <carrier>
+        <network>TIM</network>
+        <country>Brazil</country>
+        <mcc>724</mcc>
+        <iso>br</iso>
+        <country_code>55</country_code>
         <mnc>03</mnc>
     </carrier>
     <carrier>
@@ -1263,14 +1271,6 @@
         <iso>br</iso>
         <country_code>55</country_code>
         <mnc>02</mnc>
-    </carrier>
-    <carrier>
-        <network>TIM</network>
-        <country>Brazil</country>
-        <mcc>724</mcc>
-        <iso>br</iso>
-        <country_code>55</country_code>
-        <mnc>04</mnc>
     </carrier>
     <carrier>
         <network>Unicel do Brasil Telecomunicacoes Ltda</network>
@@ -1518,7 +1518,7 @@
         <mcc>456</mcc>
         <iso>kh</iso>
         <country_code>855</country_code>
-        <mnc>06</mnc>
+        <mnc>05</mnc>
     </carrier>
     <carrier>
         <network>Smart Mobile</network>
@@ -1526,7 +1526,7 @@
         <mcc>456</mcc>
         <iso>kh</iso>
         <country_code>855</country_code>
-        <mnc>05</mnc>
+        <mnc>06</mnc>
     </carrier>
     <carrier>
         <network>Sotelco/Beeline</network>
@@ -1734,7 +1734,7 @@
         <mcc>302</mcc>
         <iso>ca</iso>
         <country_code>1</country_code>
-        <mnc>780</mnc>
+        <mnc>654</mnc>
     </carrier>
     <carrier>
         <network>Sask Tel Mobility</network>
@@ -1742,7 +1742,7 @@
         <mcc>302</mcc>
         <iso>ca</iso>
         <country_code>1</country_code>
-        <mnc>654</mnc>
+        <mnc>780</mnc>
     </carrier>
     <carrier>
         <network>Tbay Mobility</network>
@@ -1758,7 +1758,7 @@
         <mcc>302</mcc>
         <iso>ca</iso>
         <country_code>1</country_code>
-        <mnc>220</mnc>
+        <mnc>653</mnc>
     </carrier>
     <carrier>
         <network>Telus Mobility</network>
@@ -1766,7 +1766,7 @@
         <mcc>302</mcc>
         <iso>ca</iso>
         <country_code>1</country_code>
-        <mnc>653</mnc>
+        <mnc>220</mnc>
     </carrier>
     <carrier>
         <network>Videotron</network>
@@ -1982,7 +1982,7 @@
         <mcc>730</mcc>
         <iso>cl</iso>
         <country_code>56</country_code>
-        <mnc>07</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>TELEFONICA</network>
@@ -1990,7 +1990,7 @@
         <mcc>730</mcc>
         <iso>cl</iso>
         <country_code>56</country_code>
-        <mnc>02</mnc>
+        <mnc>07</mnc>
     </carrier>
     <carrier>
         <network>Telestar Movil SA</network>
@@ -2038,7 +2038,7 @@
         <mcc>460</mcc>
         <iso>cn</iso>
         <country_code>86</country_code>
-        <mnc>00</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>China Mobile GSM</network>
@@ -2046,7 +2046,7 @@
         <mcc>460</mcc>
         <iso>cn</iso>
         <country_code>86</country_code>
-        <mnc>02</mnc>
+        <mnc>00</mnc>
     </carrier>
     <carrier>
         <network>China Space Mobile Satellite Telecommunications Co. Ltd (China Spacecom)</network>
@@ -2862,14 +2862,6 @@
         <mcc>244</mcc>
         <iso>fi</iso>
         <country_code>358</country_code>
-        <mnc>13</mnc>
-    </carrier>
-    <carrier>
-        <network>DNA/Finnet</network>
-        <country>Finland</country>
-        <mcc>244</mcc>
-        <iso>fi</iso>
-        <country_code>358</country_code>
         <mnc>04</mnc>
     </carrier>
     <carrier>
@@ -2879,6 +2871,14 @@
         <iso>fi</iso>
         <country_code>358</country_code>
         <mnc>03</mnc>
+    </carrier>
+    <carrier>
+        <network>DNA/Finnet</network>
+        <country>Finland</country>
+        <mcc>244</mcc>
+        <iso>fi</iso>
+        <country_code>358</country_code>
+        <mnc>13</mnc>
     </carrier>
     <carrier>
         <network>Elisa/Saunalahti</network>
@@ -3134,14 +3134,6 @@
         <mcc>208</mcc>
         <iso>fr</iso>
         <country_code>33</country_code>
-        <mnc>11</mnc>
-    </carrier>
-    <carrier>
-        <network>S.F.R.</network>
-        <country>France</country>
-        <mcc>208</mcc>
-        <iso>fr</iso>
-        <country_code>33</country_code>
         <mnc>10</mnc>
     </carrier>
     <carrier>
@@ -3151,6 +3143,14 @@
         <iso>fr</iso>
         <country_code>33</country_code>
         <mnc>09</mnc>
+    </carrier>
+    <carrier>
+        <network>S.F.R.</network>
+        <country>France</country>
+        <mcc>208</mcc>
+        <iso>fr</iso>
+        <country_code>33</country_code>
+        <mnc>11</mnc>
     </carrier>
     <carrier>
         <network>S.F.R.</network>
@@ -3214,7 +3214,7 @@
         <mcc>340</mcc>
         <iso>fg</iso>
         <country_code>594</country_code>
-        <mnc>11</mnc>
+        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>TelCell GSM</network>
@@ -3222,7 +3222,7 @@
         <mcc>340</mcc>
         <iso>fg</iso>
         <country_code>594</country_code>
-        <mnc>03</mnc>
+        <mnc>11</mnc>
     </carrier>
     <carrier>
         <network>Pacific Mobile Telecom (PMT)</network>
@@ -3374,14 +3374,6 @@
         <mcc>262</mcc>
         <iso>de</iso>
         <country_code>49</country_code>
-        <mnc>77</mnc>
-    </carrier>
-    <carrier>
-        <network>E-Plus</network>
-        <country>Germany</country>
-        <mcc>262</mcc>
-        <iso>de</iso>
-        <country_code>49</country_code>
         <mnc>03</mnc>
     </carrier>
     <carrier>
@@ -3398,7 +3390,7 @@
         <mcc>262</mcc>
         <iso>de</iso>
         <country_code>49</country_code>
-        <mnc>20</mnc>
+        <mnc>77</mnc>
     </carrier>
     <carrier>
         <network>E-Plus</network>
@@ -3407,6 +3399,14 @@
         <iso>de</iso>
         <country_code>49</country_code>
         <mnc>12</mnc>
+    </carrier>
+    <carrier>
+        <network>E-Plus</network>
+        <country>Germany</country>
+        <mcc>262</mcc>
+        <iso>de</iso>
+        <country_code>49</country_code>
+        <mnc>20</mnc>
     </carrier>
     <carrier>
         <network>Group 3G UMTS</network>
@@ -3438,7 +3438,7 @@
         <mcc>262</mcc>
         <iso>de</iso>
         <country_code>49</country_code>
-        <mnc>08</mnc>
+        <mnc>07</mnc>
     </carrier>
     <carrier>
         <network>O2</network>
@@ -3454,7 +3454,7 @@
         <mcc>262</mcc>
         <iso>de</iso>
         <country_code>49</country_code>
-        <mnc>07</mnc>
+        <mnc>08</mnc>
     </carrier>
     <carrier>
         <network>Talkline</network>
@@ -3926,14 +3926,6 @@
         <mcc>454</mcc>
         <iso>hk</iso>
         <country_code>852</country_code>
-        <mnc>28</mnc>
-    </carrier>
-    <carrier>
-        <network>China Mobile/Peoples</network>
-        <country>Hongkong, China</country>
-        <mcc>454</mcc>
-        <iso>hk</iso>
-        <country_code>852</country_code>
         <mnc>13</mnc>
     </carrier>
     <carrier>
@@ -3943,6 +3935,14 @@
         <iso>hk</iso>
         <country_code>852</country_code>
         <mnc>12</mnc>
+    </carrier>
+    <carrier>
+        <network>China Mobile/Peoples</network>
+        <country>Hongkong, China</country>
+        <mcc>454</mcc>
+        <iso>hk</iso>
+        <country_code>852</country_code>
+        <mnc>28</mnc>
     </carrier>
     <carrier>
         <network>China Motion</network>
@@ -3982,14 +3982,6 @@
         <mcc>454</mcc>
         <iso>hk</iso>
         <country_code>852</country_code>
-        <mnc>18</mnc>
-    </carrier>
-    <carrier>
-        <network>CSL Ltd.</network>
-        <country>Hongkong, China</country>
-        <mcc>454</mcc>
-        <iso>hk</iso>
-        <country_code>852</country_code>
         <mnc>02</mnc>
     </carrier>
     <carrier>
@@ -3999,6 +3991,14 @@
         <iso>hk</iso>
         <country_code>852</country_code>
         <mnc>00</mnc>
+    </carrier>
+    <carrier>
+        <network>CSL Ltd.</network>
+        <country>Hongkong, China</country>
+        <mcc>454</mcc>
+        <iso>hk</iso>
+        <country_code>852</country_code>
+        <mnc>18</mnc>
     </carrier>
     <carrier>
         <network>CSL/New World PCS Ltd.</network>
@@ -4214,7 +4214,7 @@
         <mcc>274</mcc>
         <iso>is</iso>
         <country_code>354</country_code>
-        <mnc>03</mnc>
+        <mnc>02</mnc>
     </carrier>
     <carrier>
         <network>Vodafone/Tal hf</network>
@@ -4222,23 +4222,7 @@
         <mcc>274</mcc>
         <iso>is</iso>
         <country_code>354</country_code>
-        <mnc>02</mnc>
-    </carrier>
-    <carrier>
-        <network>Aircel</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>29</mnc>
-    </carrier>
-    <carrier>
-        <network>Aircel</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>28</mnc>
+        <mnc>03</mnc>
     </carrier>
     <carrier>
         <network>Aircel</network>
@@ -4273,6 +4257,30 @@
         <mnc>33</mnc>
     </carrier>
     <carrier>
+        <network>Aircel</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>29</mnc>
+    </carrier>
+    <carrier>
+        <network>Aircel</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>28</mnc>
+    </carrier>
+    <carrier>
+        <network>Aircel Digilink India</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>60</mnc>
+    </carrier>
+    <carrier>
         <network>Aircel Digilink India</network>
         <country>India</country>
         <mcc>404</mcc>
@@ -4287,14 +4295,6 @@
         <iso>in</iso>
         <country_code>91</country_code>
         <mnc>15</mnc>
-    </carrier>
-    <carrier>
-        <network>Aircel Digilink India</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>60</mnc>
     </carrier>
     <carrier>
         <network>AirTel</network>
@@ -4319,78 +4319,6 @@
         <iso>in</iso>
         <country_code>91</country_code>
         <mnc>13</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>34</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>66</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>55</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>72</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>77</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>64</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>54</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>71</mnc>
-    </carrier>
-    <carrier>
-        <network>BSNL</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
-        <mnc>76</mnc>
     </carrier>
     <carrier>
         <network>BSNL</network>
@@ -4489,6 +4417,78 @@
         <mnc>73</mnc>
     </carrier>
     <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>34</mnc>
+    </carrier>
+    <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>66</mnc>
+    </carrier>
+    <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>55</mnc>
+    </carrier>
+    <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>72</mnc>
+    </carrier>
+    <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>77</mnc>
+    </carrier>
+    <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>64</mnc>
+    </carrier>
+    <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>54</mnc>
+    </carrier>
+    <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>71</mnc>
+    </carrier>
+    <carrier>
+        <network>BSNL</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>76</mnc>
+    </carrier>
+    <carrier>
         <network>Bharti Airtel Limited (Delhi)</network>
         <country>India</country>
         <mcc>404</mcc>
@@ -4518,14 +4518,6 @@
         <mcc>404</mcc>
         <iso>in</iso>
         <country_code>91</country_code>
-        <mnc>87</mnc>
-    </carrier>
-    <carrier>
-        <network>Escorts Telecom Ltd.</network>
-        <country>India</country>
-        <mcc>404</mcc>
-        <iso>in</iso>
-        <country_code>91</country_code>
         <mnc>82</mnc>
     </carrier>
     <carrier>
@@ -4543,6 +4535,14 @@
         <iso>in</iso>
         <country_code>91</country_code>
         <mnc>88</mnc>
+    </carrier>
+    <carrier>
+        <network>Escorts Telecom Ltd.</network>
+        <country>India</country>
+        <mcc>404</mcc>
+        <iso>in</iso>
+        <country_code>91</country_code>
+        <mnc>87</mnc>
     </carrier>
     <carrier>
         <network>Escotel Mobile Communications</network>
