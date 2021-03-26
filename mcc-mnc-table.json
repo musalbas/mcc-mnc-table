@@ -57,7 +57,7 @@
   },
   {
     "mcc": "412",
-    "mnc": "50",
+    "mnc": "30",
     "iso": "af",
     "country": "Afghanistan",
     "country_code": "93",
@@ -65,7 +65,7 @@
   },
   {
     "mcc": "412",
-    "mnc": "30",
+    "mnc": "50",
     "iso": "af",
     "country": "Afghanistan",
     "country_code": "93",
@@ -225,7 +225,7 @@
   },
   {
     "mcc": "722",
-    "mnc": "330",
+    "mnc": "320",
     "iso": "ar",
     "country": "Argentina Republic",
     "country_code": "54",
@@ -233,7 +233,7 @@
   },
   {
     "mcc": "722",
-    "mnc": "320",
+    "mnc": "330",
     "iso": "ar",
     "country": "Argentina Republic",
     "country_code": "54",
@@ -417,7 +417,7 @@
   },
   {
     "mcc": "505",
-    "mnc": "08",
+    "mnc": "99",
     "iso": "au",
     "country": "Australia",
     "country_code": "61",
@@ -425,7 +425,7 @@
   },
   {
     "mcc": "505",
-    "mnc": "99",
+    "mnc": "08",
     "iso": "au",
     "country": "Australia",
     "country_code": "61",
@@ -465,14 +465,6 @@
   },
   {
     "mcc": "505",
-    "mnc": "71",
-    "iso": "au",
-    "country": "Australia",
-    "country_code": "61",
-    "network": "Telstra Corp. Ltd."
-  },
-  {
-    "mcc": "505",
     "mnc": "01",
     "iso": "au",
     "country": "Australia",
@@ -482,6 +474,14 @@
   {
     "mcc": "505",
     "mnc": "11",
+    "iso": "au",
+    "country": "Australia",
+    "country_code": "61",
+    "network": "Telstra Corp. Ltd."
+  },
+  {
+    "mcc": "505",
+    "mnc": "71",
     "iso": "au",
     "country": "Australia",
     "country_code": "61",
@@ -529,7 +529,7 @@
   },
   {
     "mcc": "232",
-    "mnc": "02",
+    "mnc": "09",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -537,7 +537,7 @@
   },
   {
     "mcc": "232",
-    "mnc": "09",
+    "mnc": "02",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -569,7 +569,7 @@
   },
   {
     "mcc": "232",
-    "mnc": "10",
+    "mnc": "14",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -577,7 +577,7 @@
   },
   {
     "mcc": "232",
-    "mnc": "14",
+    "mnc": "10",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -721,6 +721,14 @@
   },
   {
     "mcc": "364",
+    "mnc": "39",
+    "iso": "bs",
+    "country": "Bahamas",
+    "country_code": "1242",
+    "network": "Bahamas Telco. Comp."
+  },
+  {
+    "mcc": "364",
     "mnc": "30",
     "iso": "bs",
     "country": "Bahamas",
@@ -730,14 +738,6 @@
   {
     "mcc": "364",
     "mnc": "390",
-    "iso": "bs",
-    "country": "Bahamas",
-    "country_code": "1242",
-    "network": "Bahamas Telco. Comp."
-  },
-  {
-    "mcc": "364",
-    "mnc": "39",
     "iso": "bs",
     "country": "Bahamas",
     "country_code": "1242",
@@ -1169,7 +1169,7 @@
   },
   {
     "mcc": "724",
-    "mnc": "38",
+    "mnc": "05",
     "iso": "br",
     "country": "Brazil",
     "country_code": "55",
@@ -1177,7 +1177,7 @@
   },
   {
     "mcc": "724",
-    "mnc": "05",
+    "mnc": "38",
     "iso": "br",
     "country": "Brazil",
     "country_code": "55",
@@ -1225,6 +1225,14 @@
   },
   {
     "mcc": "724",
+    "mnc": "39",
+    "iso": "br",
+    "country": "Brazil",
+    "country_code": "55",
+    "network": "Nextel (Telet)"
+  },
+  {
+    "mcc": "724",
     "mnc": "00",
     "iso": "br",
     "country": "Brazil",
@@ -1233,11 +1241,19 @@
   },
   {
     "mcc": "724",
-    "mnc": "39",
+    "mnc": "24",
     "iso": "br",
     "country": "Brazil",
     "country_code": "55",
-    "network": "Nextel (Telet)"
+    "network": "Amazonia Celular S/A"
+  },
+  {
+    "mcc": "724",
+    "mnc": "16",
+    "iso": "br",
+    "country": "Brazil",
+    "country_code": "55",
+    "network": "Brazil Telcom"
   },
   {
     "mcc": "724",
@@ -1254,22 +1270,6 @@
     "country": "Brazil",
     "country_code": "55",
     "network": "Oi (TNL PCS / Oi)"
-  },
-  {
-    "mcc": "724",
-    "mnc": "16",
-    "iso": "br",
-    "country": "Brazil",
-    "country_code": "55",
-    "network": "Brazil Telcom"
-  },
-  {
-    "mcc": "724",
-    "mnc": "24",
-    "iso": "br",
-    "country": "Brazil",
-    "country_code": "55",
-    "network": "Amazonia Celular S/A"
   },
   {
     "mcc": "724",
@@ -1305,6 +1305,14 @@
   },
   {
     "mcc": "724",
+    "mnc": "04",
+    "iso": "br",
+    "country": "Brazil",
+    "country_code": "55",
+    "network": "TIM"
+  },
+  {
+    "mcc": "724",
     "mnc": "03",
     "iso": "br",
     "country": "Brazil",
@@ -1314,14 +1322,6 @@
   {
     "mcc": "724",
     "mnc": "02",
-    "iso": "br",
-    "country": "Brazil",
-    "country_code": "55",
-    "network": "TIM"
-  },
-  {
-    "mcc": "724",
-    "mnc": "04",
     "iso": "br",
     "country": "Brazil",
     "country_code": "55",
@@ -2089,6 +2089,14 @@
   },
   {
     "mcc": "460",
+    "mnc": "07",
+    "iso": "cn",
+    "country": "China",
+    "country_code": "86",
+    "network": "China Mobile GSM"
+  },
+  {
+    "mcc": "460",
     "mnc": "02",
     "iso": "cn",
     "country": "China",
@@ -2098,14 +2106,6 @@
   {
     "mcc": "460",
     "mnc": "00",
-    "iso": "cn",
-    "country": "China",
-    "country_code": "86",
-    "network": "China Mobile GSM"
-  },
-  {
-    "mcc": "460",
-    "mnc": "07",
     "iso": "cn",
     "country": "China",
     "country_code": "86",
@@ -2369,7 +2369,7 @@
   },
   {
     "mcc": "712",
-    "mnc": "01",
+    "mnc": "02",
     "iso": "cr",
     "country": "Costa Rica",
     "country_code": "506",
@@ -2377,7 +2377,7 @@
   },
   {
     "mcc": "712",
-    "mnc": "02",
+    "mnc": "01",
     "iso": "cr",
     "country": "Costa Rica",
     "country_code": "506",
@@ -2609,7 +2609,7 @@
   },
   {
     "mcc": "238",
-    "mnc": "02",
+    "mnc": "77",
     "iso": "dk",
     "country": "Denmark",
     "country_code": "45",
@@ -2617,7 +2617,7 @@
   },
   {
     "mcc": "238",
-    "mnc": "77",
+    "mnc": "02",
     "iso": "dk",
     "country": "Denmark",
     "country_code": "45",
@@ -2953,7 +2953,7 @@
   },
   {
     "mcc": "244",
-    "mnc": "03",
+    "mnc": "13",
     "iso": "fi",
     "country": "Finland",
     "country_code": "358",
@@ -2961,7 +2961,7 @@
   },
   {
     "mcc": "244",
-    "mnc": "13",
+    "mnc": "03",
     "iso": "fi",
     "country": "Finland",
     "country_code": "358",
@@ -3225,14 +3225,6 @@
   },
   {
     "mcc": "208",
-    "mnc": "09",
-    "iso": "fr",
-    "country": "France",
-    "country_code": "33",
-    "network": "S.F.R."
-  },
-  {
-    "mcc": "208",
     "mnc": "11",
     "iso": "fr",
     "country": "France",
@@ -3241,7 +3233,7 @@
   },
   {
     "mcc": "208",
-    "mnc": "13",
+    "mnc": "10",
     "iso": "fr",
     "country": "France",
     "country_code": "33",
@@ -3249,7 +3241,15 @@
   },
   {
     "mcc": "208",
-    "mnc": "10",
+    "mnc": "09",
+    "iso": "fr",
+    "country": "France",
+    "country_code": "33",
+    "network": "S.F.R."
+  },
+  {
+    "mcc": "208",
+    "mnc": "13",
     "iso": "fr",
     "country": "France",
     "country_code": "33",
@@ -3465,22 +3465,6 @@
   },
   {
     "mcc": "262",
-    "mnc": "05",
-    "iso": "de",
-    "country": "Germany",
-    "country_code": "49",
-    "network": "E-Plus"
-  },
-  {
-    "mcc": "262",
-    "mnc": "77",
-    "iso": "de",
-    "country": "Germany",
-    "country_code": "49",
-    "network": "E-Plus"
-  },
-  {
-    "mcc": "262",
     "mnc": "03",
     "iso": "de",
     "country": "Germany",
@@ -3489,7 +3473,23 @@
   },
   {
     "mcc": "262",
+    "mnc": "05",
+    "iso": "de",
+    "country": "Germany",
+    "country_code": "49",
+    "network": "E-Plus"
+  },
+  {
+    "mcc": "262",
     "mnc": "20",
+    "iso": "de",
+    "country": "Germany",
+    "country_code": "49",
+    "network": "E-Plus"
+  },
+  {
+    "mcc": "262",
+    "mnc": "77",
     "iso": "de",
     "country": "Germany",
     "country_code": "49",
@@ -3529,7 +3529,7 @@
   },
   {
     "mcc": "262",
-    "mnc": "11",
+    "mnc": "08",
     "iso": "de",
     "country": "Germany",
     "country_code": "49",
@@ -3537,7 +3537,7 @@
   },
   {
     "mcc": "262",
-    "mnc": "08",
+    "mnc": "11",
     "iso": "de",
     "country": "Germany",
     "country_code": "49",
@@ -4033,14 +4033,6 @@
   },
   {
     "mcc": "454",
-    "mnc": "12",
-    "iso": "hk",
-    "country": "Hongkong, China",
-    "country_code": "852",
-    "network": "China Mobile/Peoples"
-  },
-  {
-    "mcc": "454",
     "mnc": "28",
     "iso": "hk",
     "country": "Hongkong, China",
@@ -4050,6 +4042,14 @@
   {
     "mcc": "454",
     "mnc": "13",
+    "iso": "hk",
+    "country": "Hongkong, China",
+    "country_code": "852",
+    "network": "China Mobile/Peoples"
+  },
+  {
+    "mcc": "454",
+    "mnc": "12",
     "iso": "hk",
     "country": "Hongkong, China",
     "country_code": "852",
@@ -4089,6 +4089,14 @@
   },
   {
     "mcc": "454",
+    "mnc": "18",
+    "iso": "hk",
+    "country": "Hongkong, China",
+    "country_code": "852",
+    "network": "CSL Ltd."
+  },
+  {
+    "mcc": "454",
     "mnc": "02",
     "iso": "hk",
     "country": "Hongkong, China",
@@ -4098,14 +4106,6 @@
   {
     "mcc": "454",
     "mnc": "00",
-    "iso": "hk",
-    "country": "Hongkong, China",
-    "country_code": "852",
-    "network": "CSL Ltd."
-  },
-  {
-    "mcc": "454",
-    "mnc": "18",
     "iso": "hk",
     "country": "Hongkong, China",
     "country_code": "852",
@@ -4169,7 +4169,7 @@
   },
   {
     "mcc": "454",
-    "mnc": "20",
+    "mnc": "19",
     "iso": "hk",
     "country": "Hongkong, China",
     "country_code": "852",
@@ -4177,7 +4177,7 @@
   },
   {
     "mcc": "454",
-    "mnc": "19",
+    "mnc": "20",
     "iso": "hk",
     "country": "Hongkong, China",
     "country_code": "852",
@@ -4345,14 +4345,6 @@
   },
   {
     "mcc": "274",
-    "mnc": "02",
-    "iso": "is",
-    "country": "Iceland",
-    "country_code": "354",
-    "network": "Vodafone/Tal hf"
-  },
-  {
-    "mcc": "274",
     "mnc": "03",
     "iso": "is",
     "country": "Iceland",
@@ -4360,28 +4352,12 @@
     "network": "Vodafone/Tal hf"
   },
   {
-    "mcc": "404",
-    "mnc": "17",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Aircel"
-  },
-  {
-    "mcc": "404",
-    "mnc": "42",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Aircel"
-  },
-  {
-    "mcc": "404",
-    "mnc": "33",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Aircel"
+    "mcc": "274",
+    "mnc": "02",
+    "iso": "is",
+    "country": "Iceland",
+    "country_code": "354",
+    "network": "Vodafone/Tal hf"
   },
   {
     "mcc": "404",
@@ -4402,6 +4378,30 @@
   {
     "mcc": "404",
     "mnc": "25",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "404",
+    "mnc": "17",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "404",
+    "mnc": "42",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "404",
+    "mnc": "33",
     "iso": "in",
     "country": "India",
     "country_code": "91",
@@ -4454,6 +4454,102 @@
     "country": "India",
     "country_code": "91",
     "network": "Barakhamba Sales & Serv."
+  },
+  {
+    "mcc": "404",
+    "mnc": "55",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "66",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "72",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "77",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "54",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "64",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "71",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "76",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "53",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "62",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "59",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "75",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
   },
   {
     "mcc": "404",
@@ -4529,102 +4625,6 @@
   },
   {
     "mcc": "404",
-    "mnc": "55",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "66",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "72",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "77",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "64",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "54",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "71",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "76",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "62",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "53",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "59",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "75",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
     "mnc": "10",
     "iso": "in",
     "country": "India",
@@ -4649,14 +4649,6 @@
   },
   {
     "mcc": "404",
-    "mnc": "87",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Escorts Telecom Ltd."
-  },
-  {
-    "mcc": "404",
     "mnc": "82",
     "iso": "in",
     "country": "India",
@@ -4674,6 +4666,14 @@
   {
     "mcc": "404",
     "mnc": "88",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Escorts Telecom Ltd."
+  },
+  {
+    "mcc": "404",
+    "mnc": "87",
     "iso": "in",
     "country": "India",
     "country_code": "91",
@@ -4745,22 +4745,6 @@
   },
   {
     "mcc": "404",
-    "mnc": "78",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Idea Cellular Ltd."
-  },
-  {
-    "mcc": "404",
-    "mnc": "07",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Idea Cellular Ltd."
-  },
-  {
-    "mcc": "404",
     "mnc": "04",
     "iso": "in",
     "country": "India",
@@ -4785,7 +4769,23 @@
   },
   {
     "mcc": "404",
-    "mnc": "68",
+    "mnc": "78",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea Cellular Ltd."
+  },
+  {
+    "mcc": "404",
+    "mnc": "07",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea Cellular Ltd."
+  },
+  {
+    "mcc": "404",
+    "mnc": "69",
     "iso": "in",
     "country": "India",
     "country_code": "91",
@@ -4793,7 +4793,7 @@
   },
   {
     "mcc": "404",
-    "mnc": "69",
+    "mnc": "68",
     "iso": "in",
     "country": "India",
     "country_code": "91",
@@ -4806,38 +4806,6 @@
     "country": "India",
     "country_code": "91",
     "network": "Reliable Internet Services"
-  },
-  {
-    "mcc": "404",
-    "mnc": "50",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Reliance Telecom Private"
-  },
-  {
-    "mcc": "405",
-    "mnc": "87",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Reliance Telecom Private"
-  },
-  {
-    "mcc": "404",
-    "mnc": "67",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Reliance Telecom Private"
-  },
-  {
-    "mcc": "404",
-    "mnc": "18",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Reliance Telecom Private"
   },
   {
     "mcc": "404",
@@ -4856,6 +4824,14 @@
     "network": "Reliance Telecom Private"
   },
   {
+    "mcc": "405",
+    "mnc": "87",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Telecom Private"
+  },
+  {
     "mcc": "404",
     "mnc": "36",
     "iso": "in",
@@ -4866,6 +4842,30 @@
   {
     "mcc": "404",
     "mnc": "52",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Telecom Private"
+  },
+  {
+    "mcc": "404",
+    "mnc": "50",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Telecom Private"
+  },
+  {
+    "mcc": "404",
+    "mnc": "67",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Telecom Private"
+  },
+  {
+    "mcc": "404",
+    "mnc": "18",
     "iso": "in",
     "country": "India",
     "country_code": "91",
@@ -4985,7 +4985,7 @@
   },
   {
     "mcc": "510",
-    "mnc": "01",
+    "mnc": "21",
     "iso": "id",
     "country": "Indonesia",
     "country_code": "62",
@@ -4993,7 +4993,7 @@
   },
   {
     "mcc": "510",
-    "mnc": "21",
+    "mnc": "01",
     "iso": "id",
     "country": "Indonesia",
     "country_code": "62",
@@ -5249,7 +5249,7 @@
   },
   {
     "mcc": "272",
-    "mnc": "17",
+    "mnc": "05",
     "iso": "ie",
     "country": "Ireland",
     "country_code": "353",
@@ -5257,7 +5257,7 @@
   },
   {
     "mcc": "272",
-    "mnc": "05",
+    "mnc": "17",
     "iso": "ie",
     "country": "Ireland",
     "country_code": "353",
@@ -5609,7 +5609,7 @@
   },
   {
     "mcc": "338",
-    "mnc": "110",
+    "mnc": "020",
     "iso": "jm",
     "country": "Jamaica",
     "country_code": "1876",
@@ -5617,7 +5617,7 @@
   },
   {
     "mcc": "338",
-    "mnc": "020",
+    "mnc": "110",
     "iso": "jm",
     "country": "Jamaica",
     "country_code": "1876",
@@ -5817,206 +5817,6 @@
   },
   {
     "mcc": "440",
-    "mnc": "37",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "25",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "64",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "441",
-    "mnc": "43",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "27",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "02",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "22",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "31",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "87",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "17",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "36",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "441",
-    "mnc": "92",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "65",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "58",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "28",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "03",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "12",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "441",
-    "mnc": "91",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "32",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "61",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "18",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "35",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "441",
-    "mnc": "93",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "441",
-    "mnc": "40",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "66",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
     "mnc": "49",
     "iso": "jp",
     "country": "Japan",
@@ -6034,6 +5834,14 @@
   {
     "mcc": "440",
     "mnc": "09",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "19",
     "iso": "jp",
     "country": "Japan",
     "country_code": "81",
@@ -6058,14 +5866,6 @@
   {
     "mcc": "440",
     "mnc": "60",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
-    "mnc": "19",
     "iso": "jp",
     "country": "Japan",
     "country_code": "81",
@@ -6193,14 +5993,6 @@
   },
   {
     "mcc": "440",
-    "mnc": "01",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "NTT Docomo"
-  },
-  {
-    "mcc": "440",
     "mnc": "26",
     "iso": "jp",
     "country": "Japan",
@@ -6289,6 +6081,214 @@
   },
   {
     "mcc": "440",
+    "mnc": "37",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "25",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "64",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "441",
+    "mnc": "43",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "27",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "02",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "22",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "17",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "31",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "87",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "36",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "441",
+    "mnc": "92",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "65",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "01",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "58",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "28",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "03",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "12",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "18",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "441",
+    "mnc": "91",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "32",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "61",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "35",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "441",
+    "mnc": "93",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "441",
+    "mnc": "40",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
+    "mnc": "66",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "NTT Docomo"
+  },
+  {
+    "mcc": "440",
     "mnc": "99",
     "iso": "jp",
     "country": "Japan",
@@ -6302,94 +6302,6 @@
     "country": "Japan",
     "country_code": "81",
     "network": "Okinawa Cellular Telephone"
-  },
-  {
-    "mcc": "441",
-    "mnc": "64",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
-  },
-  {
-    "mcc": "440",
-    "mnc": "97",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
-  },
-  {
-    "mcc": "440",
-    "mnc": "46",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
-  },
-  {
-    "mcc": "440",
-    "mnc": "42",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
-  },
-  {
-    "mcc": "441",
-    "mnc": "65",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
-  },
-  {
-    "mcc": "440",
-    "mnc": "90",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
-  },
-  {
-    "mcc": "440",
-    "mnc": "98",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
-  },
-  {
-    "mcc": "440",
-    "mnc": "92",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
-  },
-  {
-    "mcc": "440",
-    "mnc": "93",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
-  },
-  {
-    "mcc": "440",
-    "mnc": "43",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
-  },
-  {
-    "mcc": "440",
-    "mnc": "48",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "SoftBank Mobile Corp"
   },
   {
     "mcc": "441",
@@ -6504,8 +6416,96 @@
     "network": "SoftBank Mobile Corp"
   },
   {
+    "mcc": "441",
+    "mnc": "64",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
     "mcc": "440",
-    "mnc": "83",
+    "mnc": "97",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
+    "mcc": "440",
+    "mnc": "46",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
+    "mcc": "440",
+    "mnc": "42",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
+    "mcc": "441",
+    "mnc": "65",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
+    "mcc": "440",
+    "mnc": "90",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
+    "mcc": "440",
+    "mnc": "98",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
+    "mcc": "440",
+    "mnc": "92",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
+    "mcc": "440",
+    "mnc": "93",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
+    "mcc": "440",
+    "mnc": "43",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
+    "mcc": "440",
+    "mnc": "48",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "SoftBank Mobile Corp"
+  },
+  {
+    "mcc": "440",
+    "mnc": "85",
     "iso": "jp",
     "country": "Japan",
     "country_code": "81",
@@ -6513,7 +6513,7 @@
   },
   {
     "mcc": "440",
-    "mnc": "85",
+    "mnc": "83",
     "iso": "jp",
     "country": "Japan",
     "country_code": "81",
@@ -9953,7 +9953,7 @@
   },
   {
     "mcc": "637",
-    "mnc": "60",
+    "mnc": "10",
     "iso": "so",
     "country": "Somalia",
     "country_code": "252",
@@ -9961,7 +9961,7 @@
   },
   {
     "mcc": "637",
-    "mnc": "10",
+    "mnc": "60",
     "iso": "so",
     "country": "Somalia",
     "country_code": "252",
