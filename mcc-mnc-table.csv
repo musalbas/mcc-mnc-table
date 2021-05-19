@@ -27,8 +27,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 344,836,920,2336,ag,Antigua and Barbuda,1268,C & W
 344,836,930,2352,ag,Antigua and Barbuda,1268,DigiCel/Cing. Wireless
 722,1826,310,784,ar,Argentina Republic,54,Claro/ CTI/AMX
-722,1826,330,816,ar,Argentina Republic,54,Claro/ CTI/AMX
 722,1826,320,800,ar,Argentina Republic,54,Claro/ CTI/AMX
+722,1826,330,816,ar,Argentina Republic,54,Claro/ CTI/AMX
 722,1826,010,16,ar,Argentina Republic,54,Compania De Radiocomunicaciones Moviles SA
 722,1826,070,112,ar,Argentina Republic,54,Movistar/Telefonica
 722,1826,007,7,ar,Argentina Republic,54,Movistar/Telefonica
@@ -51,8 +51,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 505,1285,06,111,au,Australia,61,H3G Ltd.
 505,1285,88,2191,au,Australia,61,Pivotel Group Ltd
 505,1285,19,415,au,Australia,61,Lycamobile Pty Ltd
-505,1285,08,143,au,Australia,61,Railcorp/Vodafone
 505,1285,99,2463,au,Australia,61,Railcorp/Vodafone
+505,1285,08,143,au,Australia,61,Railcorp/Vodafone
 505,1285,13,319,au,Australia,61,Railcorp/Vodafone
 505,1285,90,2319,au,Australia,61,Singtel Optus
 505,1285,02,47,au,Australia,61,Singtel Optus
@@ -66,8 +66,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 505,1285,03,63,au,Australia,61,Vodafone
 232,562,02,47,at,Austria,43,A1 MobilKom
 232,562,11,287,at,Austria,43,A1 MobilKom
-232,562,01,31,at,Austria,43,A1 MobilKom
 232,562,09,159,at,Austria,43,A1 MobilKom
+232,562,01,31,at,Austria,43,A1 MobilKom
 232,562,15,351,at,Austria,43,T-Mobile/Telering
 232,562,00,15,at,Austria,43,Fix Line
 232,562,10,271,at,Austria,43,H3G
@@ -145,8 +145,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 652,1618,02,47,bw,Botswana,267,Orange
 724,1828,26,623,br,Brazil,55,AmericaNet
 724,1828,12,303,br,Brazil,55,Claro/Albra/America Movil
-724,1828,38,911,br,Brazil,55,Claro/Albra/America Movil
 724,1828,05,95,br,Brazil,55,Claro/Albra/America Movil
+724,1828,38,911,br,Brazil,55,Claro/Albra/America Movil
 724,1828,01,31,br,Brazil,55,Vivo S.A./Telemig
 724,1828,33,831,br,Brazil,55,CTBC Celular SA (CTBC)
 724,1828,32,815,br,Brazil,55,CTBC Celular SA (CTBC)
@@ -162,9 +162,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 724,1828,15,351,br,Brazil,55,Sercontel Cel
 724,1828,07,127,br,Brazil,55,CTBC/Triangulo
 724,1828,19,415,br,Brazil,55,Vivo S.A./Telemig
+724,1828,04,79,br,Brazil,55,TIM
 724,1828,03,63,br,Brazil,55,TIM
 724,1828,02,47,br,Brazil,55,TIM
-724,1828,04,79,br,Brazil,55,TIM
 724,1828,37,895,br,Brazil,55,Unicel do Brasil Telecomunicacoes Ltda
 724,1828,06,111,br,Brazil,55,Vivo S.A./Telemig
 724,1828,23,575,br,Brazil,55,Vivo S.A./Telemig
@@ -222,8 +222,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 302,770,760,1888,ca,Canada,1,Public Mobile
 302,770,657,1623,ca,Canada,1,Quebectel Mobility
 302,770,720,1824,ca,Canada,1,Rogers AT&T Wireless
-302,770,654,1620,ca,Canada,1,Sask Tel Mobility
 302,770,780,1920,ca,Canada,1,Sask Tel Mobility
+302,770,654,1620,ca,Canada,1,Sask Tel Mobility
 302,770,680,1664,ca,Canada,1,Sask Tel Mobility
 302,770,656,1622,ca,Canada,1,Tbay Mobility
 302,770,653,1619,ca,Canada,1,Telus Mobility
@@ -1273,9 +1273,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 214,532,25,607,es,Spain,34,Lycamobile SL
 214,532,07,127,es,Spain,34,Movistar
 214,532,05,95,es,Spain,34,Movistar
+214,532,09,159,es,Spain,34,Orange
 214,532,11,287,es,Spain,34,Orange
 214,532,03,63,es,Spain,34,Orange
-214,532,09,159,es,Spain,34,Orange
 214,532,17,383,es,Spain,34,R Cable y Telec. Galicia SA
 214,532,19,415,es,Spain,34,Simyo/KPN
 214,532,16,367,es,Spain,34,Telecable de Asturias SA
@@ -1465,8 +1465,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 234,564,17,383,gb,United Kingdom,44,FlexTel
 234,564,55,1375,gb,United Kingdom,44,Guernsey Telecoms
 234,564,14,335,gb,United Kingdom,44,HaySystems
-234,564,20,527,gb,United Kingdom,44,H3G Hutchinson
 234,564,94,2383,gb,United Kingdom,44,H3G Hutchinson
+234,564,20,527,gb,United Kingdom,44,H3G Hutchinson
 234,564,75,1887,gb,United Kingdom,44,Inquam Telecom Ltd
 234,564,50,1295,gb,United Kingdom,44,Jersey Telecom
 234,564,35,863,gb,United Kingdom,44,JSC Ingenicum
@@ -1475,8 +1475,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 234,564,01,31,gb,United Kingdom,44,Mapesbury C. Ltd
 234,564,28,655,gb,United Kingdom,44,Marthon Telecom
 234,564,10,271,gb,United Kingdom,44,O2 Ltd.
-234,564,11,287,gb,United Kingdom,44,O2 Ltd.
 234,564,02,47,gb,United Kingdom,44,O2 Ltd.
+234,564,11,287,gb,United Kingdom,44,O2 Ltd.
 234,564,08,143,gb,United Kingdom,44,OnePhone
 234,564,16,367,gb,United Kingdom,44,Opal Telecom
 234,564,34,847,gb,United Kingdom,44,Everyth. Ev.wh./Orange
@@ -1524,52 +1524,52 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 311,785,590,1424,us,United States,1,California RSA No. 3 Limited Partnership
 311,785,500,1280,us,United States,1,Cambridge Telephone Company Inc.
 310,784,830,2096,us,United States,1,Caprock Cellular Ltd.
-311,785,287,647,us,United States,1,Verizon Wireless
 311,785,271,625,us,United States,1,Verizon Wireless
-311,785,481,1153,us,United States,1,Verizon Wireless
+311,785,287,647,us,United States,1,Verizon Wireless
 311,785,276,630,us,United States,1,Verizon Wireless
+311,785,481,1153,us,United States,1,Verizon Wireless
+310,784,013,19,us,United States,1,Verizon Wireless
 311,785,281,641,us,United States,1,Verizon Wireless
 311,785,486,1158,us,United States,1,Verizon Wireless
-310,784,013,19,us,United States,1,Verizon Wireless
-311,785,286,646,us,United States,1,Verizon Wireless
 311,785,270,624,us,United States,1,Verizon Wireless
-311,785,480,1152,us,United States,1,Verizon Wireless
+311,785,286,646,us,United States,1,Verizon Wireless
 311,785,275,629,us,United States,1,Verizon Wireless
-311,785,485,1157,us,United States,1,Verizon Wireless
+311,785,480,1152,us,United States,1,Verizon Wireless
 310,784,012,18,us,United States,1,Verizon Wireless
 311,785,280,640,us,United States,1,Verizon Wireless
-311,785,285,645,us,United States,1,Verizon Wireless
+311,785,485,1157,us,United States,1,Verizon Wireless
 311,785,110,272,us,United States,1,Verizon Wireless
-311,785,390,912,us,United States,1,Verizon Wireless
+311,785,285,645,us,United States,1,Verizon Wireless
 311,785,274,628,us,United States,1,Verizon Wireless
-311,785,484,1156,us,United States,1,Verizon Wireless
+311,785,390,912,us,United States,1,Verizon Wireless
 310,784,010,16,us,United States,1,Verizon Wireless
 311,785,279,633,us,United States,1,Verizon Wireless
+311,785,484,1156,us,United States,1,Verizon Wireless
+310,784,910,2320,us,United States,1,Verizon Wireless
 311,785,284,644,us,United States,1,Verizon Wireless
 311,785,489,1161,us,United States,1,Verizon Wireless
-310,784,910,2320,us,United States,1,Verizon Wireless
-311,785,289,649,us,United States,1,Verizon Wireless
 311,785,273,627,us,United States,1,Verizon Wireless
-311,785,483,1155,us,United States,1,Verizon Wireless
+311,785,289,649,us,United States,1,Verizon Wireless
 310,784,004,4,us,United States,1,Verizon Wireless
 311,785,278,632,us,United States,1,Verizon Wireless
+311,785,483,1155,us,United States,1,Verizon Wireless
+310,784,890,2192,us,United States,1,Verizon Wireless
 311,785,283,643,us,United States,1,Verizon Wireless
 311,785,488,1160,us,United States,1,Verizon Wireless
-310,784,890,2192,us,United States,1,Verizon Wireless
-311,785,288,648,us,United States,1,Verizon Wireless
 311,785,272,626,us,United States,1,Verizon Wireless
-311,785,482,1154,us,United States,1,Verizon Wireless
+311,785,288,648,us,United States,1,Verizon Wireless
 311,785,277,631,us,United States,1,Verizon Wireless
+311,785,482,1154,us,United States,1,Verizon Wireless
+310,784,590,1424,us,United States,1,Verizon Wireless
 311,785,282,642,us,United States,1,Verizon Wireless
 311,785,487,1159,us,United States,1,Verizon Wireless
-310,784,590,1424,us,United States,1,Verizon Wireless
 312,786,280,640,us,United States,1,Cellular Network Partnership LLC
 312,786,270,624,us,United States,1,Cellular Network Partnership LLC
 310,784,360,864,us,United States,1,Cellular Network Partnership LLC
 311,785,190,400,us,United States,1,
 310,784,030,48,us,United States,1,
-311,785,120,288,us,United States,1,Choice Phone LLC
 310,784,480,1152,us,United States,1,Choice Phone LLC
+311,785,120,288,us,United States,1,Choice Phone LLC
 310,784,630,1584,us,United States,1,
 310,784,420,1056,us,United States,1,Cincinnati Bell Wireless LLC
 310,784,180,384,us,United States,1,Cingular Wireless
