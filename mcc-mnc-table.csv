@@ -89,8 +89,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 400,1024,02,47,az,Azerbaijan,994,J.V. Bakcell GSM 2000
 400,1024,06,111,az,Azerbaijan,994,Naxtel
 364,868,490,1168,bs,Bahamas,1242,Aliv/Cable Bahamas
-364,868,39,927,bs,Bahamas,1242,Bahamas Telco. Comp.
 364,868,390,912,bs,Bahamas,1242,Bahamas Telco. Comp.
+364,868,39,927,bs,Bahamas,1242,Bahamas Telco. Comp.
 364,868,30,783,bs,Bahamas,1242,Bahamas Telco. Comp.
 364,868,03,63,bs,Bahamas,1242,Smart Communications
 426,1062,01,31,bh,Bahrain,973,Batelco
@@ -152,12 +152,12 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 724,1828,32,815,br,Brazil,55,CTBC Celular SA (CTBC)
 724,1828,34,847,br,Brazil,55,CTBC Celular SA (CTBC)
 724,1828,08,143,br,Brazil,55,TIM
-724,1828,39,927,br,Brazil,55,Nextel (Telet)
 724,1828,00,15,br,Brazil,55,Nextel (Telet)
-724,1828,24,591,br,Brazil,55,Amazonia Celular S/A
+724,1828,39,927,br,Brazil,55,Nextel (Telet)
 724,1828,30,783,br,Brazil,55,Oi (TNL PCS / Oi)
 724,1828,31,799,br,Brazil,55,Oi (TNL PCS / Oi)
 724,1828,16,367,br,Brazil,55,Brazil Telcom
+724,1828,24,591,br,Brazil,55,Amazonia Celular S/A
 724,1828,54,1359,br,Brazil,55,PORTO SEGURO TELECOMUNICACOES
 724,1828,15,351,br,Brazil,55,Sercontel Cel
 724,1828,07,127,br,Brazil,55,CTBC/Triangulo
@@ -260,9 +260,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 730,1840,00,15,cl,Chile,56,TESAM SA
 730,1840,13,319,cl,Chile,56,Tribe Mobile SPA
 730,1840,08,143,cl,Chile,56,VTR Banda Ancha SA
-460,1120,07,127,cn,China,86,China Mobile GSM
 460,1120,02,47,cn,China,86,China Mobile GSM
 460,1120,00,15,cn,China,86,China Mobile GSM
+460,1120,07,127,cn,China,86,China Mobile GSM
 460,1120,04,79,cn,China,86,China Space Mobile Satellite Telecommunications Co. Ltd (China Spacecom)
 460,1120,05,95,cn,China,86,China Telecom
 460,1120,03,63,cn,China,86,China Telecom
@@ -295,8 +295,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 629,1577,07,127,cg,Congo Republic,242,Warid
 548,1352,01,31,ck,Cook Islands,682,Telecom Cook Islands
 712,1810,03,63,cr,Costa Rica,506,Claro
-712,1810,02,47,cr,Costa Rica,506,ICE
 712,1810,01,31,cr,Costa Rica,506,ICE
+712,1810,02,47,cr,Costa Rica,506,ICE
 712,1810,04,79,cr,Costa Rica,506,Movistar
 712,1810,20,527,cr,Costa Rica,506,Virtualis
 219,537,01,31,hr,Croatia,385,T-Mobile/Cronet
@@ -404,8 +404,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 208,520,01,31,fr,France,33,Orange
 208,520,11,287,fr,France,33,S.F.R.
 208,520,10,271,fr,France,33,S.F.R.
-208,520,09,159,fr,France,33,S.F.R.
 208,520,13,319,fr,France,33,S.F.R.
+208,520,09,159,fr,France,33,S.F.R.
 208,520,04,79,fr,France,33,SISTEER
 208,520,00,15,fr,France,33,Tel/Tel
 208,520,22,559,fr,France,33,Transatel SA
@@ -432,17 +432,17 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 262,610,17,383,de,Germany,49,E-Plus
 262,610,10,271,de,Germany,49,DB Netz AG
 262,610,n/a,271,de,Germany,49,Debitel
+262,610,77,1919,de,Germany,49,E-Plus
 262,610,03,63,de,Germany,49,E-Plus
 262,610,05,95,de,Germany,49,E-Plus
-262,610,77,1919,de,Germany,49,E-Plus
 262,610,20,527,de,Germany,49,E-Plus
 262,610,12,303,de,Germany,49,E-Plus
 262,610,14,335,de,Germany,49,Group 3G UMTS
 262,610,43,1087,de,Germany,49,Lycamobile
 262,610,13,319,de,Germany,49,Mobilcom
+262,610,08,143,de,Germany,49,O2
 262,610,07,127,de,Germany,49,O2
 262,610,11,287,de,Germany,49,O2
-262,610,08,143,de,Germany,49,O2
 262,610,33,831,de,Germany,49,Sipgate
 262,610,22,559,de,Germany,49,Sipgate
 262,610,n/a,559,de,Germany,49,Talkline
@@ -519,8 +519,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 454,1108,03,63,hk,Hongkong China,852,H3G/Hutchinson
 454,1108,14,335,hk,Hongkong China,852,H3G/Hutchinson
 454,1108,05,95,hk,Hongkong China,852,H3G/Hutchinson
-454,1108,19,415,hk,Hongkong China,852,HKT/PCCW
 454,1108,20,527,hk,Hongkong China,852,HKT/PCCW
+454,1108,19,415,hk,Hongkong China,852,HKT/PCCW
 454,1108,29,671,hk,Hongkong China,852,HKT/PCCW
 454,1108,16,367,hk,Hongkong China,852,HKT/PCCW
 454,1108,47,1151,hk,Hongkong China,852,shared by private TETRA systems
@@ -541,9 +541,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 274,628,01,31,is,Iceland,354,Siminn
 274,628,11,287,is,Iceland,354,NOVA
 274,628,04,79,is,Iceland,354,VIKING/IMC
+274,628,05,95,is,Iceland,354,Vodafone/Tal hf
 274,628,03,63,is,Iceland,354,Vodafone/Tal hf
 274,628,02,47,is,Iceland,354,Vodafone/Tal hf
-274,628,05,95,is,Iceland,354,Vodafone/Tal hf
 404,1028,29,671,in,India,91,Aircel
 404,1028,28,655,in,India,91,Aircel
 404,1028,25,607,in,India,91,Aircel
@@ -556,14 +556,17 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 405,1029,53,1343,in,India,91,AirTel
 404,1028,86,2159,in,India,91,Barakhamba Sales & Serv.
 404,1028,13,319,in,India,91,Barakhamba Sales & Serv.
+404,1028,34,847,in,India,91,BSNL
+404,1028,66,1647,in,India,91,BSNL
+404,1028,55,1375,in,India,91,BSNL
 404,1028,72,1839,in,India,91,BSNL
 404,1028,77,1919,in,India,91,BSNL
-404,1028,54,1359,in,India,91,BSNL
 404,1028,64,1615,in,India,91,BSNL
+404,1028,54,1359,in,India,91,BSNL
 404,1028,71,1823,in,India,91,BSNL
 404,1028,76,1903,in,India,91,BSNL
-404,1028,53,1343,in,India,91,BSNL
 404,1028,62,1583,in,India,91,BSNL
+404,1028,53,1343,in,India,91,BSNL
 404,1028,59,1439,in,India,91,BSNL
 404,1028,75,1887,in,India,91,BSNL
 404,1028,51,1311,in,India,91,BSNL
@@ -574,9 +577,6 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 404,1028,57,1407,in,India,91,BSNL
 404,1028,80,2063,in,India,91,BSNL
 404,1028,73,1855,in,India,91,BSNL
-404,1028,34,847,in,India,91,BSNL
-404,1028,55,1375,in,India,91,BSNL
-404,1028,66,1647,in,India,91,BSNL
 404,1028,10,271,in,India,91,Bharti Airtel Limited (Delhi)
 404,1028,045,69,in,India,91,Bharti Airtel Limited (Karnataka) (India)
 404,1028,79,1951,in,India,91,CellOne A&N
@@ -584,9 +584,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 404,1028,89,2207,in,India,91,Escorts Telecom Ltd.
 404,1028,88,2191,in,India,91,Escorts Telecom Ltd.
 404,1028,87,2175,in,India,91,Escorts Telecom Ltd.
+404,1028,56,1391,in,India,91,Escotel Mobile Communications
 404,1028,12,303,in,India,91,Escotel Mobile Communications
 404,1028,19,415,in,India,91,Escotel Mobile Communications
-404,1028,56,1391,in,India,91,Escotel Mobile Communications
 405,1029,05,95,in,India,91,Fascel Limited
 404,1028,05,95,in,India,91,Fascel
 404,1028,998,2456,in,India,91,Fix Line
