@@ -432,17 +432,17 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 262,610,17,383,de,Germany,49,E-Plus
 262,610,10,271,de,Germany,49,DB Netz AG
 262,610,n/a,271,de,Germany,49,Debitel
-262,610,03,63,de,Germany,49,E-Plus
-262,610,20,527,de,Germany,49,E-Plus
-262,610,05,95,de,Germany,49,E-Plus
 262,610,77,1919,de,Germany,49,E-Plus
+262,610,20,527,de,Germany,49,E-Plus
+262,610,03,63,de,Germany,49,E-Plus
+262,610,05,95,de,Germany,49,E-Plus
 262,610,12,303,de,Germany,49,E-Plus
 262,610,14,335,de,Germany,49,Group 3G UMTS
 262,610,43,1087,de,Germany,49,Lycamobile
 262,610,13,319,de,Germany,49,Mobilcom
+262,610,08,143,de,Germany,49,O2
 262,610,07,127,de,Germany,49,O2
 262,610,11,287,de,Germany,49,O2
-262,610,08,143,de,Germany,49,O2
 262,610,33,831,de,Germany,49,Sipgate
 262,610,22,559,de,Germany,49,Sipgate
 262,610,n/a,559,de,Germany,49,Talkline
@@ -541,9 +541,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 274,628,01,31,is,Iceland,354,Siminn
 274,628,11,287,is,Iceland,354,NOVA
 274,628,04,79,is,Iceland,354,VIKING/IMC
+274,628,05,95,is,Iceland,354,Vodafone/Tal hf
 274,628,03,63,is,Iceland,354,Vodafone/Tal hf
 274,628,02,47,is,Iceland,354,Vodafone/Tal hf
-274,628,05,95,is,Iceland,354,Vodafone/Tal hf
 404,1028,29,671,in,India,91,Aircel
 404,1028,28,655,in,India,91,Aircel
 404,1028,25,607,in,India,91,Aircel
@@ -556,6 +556,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 405,1029,53,1343,in,India,91,AirTel
 404,1028,86,2159,in,India,91,Barakhamba Sales & Serv.
 404,1028,13,319,in,India,91,Barakhamba Sales & Serv.
+404,1028,34,847,in,India,91,BSNL
+404,1028,55,1375,in,India,91,BSNL
+404,1028,66,1647,in,India,91,BSNL
 404,1028,72,1839,in,India,91,BSNL
 404,1028,77,1919,in,India,91,BSNL
 404,1028,54,1359,in,India,91,BSNL
@@ -567,16 +570,13 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 404,1028,59,1439,in,India,91,BSNL
 404,1028,75,1887,in,India,91,BSNL
 404,1028,51,1311,in,India,91,BSNL
-404,1028,58,1423,in,India,91,BSNL
 404,1028,81,2079,in,India,91,BSNL
+404,1028,58,1423,in,India,91,BSNL
 404,1028,74,1871,in,India,91,BSNL
 404,1028,38,911,in,India,91,BSNL
-404,1028,57,1407,in,India,91,BSNL
 404,1028,80,2063,in,India,91,BSNL
+404,1028,57,1407,in,India,91,BSNL
 404,1028,73,1855,in,India,91,BSNL
-404,1028,34,847,in,India,91,BSNL
-404,1028,55,1375,in,India,91,BSNL
-404,1028,66,1647,in,India,91,BSNL
 404,1028,10,271,in,India,91,Bharti Airtel Limited (Delhi)
 404,1028,045,69,in,India,91,Bharti Airtel Limited (Karnataka) (India)
 404,1028,79,1951,in,India,91,CellOne A&N
@@ -584,9 +584,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 404,1028,89,2207,in,India,91,Escorts Telecom Ltd.
 404,1028,88,2191,in,India,91,Escorts Telecom Ltd.
 404,1028,87,2175,in,India,91,Escorts Telecom Ltd.
+404,1028,56,1391,in,India,91,Escotel Mobile Communications
 404,1028,12,303,in,India,91,Escotel Mobile Communications
 404,1028,19,415,in,India,91,Escotel Mobile Communications
-404,1028,56,1391,in,India,91,Escotel Mobile Communications
 405,1029,05,95,in,India,91,Fascel Limited
 404,1028,05,95,in,India,91,Fascel
 404,1028,998,2456,in,India,91,Fix Line
