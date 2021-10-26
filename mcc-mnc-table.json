@@ -457,7 +457,7 @@
   },
   {
     "mcc": "505",
-    "mnc": "72",
+    "mnc": "11",
     "iso": "au",
     "country": "Australia",
     "country_code": "61",
@@ -473,7 +473,7 @@
   },
   {
     "mcc": "505",
-    "mnc": "01",
+    "mnc": "72",
     "iso": "au",
     "country": "Australia",
     "country_code": "61",
@@ -481,7 +481,7 @@
   },
   {
     "mcc": "505",
-    "mnc": "11",
+    "mnc": "01",
     "iso": "au",
     "country": "Australia",
     "country_code": "61",
@@ -537,7 +537,7 @@
   },
   {
     "mcc": "232",
-    "mnc": "09",
+    "mnc": "01",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -545,7 +545,7 @@
   },
   {
     "mcc": "232",
-    "mnc": "01",
+    "mnc": "09",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -601,7 +601,7 @@
   },
   {
     "mcc": "232",
-    "mnc": "05",
+    "mnc": "12",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -609,7 +609,7 @@
   },
   {
     "mcc": "232",
-    "mnc": "12",
+    "mnc": "05",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -625,22 +625,6 @@
   },
   {
     "mcc": "232",
-    "mnc": "07",
-    "iso": "at",
-    "country": "Austria",
-    "country_code": "43",
-    "network": "T-Mobile/Telering"
-  },
-  {
-    "mcc": "232",
-    "mnc": "04",
-    "iso": "at",
-    "country": "Austria",
-    "country_code": "43",
-    "network": "T-Mobile/Telering"
-  },
-  {
-    "mcc": "232",
     "mnc": "03",
     "iso": "at",
     "country": "Austria",
@@ -649,7 +633,23 @@
   },
   {
     "mcc": "232",
+    "mnc": "07",
+    "iso": "at",
+    "country": "Austria",
+    "country_code": "43",
+    "network": "T-Mobile/Telering"
+  },
+  {
+    "mcc": "232",
     "mnc": "13",
+    "iso": "at",
+    "country": "Austria",
+    "country_code": "43",
+    "network": "T-Mobile/Telering"
+  },
+  {
+    "mcc": "232",
+    "mnc": "04",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -1193,6 +1193,14 @@
   },
   {
     "mcc": "724",
+    "mnc": "34",
+    "iso": "br",
+    "country": "Brazil",
+    "country_code": "55",
+    "network": "CTBC Celular SA (CTBC)"
+  },
+  {
+    "mcc": "724",
     "mnc": "33",
     "iso": "br",
     "country": "Brazil",
@@ -1202,14 +1210,6 @@
   {
     "mcc": "724",
     "mnc": "32",
-    "iso": "br",
-    "country": "Brazil",
-    "country_code": "55",
-    "network": "CTBC Celular SA (CTBC)"
-  },
-  {
-    "mcc": "724",
-    "mnc": "34",
     "iso": "br",
     "country": "Brazil",
     "country_code": "55",
@@ -2009,6 +2009,14 @@
   },
   {
     "mcc": "730",
+    "mnc": "09",
+    "iso": "cl",
+    "country": "Chile",
+    "country_code": "56",
+    "network": "Nextel SA"
+  },
+  {
+    "mcc": "730",
     "mnc": "05",
     "iso": "cl",
     "country": "Chile",
@@ -2018,14 +2026,6 @@
   {
     "mcc": "730",
     "mnc": "04",
-    "iso": "cl",
-    "country": "Chile",
-    "country_code": "56",
-    "network": "Nextel SA"
-  },
-  {
-    "mcc": "730",
-    "mnc": "09",
     "iso": "cl",
     "country": "Chile",
     "country_code": "56",
@@ -2121,7 +2121,7 @@
   },
   {
     "mcc": "460",
-    "mnc": "03",
+    "mnc": "05",
     "iso": "cn",
     "country": "China",
     "country_code": "86",
@@ -2129,7 +2129,7 @@
   },
   {
     "mcc": "460",
-    "mnc": "05",
+    "mnc": "03",
     "iso": "cn",
     "country": "China",
     "country_code": "86",
@@ -2225,7 +2225,7 @@
   },
   {
     "mcc": "732",
-    "mnc": "142",
+    "mnc": "020",
     "iso": "co",
     "country": "Colombia",
     "country_code": "57",
@@ -2233,7 +2233,7 @@
   },
   {
     "mcc": "732",
-    "mnc": "020",
+    "mnc": "142",
     "iso": "co",
     "country": "Colombia",
     "country_code": "57",
@@ -2593,7 +2593,7 @@
   },
   {
     "mcc": "238",
-    "mnc": "01",
+    "mnc": "10",
     "iso": "dk",
     "country": "Denmark",
     "country_code": "45",
@@ -2601,7 +2601,7 @@
   },
   {
     "mcc": "238",
-    "mnc": "10",
+    "mnc": "01",
     "iso": "dk",
     "country": "Denmark",
     "country_code": "45",
@@ -2945,6 +2945,14 @@
   },
   {
     "mcc": "244",
+    "mnc": "12",
+    "iso": "fi",
+    "country": "Finland",
+    "country_code": "358",
+    "network": "DNA/Finnet"
+  },
+  {
+    "mcc": "244",
     "mnc": "04",
     "iso": "fi",
     "country": "Finland",
@@ -2962,14 +2970,6 @@
   {
     "mcc": "244",
     "mnc": "13",
-    "iso": "fi",
-    "country": "Finland",
-    "country_code": "358",
-    "network": "DNA/Finnet"
-  },
-  {
-    "mcc": "244",
-    "mnc": "12",
     "iso": "fi",
     "country": "Finland",
     "country_code": "358",
@@ -3577,7 +3577,7 @@
   },
   {
     "mcc": "262",
-    "mnc": "01",
+    "mnc": "06",
     "iso": "de",
     "country": "Germany",
     "country_code": "49",
@@ -3585,7 +3585,7 @@
   },
   {
     "mcc": "262",
-    "mnc": "06",
+    "mnc": "01",
     "iso": "de",
     "country": "Germany",
     "country_code": "49",
@@ -3609,6 +3609,14 @@
   },
   {
     "mcc": "262",
+    "mnc": "42",
+    "iso": "de",
+    "country": "Germany",
+    "country_code": "49",
+    "network": "Vodafone D2"
+  },
+  {
+    "mcc": "262",
     "mnc": "04",
     "iso": "de",
     "country": "Germany",
@@ -3618,14 +3626,6 @@
   {
     "mcc": "262",
     "mnc": "02",
-    "iso": "de",
-    "country": "Germany",
-    "country_code": "49",
-    "network": "Vodafone D2"
-  },
-  {
-    "mcc": "262",
-    "mnc": "42",
     "iso": "de",
     "country": "Germany",
     "country_code": "49",
@@ -4129,22 +4129,6 @@
   },
   {
     "mcc": "454",
-    "mnc": "14",
-    "iso": "hk",
-    "country": "Hongkong, China",
-    "country_code": "852",
-    "network": "H3G/Hutchinson"
-  },
-  {
-    "mcc": "454",
-    "mnc": "05",
-    "iso": "hk",
-    "country": "Hongkong, China",
-    "country_code": "852",
-    "network": "H3G/Hutchinson"
-  },
-  {
-    "mcc": "454",
     "mnc": "04",
     "iso": "hk",
     "country": "Hongkong, China",
@@ -4161,19 +4145,19 @@
   },
   {
     "mcc": "454",
-    "mnc": "29",
+    "mnc": "14",
     "iso": "hk",
     "country": "Hongkong, China",
     "country_code": "852",
-    "network": "HKT/PCCW"
+    "network": "H3G/Hutchinson"
   },
   {
     "mcc": "454",
-    "mnc": "16",
+    "mnc": "05",
     "iso": "hk",
     "country": "Hongkong, China",
     "country_code": "852",
-    "network": "HKT/PCCW"
+    "network": "H3G/Hutchinson"
   },
   {
     "mcc": "454",
@@ -4186,6 +4170,22 @@
   {
     "mcc": "454",
     "mnc": "20",
+    "iso": "hk",
+    "country": "Hongkong, China",
+    "country_code": "852",
+    "network": "HKT/PCCW"
+  },
+  {
+    "mcc": "454",
+    "mnc": "29",
+    "iso": "hk",
+    "country": "Hongkong, China",
+    "country_code": "852",
+    "network": "HKT/PCCW"
+  },
+  {
+    "mcc": "454",
+    "mnc": "16",
     "iso": "hk",
     "country": "Hongkong, China",
     "country_code": "852",
@@ -5489,6 +5489,14 @@
   },
   {
     "mcc": "222",
+    "mnc": "01",
+    "iso": "it",
+    "country": "Italy",
+    "country_code": "39",
+    "network": "TIM"
+  },
+  {
+    "mcc": "222",
     "mnc": "48",
     "iso": "it",
     "country": "Italy",
@@ -5502,14 +5510,6 @@
     "country": "Italy",
     "country_code": "39",
     "network": "Telecom Italia Mobile SpA"
-  },
-  {
-    "mcc": "222",
-    "mnc": "01",
-    "iso": "it",
-    "country": "Italy",
-    "country_code": "39",
-    "network": "TIM"
   },
   {
     "mcc": "222",
@@ -5649,70 +5649,6 @@
   },
   {
     "mcc": "440",
-    "mnc": "74",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "KDDI Corporation"
-  },
-  {
-    "mcc": "440",
-    "mnc": "70",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "KDDI Corporation"
-  },
-  {
-    "mcc": "440",
-    "mnc": "89",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "KDDI Corporation"
-  },
-  {
-    "mcc": "440",
-    "mnc": "51",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "KDDI Corporation"
-  },
-  {
-    "mcc": "440",
-    "mnc": "75",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "KDDI Corporation"
-  },
-  {
-    "mcc": "440",
-    "mnc": "56",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "KDDI Corporation"
-  },
-  {
-    "mcc": "441",
-    "mnc": "70",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "KDDI Corporation"
-  },
-  {
-    "mcc": "440",
-    "mnc": "52",
-    "iso": "jp",
-    "country": "Japan",
-    "country_code": "81",
-    "network": "KDDI Corporation"
-  },
-  {
-    "mcc": "440",
     "mnc": "76",
     "iso": "jp",
     "country": "Japan",
@@ -5810,6 +5746,70 @@
   {
     "mcc": "440",
     "mnc": "50",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "KDDI Corporation"
+  },
+  {
+    "mcc": "440",
+    "mnc": "74",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "KDDI Corporation"
+  },
+  {
+    "mcc": "440",
+    "mnc": "70",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "KDDI Corporation"
+  },
+  {
+    "mcc": "440",
+    "mnc": "89",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "KDDI Corporation"
+  },
+  {
+    "mcc": "440",
+    "mnc": "51",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "KDDI Corporation"
+  },
+  {
+    "mcc": "440",
+    "mnc": "75",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "KDDI Corporation"
+  },
+  {
+    "mcc": "440",
+    "mnc": "56",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "KDDI Corporation"
+  },
+  {
+    "mcc": "441",
+    "mnc": "70",
+    "iso": "jp",
+    "country": "Japan",
+    "country_code": "81",
+    "network": "KDDI Corporation"
+  },
+  {
+    "mcc": "440",
+    "mnc": "52",
     "iso": "jp",
     "country": "Japan",
     "country_code": "81",
@@ -7385,7 +7385,7 @@
   },
   {
     "mcc": "502",
-    "mnc": "12",
+    "mnc": "17",
     "iso": "my",
     "country": "Malaysia",
     "country_code": "60",
@@ -7393,7 +7393,7 @@
   },
   {
     "mcc": "502",
-    "mnc": "17",
+    "mnc": "12",
     "iso": "my",
     "country": "Malaysia",
     "country_code": "60",
@@ -8057,6 +8057,14 @@
   },
   {
     "mcc": "204",
+    "mnc": "69",
+    "iso": "nl",
+    "country": "Netherlands",
+    "country_code": "31",
+    "network": "KPN Telecom B.V."
+  },
+  {
+    "mcc": "204",
     "mnc": "10",
     "iso": "nl",
     "country": "Netherlands",
@@ -8066,14 +8074,6 @@
   {
     "mcc": "204",
     "mnc": "08",
-    "iso": "nl",
-    "country": "Netherlands",
-    "country_code": "31",
-    "network": "KPN Telecom B.V."
-  },
-  {
-    "mcc": "204",
-    "mnc": "69",
     "iso": "nl",
     "country": "Netherlands",
     "country_code": "31",
@@ -8409,7 +8409,7 @@
   },
   {
     "mcc": "621",
-    "mnc": "25",
+    "mnc": "01",
     "iso": "ng",
     "country": "Nigeria",
     "country_code": "234",
@@ -8417,7 +8417,7 @@
   },
   {
     "mcc": "621",
-    "mnc": "01",
+    "mnc": "25",
     "iso": "ng",
     "country": "Nigeria",
     "country_code": "234",
@@ -9641,7 +9641,7 @@
   },
   {
     "mcc": "220",
-    "mnc": "01",
+    "mnc": "02",
     "iso": "rs",
     "country": "Serbia ",
     "country_code": "381",
@@ -9649,7 +9649,7 @@
   },
   {
     "mcc": "220",
-    "mnc": "02",
+    "mnc": "01",
     "iso": "rs",
     "country": "Serbia ",
     "country_code": "381",
@@ -9785,7 +9785,7 @@
   },
   {
     "mcc": "525",
-    "mnc": "06",
+    "mnc": "05",
     "iso": "sg",
     "country": "Singapore",
     "country_code": "65",
@@ -9793,7 +9793,7 @@
   },
   {
     "mcc": "525",
-    "mnc": "05",
+    "mnc": "06",
     "iso": "sg",
     "country": "Singapore",
     "country_code": "65",
@@ -10401,14 +10401,6 @@
   },
   {
     "mcc": "634",
-    "mnc": "05",
-    "iso": "sd",
-    "country": "Sudan",
-    "country_code": "249",
-    "network": "Canar Telecom"
-  },
-  {
-    "mcc": "634",
     "mnc": "08",
     "iso": "sd",
     "country": "Sudan",
@@ -10417,7 +10409,15 @@
   },
   {
     "mcc": "634",
-    "mnc": "06",
+    "mnc": "05",
+    "iso": "sd",
+    "country": "Sudan",
+    "country_code": "249",
+    "network": "Canar Telecom"
+  },
+  {
+    "mcc": "634",
+    "mnc": "01",
     "iso": "sd",
     "country": "Sudan",
     "country_code": "249",
@@ -10425,7 +10425,7 @@
   },
   {
     "mcc": "634",
-    "mnc": "01",
+    "mnc": "06",
     "iso": "sd",
     "country": "Sudan",
     "country_code": "249",
@@ -10569,7 +10569,7 @@
   },
   {
     "mcc": "240",
-    "mnc": "04",
+    "mnc": "02",
     "iso": "se",
     "country": "Sweden",
     "country_code": "46",
@@ -10577,7 +10577,7 @@
   },
   {
     "mcc": "240",
-    "mnc": "02",
+    "mnc": "04",
     "iso": "se",
     "country": "Sweden",
     "country_code": "46",
