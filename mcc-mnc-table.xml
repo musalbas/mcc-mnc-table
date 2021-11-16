@@ -458,7 +458,7 @@
     </carrier>
     <carrier>
         <mcc>505</mcc>
-        <mnc>11</mnc>
+        <mnc>72</mnc>
         <iso>au</iso>
         <country>Australia</country>
         <country_code>61</country_code>
@@ -474,7 +474,7 @@
     </carrier>
     <carrier>
         <mcc>505</mcc>
-        <mnc>72</mnc>
+        <mnc>01</mnc>
         <iso>au</iso>
         <country>Australia</country>
         <country_code>61</country_code>
@@ -482,7 +482,7 @@
     </carrier>
     <carrier>
         <mcc>505</mcc>
-        <mnc>01</mnc>
+        <mnc>11</mnc>
         <iso>au</iso>
         <country>Australia</country>
         <country_code>61</country_code>
@@ -530,7 +530,7 @@
     </carrier>
     <carrier>
         <mcc>232</mcc>
-        <mnc>01</mnc>
+        <mnc>11</mnc>
         <iso>at</iso>
         <country>Austria</country>
         <country_code>43</country_code>
@@ -538,7 +538,7 @@
     </carrier>
     <carrier>
         <mcc>232</mcc>
-        <mnc>11</mnc>
+        <mnc>01</mnc>
         <iso>at</iso>
         <country>Austria</country>
         <country_code>43</country_code>
@@ -570,7 +570,7 @@
     </carrier>
     <carrier>
         <mcc>232</mcc>
-        <mnc>10</mnc>
+        <mnc>14</mnc>
         <iso>at</iso>
         <country>Austria</country>
         <country_code>43</country_code>
@@ -578,7 +578,7 @@
     </carrier>
     <carrier>
         <mcc>232</mcc>
-        <mnc>14</mnc>
+        <mnc>10</mnc>
         <iso>at</iso>
         <country>Austria</country>
         <country_code>43</country_code>
@@ -591,14 +591,6 @@
         <country>Austria</country>
         <country_code>43</country_code>
         <network>Mtel</network>
-    </carrier>
-    <carrier>
-        <mcc>232</mcc>
-        <mnc>12</mnc>
-        <iso>at</iso>
-        <country>Austria</country>
-        <country_code>43</country_code>
-        <network>3/Orange/One Connect</network>
     </carrier>
     <carrier>
         <mcc>232</mcc>
@@ -618,6 +610,14 @@
     </carrier>
     <carrier>
         <mcc>232</mcc>
+        <mnc>12</mnc>
+        <iso>at</iso>
+        <country>Austria</country>
+        <country_code>43</country_code>
+        <network>3/Orange/One Connect</network>
+    </carrier>
+    <carrier>
+        <mcc>232</mcc>
         <mnc>17</mnc>
         <iso>at</iso>
         <country>Austria</country>
@@ -626,7 +626,7 @@
     </carrier>
     <carrier>
         <mcc>232</mcc>
-        <mnc>03</mnc>
+        <mnc>07</mnc>
         <iso>at</iso>
         <country>Austria</country>
         <country_code>43</country_code>
@@ -642,7 +642,7 @@
     </carrier>
     <carrier>
         <mcc>232</mcc>
-        <mnc>07</mnc>
+        <mnc>04</mnc>
         <iso>at</iso>
         <country>Austria</country>
         <country_code>43</country_code>
@@ -650,7 +650,7 @@
     </carrier>
     <carrier>
         <mcc>232</mcc>
-        <mnc>04</mnc>
+        <mnc>03</mnc>
         <iso>at</iso>
         <country>Austria</country>
         <country_code>43</country_code>
@@ -722,7 +722,7 @@
     </carrier>
     <carrier>
         <mcc>364</mcc>
-        <mnc>390</mnc>
+        <mnc>30</mnc>
         <iso>bs</iso>
         <country>Bahamas</country>
         <country_code>1242</country_code>
@@ -738,7 +738,7 @@
     </carrier>
     <carrier>
         <mcc>364</mcc>
-        <mnc>30</mnc>
+        <mnc>390</mnc>
         <iso>bs</iso>
         <country>Bahamas</country>
         <country_code>1242</country_code>
@@ -2122,7 +2122,7 @@
     </carrier>
     <carrier>
         <mcc>460</mcc>
-        <mnc>05</mnc>
+        <mnc>03</mnc>
         <iso>cn</iso>
         <country>China</country>
         <country_code>86</country_code>
@@ -2130,7 +2130,7 @@
     </carrier>
     <carrier>
         <mcc>460</mcc>
-        <mnc>03</mnc>
+        <mnc>05</mnc>
         <iso>cn</iso>
         <country>China</country>
         <country_code>86</country_code>
@@ -2594,7 +2594,7 @@
     </carrier>
     <carrier>
         <mcc>238</mcc>
-        <mnc>10</mnc>
+        <mnc>01</mnc>
         <iso>dk</iso>
         <country>Denmark</country>
         <country_code>45</country_code>
@@ -2602,7 +2602,7 @@
     </carrier>
     <carrier>
         <mcc>238</mcc>
-        <mnc>01</mnc>
+        <mnc>10</mnc>
         <iso>dk</iso>
         <country>Denmark</country>
         <country_code>45</country_code>
@@ -2946,22 +2946,6 @@
     </carrier>
     <carrier>
         <mcc>244</mcc>
-        <mnc>13</mnc>
-        <iso>fi</iso>
-        <country>Finland</country>
-        <country_code>358</country_code>
-        <network>DNA/Finnet</network>
-    </carrier>
-    <carrier>
-        <mcc>244</mcc>
-        <mnc>12</mnc>
-        <iso>fi</iso>
-        <country>Finland</country>
-        <country_code>358</country_code>
-        <network>DNA/Finnet</network>
-    </carrier>
-    <carrier>
-        <mcc>244</mcc>
         <mnc>04</mnc>
         <iso>fi</iso>
         <country>Finland</country>
@@ -2970,7 +2954,23 @@
     </carrier>
     <carrier>
         <mcc>244</mcc>
+        <mnc>13</mnc>
+        <iso>fi</iso>
+        <country>Finland</country>
+        <country_code>358</country_code>
+        <network>DNA/Finnet</network>
+    </carrier>
+    <carrier>
+        <mcc>244</mcc>
         <mnc>03</mnc>
+        <iso>fi</iso>
+        <country>Finland</country>
+        <country_code>358</country_code>
+        <network>DNA/Finnet</network>
+    </carrier>
+    <carrier>
+        <mcc>244</mcc>
+        <mnc>12</mnc>
         <iso>fi</iso>
         <country>Finland</country>
         <country_code>358</country_code>
@@ -3226,14 +3226,6 @@
     </carrier>
     <carrier>
         <mcc>208</mcc>
-        <mnc>13</mnc>
-        <iso>fr</iso>
-        <country>France</country>
-        <country_code>33</country_code>
-        <network>S.F.R.</network>
-    </carrier>
-    <carrier>
-        <mcc>208</mcc>
         <mnc>11</mnc>
         <iso>fr</iso>
         <country>France</country>
@@ -3243,6 +3235,14 @@
     <carrier>
         <mcc>208</mcc>
         <mnc>10</mnc>
+        <iso>fr</iso>
+        <country>France</country>
+        <country_code>33</country_code>
+        <network>S.F.R.</network>
+    </carrier>
+    <carrier>
+        <mcc>208</mcc>
+        <mnc>13</mnc>
         <iso>fr</iso>
         <country>France</country>
         <country_code>33</country_code>
@@ -3538,7 +3538,7 @@
     </carrier>
     <carrier>
         <mcc>262</mcc>
-        <mnc>07</mnc>
+        <mnc>11</mnc>
         <iso>de</iso>
         <country>Germany</country>
         <country_code>49</country_code>
@@ -3546,7 +3546,7 @@
     </carrier>
     <carrier>
         <mcc>262</mcc>
-        <mnc>11</mnc>
+        <mnc>07</mnc>
         <iso>de</iso>
         <country>Germany</country>
         <country_code>49</country_code>
@@ -3578,7 +3578,7 @@
     </carrier>
     <carrier>
         <mcc>262</mcc>
-        <mnc>06</mnc>
+        <mnc>01</mnc>
         <iso>de</iso>
         <country>Germany</country>
         <country_code>49</country_code>
@@ -3586,7 +3586,7 @@
     </carrier>
     <carrier>
         <mcc>262</mcc>
-        <mnc>01</mnc>
+        <mnc>06</mnc>
         <iso>de</iso>
         <country>Germany</country>
         <country_code>49</country_code>
@@ -4130,22 +4130,6 @@
     </carrier>
     <carrier>
         <mcc>454</mcc>
-        <mnc>04</mnc>
-        <iso>hk</iso>
-        <country>Hongkong, China</country>
-        <country_code>852</country_code>
-        <network>H3G/Hutchinson</network>
-    </carrier>
-    <carrier>
-        <mcc>454</mcc>
-        <mnc>03</mnc>
-        <iso>hk</iso>
-        <country>Hongkong, China</country>
-        <country_code>852</country_code>
-        <network>H3G/Hutchinson</network>
-    </carrier>
-    <carrier>
-        <mcc>454</mcc>
         <mnc>14</mnc>
         <iso>hk</iso>
         <country>Hongkong, China</country>
@@ -4162,7 +4146,31 @@
     </carrier>
     <carrier>
         <mcc>454</mcc>
-        <mnc>20</mnc>
+        <mnc>04</mnc>
+        <iso>hk</iso>
+        <country>Hongkong, China</country>
+        <country_code>852</country_code>
+        <network>H3G/Hutchinson</network>
+    </carrier>
+    <carrier>
+        <mcc>454</mcc>
+        <mnc>03</mnc>
+        <iso>hk</iso>
+        <country>Hongkong, China</country>
+        <country_code>852</country_code>
+        <network>H3G/Hutchinson</network>
+    </carrier>
+    <carrier>
+        <mcc>454</mcc>
+        <mnc>29</mnc>
+        <iso>hk</iso>
+        <country>Hongkong, China</country>
+        <country_code>852</country_code>
+        <network>HKT/PCCW</network>
+    </carrier>
+    <carrier>
+        <mcc>454</mcc>
+        <mnc>16</mnc>
         <iso>hk</iso>
         <country>Hongkong, China</country>
         <country_code>852</country_code>
@@ -4178,15 +4186,7 @@
     </carrier>
     <carrier>
         <mcc>454</mcc>
-        <mnc>29</mnc>
-        <iso>hk</iso>
-        <country>Hongkong, China</country>
-        <country_code>852</country_code>
-        <network>HKT/PCCW</network>
-    </carrier>
-    <carrier>
-        <mcc>454</mcc>
-        <mnc>16</mnc>
+        <mnc>20</mnc>
         <iso>hk</iso>
         <country>Hongkong, China</country>
         <country_code>852</country_code>
@@ -4346,7 +4346,7 @@
     </carrier>
     <carrier>
         <mcc>274</mcc>
-        <mnc>02</mnc>
+        <mnc>03</mnc>
         <iso>is</iso>
         <country>Iceland</country>
         <country_code>354</country_code>
@@ -4354,7 +4354,7 @@
     </carrier>
     <carrier>
         <mcc>274</mcc>
-        <mnc>03</mnc>
+        <mnc>02</mnc>
         <iso>is</iso>
         <country>Iceland</country>
         <country_code>354</country_code>
@@ -5170,19 +5170,19 @@
     </carrier>
     <carrier>
         <mcc>418</mcc>
-        <mnc>30</mnc>
-        <iso>iq</iso>
-        <country>Iraq</country>
-        <country_code>964</country_code>
-        <network>Orascom Telecom</network>
-    </carrier>
-    <carrier>
-        <mcc>418</mcc>
         <mnc>20</mnc>
         <iso>iq</iso>
         <country>Iraq</country>
         <country_code>964</country_code>
         <network>ZAIN/Atheer/Orascom</network>
+    </carrier>
+    <carrier>
+        <mcc>418</mcc>
+        <mnc>30</mnc>
+        <iso>iq</iso>
+        <country>Iraq</country>
+        <country_code>964</country_code>
+        <network>Orascom Telecom</network>
     </carrier>
     <carrier>
         <mcc>418</mcc>
@@ -5490,14 +5490,6 @@
     </carrier>
     <carrier>
         <mcc>222</mcc>
-        <mnc>01</mnc>
-        <iso>it</iso>
-        <country>Italy</country>
-        <country_code>39</country_code>
-        <network>TIM</network>
-    </carrier>
-    <carrier>
-        <mcc>222</mcc>
         <mnc>48</mnc>
         <iso>it</iso>
         <country>Italy</country>
@@ -5511,6 +5503,14 @@
         <country>Italy</country>
         <country_code>39</country_code>
         <network>Telecom Italia Mobile SpA</network>
+    </carrier>
+    <carrier>
+        <mcc>222</mcc>
+        <mnc>01</mnc>
+        <iso>it</iso>
+        <country>Italy</country>
+        <country_code>39</country_code>
+        <network>TIM</network>
     </carrier>
     <carrier>
         <mcc>222</mcc>
@@ -7866,7 +7866,7 @@
     </carrier>
     <carrier>
         <mcc>604</mcc>
-        <mnc>04</mnc>
+        <mnc>99</mnc>
         <iso>ma</iso>
         <country>Morocco</country>
         <country_code>212</country_code>
@@ -7874,7 +7874,7 @@
     </carrier>
     <carrier>
         <mcc>604</mcc>
-        <mnc>99</mnc>
+        <mnc>04</mnc>
         <iso>ma</iso>
         <country>Morocco</country>
         <country_code>212</country_code>
@@ -8058,14 +8058,6 @@
     </carrier>
     <carrier>
         <mcc>204</mcc>
-        <mnc>69</mnc>
-        <iso>nl</iso>
-        <country>Netherlands</country>
-        <country_code>31</country_code>
-        <network>KPN Telecom B.V.</network>
-    </carrier>
-    <carrier>
-        <mcc>204</mcc>
         <mnc>10</mnc>
         <iso>nl</iso>
         <country>Netherlands</country>
@@ -8075,6 +8067,14 @@
     <carrier>
         <mcc>204</mcc>
         <mnc>08</mnc>
+        <iso>nl</iso>
+        <country>Netherlands</country>
+        <country_code>31</country_code>
+        <network>KPN Telecom B.V.</network>
+    </carrier>
+    <carrier>
+        <mcc>204</mcc>
+        <mnc>69</mnc>
         <iso>nl</iso>
         <country>Netherlands</country>
         <country_code>31</country_code>
@@ -10202,7 +10202,7 @@
     </carrier>
     <carrier>
         <mcc>214</mcc>
-        <mnc>09</mnc>
+        <mnc>11</mnc>
         <iso>es</iso>
         <country>Spain</country>
         <country_code>34</country_code>
@@ -10210,7 +10210,7 @@
     </carrier>
     <carrier>
         <mcc>214</mcc>
-        <mnc>11</mnc>
+        <mnc>09</mnc>
         <iso>es</iso>
         <country>Spain</country>
         <country_code>34</country_code>
@@ -10402,14 +10402,6 @@
     </carrier>
     <carrier>
         <mcc>634</mcc>
-        <mnc>08</mnc>
-        <iso>sd</iso>
-        <country>Sudan</country>
-        <country_code>249</country_code>
-        <network>Canar Telecom</network>
-    </carrier>
-    <carrier>
-        <mcc>634</mcc>
         <mnc>05</mnc>
         <iso>sd</iso>
         <country>Sudan</country>
@@ -10418,7 +10410,15 @@
     </carrier>
     <carrier>
         <mcc>634</mcc>
-        <mnc>01</mnc>
+        <mnc>08</mnc>
+        <iso>sd</iso>
+        <country>Sudan</country>
+        <country_code>249</country_code>
+        <network>Canar Telecom</network>
+    </carrier>
+    <carrier>
+        <mcc>634</mcc>
+        <mnc>06</mnc>
         <iso>sd</iso>
         <country>Sudan</country>
         <country_code>249</country_code>
@@ -10426,7 +10426,7 @@
     </carrier>
     <carrier>
         <mcc>634</mcc>
-        <mnc>06</mnc>
+        <mnc>01</mnc>
         <iso>sd</iso>
         <country>Sudan</country>
         <country_code>249</country_code>
@@ -11658,7 +11658,7 @@
     </carrier>
     <carrier>
         <mcc>234</mcc>
-        <mnc>92</mnc>
+        <mnc>07</mnc>
         <iso>gb</iso>
         <country>United Kingdom</country>
         <country_code>44</country_code>
@@ -11666,7 +11666,7 @@
     </carrier>
     <carrier>
         <mcc>234</mcc>
-        <mnc>07</mnc>
+        <mnc>92</mnc>
         <iso>gb</iso>
         <country>United Kingdom</country>
         <country_code>44</country_code>
