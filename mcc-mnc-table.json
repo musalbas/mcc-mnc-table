@@ -473,7 +473,7 @@
   },
   {
     "mcc": "505",
-    "mnc": "01",
+    "mnc": "71",
     "iso": "au",
     "country": "Australia",
     "country_code": "61",
@@ -481,7 +481,7 @@
   },
   {
     "mcc": "505",
-    "mnc": "71",
+    "mnc": "01",
     "iso": "au",
     "country": "Australia",
     "country_code": "61",
@@ -537,7 +537,7 @@
   },
   {
     "mcc": "232",
-    "mnc": "11",
+    "mnc": "02",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -545,7 +545,7 @@
   },
   {
     "mcc": "232",
-    "mnc": "02",
+    "mnc": "11",
     "iso": "at",
     "country": "Austria",
     "country_code": "43",
@@ -745,7 +745,7 @@
   },
   {
     "mcc": "364",
-    "mnc": "390",
+    "mnc": "39",
     "iso": "bs",
     "country": "Bahamas",
     "country_code": "1242",
@@ -753,7 +753,7 @@
   },
   {
     "mcc": "364",
-    "mnc": "39",
+    "mnc": "390",
     "iso": "bs",
     "country": "Bahamas",
     "country_code": "1242",
@@ -809,7 +809,7 @@
   },
   {
     "mcc": "470",
-    "mnc": "05",
+    "mnc": "06",
     "iso": "bd",
     "country": "Bangladesh",
     "country_code": "880",
@@ -817,7 +817,7 @@
   },
   {
     "mcc": "470",
-    "mnc": "06",
+    "mnc": "05",
     "iso": "bd",
     "country": "Bangladesh",
     "country_code": "880",
@@ -1273,7 +1273,7 @@
   },
   {
     "mcc": "724",
-    "mnc": "39",
+    "mnc": "00",
     "iso": "br",
     "country": "Brazil",
     "country_code": "55",
@@ -1281,7 +1281,7 @@
   },
   {
     "mcc": "724",
-    "mnc": "00",
+    "mnc": "39",
     "iso": "br",
     "country": "Brazil",
     "country_code": "55",
@@ -1633,7 +1633,7 @@
   },
   {
     "mcc": "456",
-    "mnc": "06",
+    "mnc": "05",
     "iso": "kh",
     "country": "Cambodia",
     "country_code": "855",
@@ -1641,7 +1641,7 @@
   },
   {
     "mcc": "456",
-    "mnc": "05",
+    "mnc": "06",
     "iso": "kh",
     "country": "Cambodia",
     "country_code": "855",
@@ -1721,7 +1721,7 @@
   },
   {
     "mcc": "302",
-    "mnc": "361",
+    "mnc": "360",
     "iso": "ca",
     "country": "Canada",
     "country_code": "1",
@@ -1729,7 +1729,7 @@
   },
   {
     "mcc": "302",
-    "mnc": "360",
+    "mnc": "361",
     "iso": "ca",
     "country": "Canada",
     "country_code": "1",
@@ -1873,7 +1873,7 @@
   },
   {
     "mcc": "302",
-    "mnc": "653",
+    "mnc": "220",
     "iso": "ca",
     "country": "Canada",
     "country_code": "1",
@@ -1881,7 +1881,7 @@
   },
   {
     "mcc": "302",
-    "mnc": "220",
+    "mnc": "653",
     "iso": "ca",
     "country": "Canada",
     "country_code": "1",
@@ -3089,7 +3089,7 @@
   },
   {
     "mcc": "244",
-    "mnc": "03",
+    "mnc": "12",
     "iso": "fi",
     "country": "Finland",
     "country_code": "358",
@@ -3097,7 +3097,7 @@
   },
   {
     "mcc": "244",
-    "mnc": "12",
+    "mnc": "03",
     "iso": "fi",
     "country": "Finland",
     "country_code": "358",
@@ -3681,6 +3681,14 @@
   },
   {
     "mcc": "262",
+    "mnc": "08",
+    "iso": "de",
+    "country": "Germany",
+    "country_code": "49",
+    "network": "O2"
+  },
+  {
+    "mcc": "262",
     "mnc": "11",
     "iso": "de",
     "country": "Germany",
@@ -3690,14 +3698,6 @@
   {
     "mcc": "262",
     "mnc": "07",
-    "iso": "de",
-    "country": "Germany",
-    "country_code": "49",
-    "network": "O2"
-  },
-  {
-    "mcc": "262",
-    "mnc": "08",
     "iso": "de",
     "country": "Germany",
     "country_code": "49",
@@ -4209,7 +4209,7 @@
   },
   {
     "mcc": "454",
-    "mnc": "13",
+    "mnc": "28",
     "iso": "hk",
     "country": "Hongkong, China",
     "country_code": "852",
@@ -4217,7 +4217,7 @@
   },
   {
     "mcc": "454",
-    "mnc": "28",
+    "mnc": "13",
     "iso": "hk",
     "country": "Hongkong, China",
     "country_code": "852",
@@ -4265,6 +4265,14 @@
   },
   {
     "mcc": "454",
+    "mnc": "18",
+    "iso": "hk",
+    "country": "Hongkong, China",
+    "country_code": "852",
+    "network": "CSL Ltd."
+  },
+  {
+    "mcc": "454",
     "mnc": "02",
     "iso": "hk",
     "country": "Hongkong, China",
@@ -4274,14 +4282,6 @@
   {
     "mcc": "454",
     "mnc": "00",
-    "iso": "hk",
-    "country": "Hongkong, China",
-    "country_code": "852",
-    "network": "CSL Ltd."
-  },
-  {
-    "mcc": "454",
-    "mnc": "18",
     "iso": "hk",
     "country": "Hongkong, China",
     "country_code": "852",
@@ -4521,6 +4521,14 @@
   },
   {
     "mcc": "274",
+    "mnc": "05",
+    "iso": "is",
+    "country": "Iceland",
+    "country_code": "354",
+    "network": "Vodafone/Tal hf"
+  },
+  {
+    "mcc": "274",
     "mnc": "03",
     "iso": "is",
     "country": "Iceland",
@@ -4536,12 +4544,12 @@
     "network": "Vodafone/Tal hf"
   },
   {
-    "mcc": "274",
-    "mnc": "05",
-    "iso": "is",
-    "country": "Iceland",
-    "country_code": "354",
-    "network": "Vodafone/Tal hf"
+    "mcc": "404",
+    "mnc": "29",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
   },
   {
     "mcc": "404",
@@ -4578,14 +4586,6 @@
   {
     "mcc": "404",
     "mnc": "33",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "Aircel"
-  },
-  {
-    "mcc": "404",
-    "mnc": "29",
     "iso": "in",
     "country": "India",
     "country_code": "91",
@@ -4638,6 +4638,30 @@
     "country": "India",
     "country_code": "91",
     "network": "Barakhamba Sales & Serv."
+  },
+  {
+    "mcc": "404",
+    "mnc": "66",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "55",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
+  },
+  {
+    "mcc": "404",
+    "mnc": "72",
+    "iso": "in",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL"
   },
   {
     "mcc": "404",
@@ -4778,30 +4802,6 @@
   {
     "mcc": "404",
     "mnc": "34",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "66",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "55",
-    "iso": "in",
-    "country": "India",
-    "country_code": "91",
-    "network": "BSNL"
-  },
-  {
-    "mcc": "404",
-    "mnc": "72",
     "iso": "in",
     "country": "India",
     "country_code": "91",
