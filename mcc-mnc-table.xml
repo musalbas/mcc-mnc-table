@@ -158,7 +158,7 @@
         <iso>ad</iso>
         <country>Andorra</country>
         <country_code>376</country_code>
-        <network>Mobiland</network>
+        <network>Andorra Telecom SAU</network>
     </carrier>
     <carrier>
         <mcc>631</mcc>
@@ -2430,7 +2430,7 @@
         <iso>ck</iso>
         <country>Cook Islands</country>
         <country_code>682</country_code>
-        <network>Telecom Cook Islands</network>
+        <network>Telecom Cook Islands Ltd</network>
     </carrier>
     <carrier>
         <mcc>712</mcc>
@@ -2782,7 +2782,7 @@
         <iso>dj</iso>
         <country>Djibouti</country>
         <country_code>253</country_code>
-        <network>Djibouti Telecom SA (Evatis)</network>
+        <network>Djibouti Telecom SA / Evatis</network>
     </carrier>
     <carrier>
         <mcc>366</mcc>
@@ -2974,7 +2974,7 @@
         <iso>er</iso>
         <country>Eritrea</country>
         <country_code>291</country_code>
-        <network>Eritel</network>
+        <network>Eritrea Telecommunication Services Corp. / Eritel</network>
     </carrier>
     <carrier>
         <mcc>248</mcc>
@@ -3014,7 +3014,7 @@
         <iso>et</iso>
         <country>Ethiopia</country>
         <country_code>251</country_code>
-        <network>ETH/MTN</network>
+        <network>Ethio Telecom</network>
     </carrier>
     <carrier>
         <mcc>750</mcc>
@@ -3022,7 +3022,7 @@
         <iso>fk</iso>
         <country>Falkland Islands (Malvinas)</country>
         <country_code>500</country_code>
-        <network>Cable and Wireless South Atlantic Ltd (Falkland Islands</network>
+        <network>Sure South Atlantic Ltd (Falkland Islands</network>
     </carrier>
     <carrier>
         <mcc>288</mcc>
@@ -3958,7 +3958,7 @@
         <iso>gl</iso>
         <country>Greenland</country>
         <country_code>299</country_code>
-        <network>Tele Greenland</network>
+        <network>Tele Greenland A/S</network>
     </carrier>
     <carrier>
         <mcc>352</mcc>
@@ -4498,22 +4498,6 @@
     </carrier>
     <carrier>
         <mcc>274</mcc>
-        <mnc>08</mnc>
-        <iso>is</iso>
-        <country>Iceland</country>
-        <country_code>354</country_code>
-        <network>Siminn</network>
-    </carrier>
-    <carrier>
-        <mcc>274</mcc>
-        <mnc>01</mnc>
-        <iso>is</iso>
-        <country>Iceland</country>
-        <country_code>354</country_code>
-        <network>Siminn</network>
-    </carrier>
-    <carrier>
-        <mcc>274</mcc>
         <mnc>11</mnc>
         <iso>is</iso>
         <country>Iceland</country>
@@ -4522,11 +4506,43 @@
     </carrier>
     <carrier>
         <mcc>274</mcc>
+        <mnc>31</mnc>
+        <iso>is</iso>
+        <country>Iceland</country>
+        <country_code>354</country_code>
+        <network>Siminn hf.</network>
+    </carrier>
+    <carrier>
+        <mcc>274</mcc>
+        <mnc>08</mnc>
+        <iso>is</iso>
+        <country>Iceland</country>
+        <country_code>354</country_code>
+        <network>Siminn hf.</network>
+    </carrier>
+    <carrier>
+        <mcc>274</mcc>
+        <mnc>01</mnc>
+        <iso>is</iso>
+        <country>Iceland</country>
+        <country_code>354</country_code>
+        <network>Siminn hf.</network>
+    </carrier>
+    <carrier>
+        <mcc>274</mcc>
+        <mnc>16</mnc>
+        <iso>is</iso>
+        <country>Iceland</country>
+        <country_code>354</country_code>
+        <network>Tismi BV</network>
+    </carrier>
+    <carrier>
+        <mcc>274</mcc>
         <mnc>04</mnc>
         <iso>is</iso>
         <country>Iceland</country>
         <country_code>354</country_code>
-        <network>VIKING/IMC</network>
+        <network>IMC Island ehf.</network>
     </carrier>
     <carrier>
         <mcc>274</mcc>
@@ -4534,15 +4550,15 @@
         <iso>is</iso>
         <country>Iceland</country>
         <country_code>354</country_code>
-        <network>Vodafone/Tal hf</network>
+        <network>Syn hf. / Vodafone</network>
     </carrier>
     <carrier>
         <mcc>274</mcc>
-        <mnc>05</mnc>
+        <mnc>12</mnc>
         <iso>is</iso>
         <country>Iceland</country>
         <country_code>354</country_code>
-        <network>Vodafone/Tal hf</network>
+        <network>Syn hf. / Vodafone</network>
     </carrier>
     <carrier>
         <mcc>274</mcc>
@@ -4550,7 +4566,15 @@
         <iso>is</iso>
         <country>Iceland</country>
         <country_code>354</country_code>
-        <network>Vodafone/Tal hf</network>
+        <network>Syn hf. / Vodafone</network>
+    </carrier>
+    <carrier>
+        <mcc>274</mcc>
+        <mnc>05</mnc>
+        <iso>is</iso>
+        <country>Iceland</country>
+        <country_code>354</country_code>
+        <network>Syn hf. / Vodafone</network>
     </carrier>
     <carrier>
         <mcc>404</mcc>
@@ -5354,7 +5378,7 @@
     </carrier>
     <carrier>
         <mcc>418</mcc>
-        <mnc>82</mnc>
+        <mnc>40</mnc>
         <iso>iq</iso>
         <country>Iraq</country>
         <country_code>964</country_code>
@@ -5362,7 +5386,7 @@
     </carrier>
     <carrier>
         <mcc>418</mcc>
-        <mnc>40</mnc>
+        <mnc>82</mnc>
         <iso>iq</iso>
         <country>Iraq</country>
         <country_code>964</country_code>
@@ -5410,35 +5434,11 @@
     </carrier>
     <carrier>
         <mcc>272</mcc>
-        <mnc>09</mnc>
+        <mnc>08</mnc>
         <iso>ie</iso>
         <country>Ireland</country>
         <country_code>353</country_code>
-        <network>Clever Communications Ltd</network>
-    </carrier>
-    <carrier>
-        <mcc>272</mcc>
-        <mnc>07</mnc>
-        <iso>ie</iso>
-        <country>Ireland</country>
-        <country_code>353</country_code>
-        <network>eircom Ltd</network>
-    </carrier>
-    <carrier>
-        <mcc>272</mcc>
-        <mnc>11</mnc>
-        <iso>ie</iso>
-        <country>Ireland</country>
-        <country_code>353</country_code>
-        <network>Tesco Mobile/Liffey Telecom</network>
-    </carrier>
-    <carrier>
-        <mcc>272</mcc>
-        <mnc>13</mnc>
-        <iso>ie</iso>
-        <country>Ireland</country>
-        <country_code>353</country_code>
-        <network>Lycamobile</network>
+        <network>eircom Ltd / Meteor</network>
     </carrier>
     <carrier>
         <mcc>272</mcc>
@@ -5446,7 +5446,31 @@
         <iso>ie</iso>
         <country>Ireland</country>
         <country_code>353</country_code>
-        <network>Meteor Mobile Ltd.</network>
+        <network>eircom Ltd / Meteor</network>
+    </carrier>
+    <carrier>
+        <mcc>272</mcc>
+        <mnc>07</mnc>
+        <iso>ie</iso>
+        <country>Ireland</country>
+        <country_code>353</country_code>
+        <network>eircom Ltd / Meteor</network>
+    </carrier>
+    <carrier>
+        <mcc>272</mcc>
+        <mnc>13</mnc>
+        <iso>ie</iso>
+        <country>Ireland</country>
+        <country_code>353</country_code>
+        <network>Lycamobile Ltd</network>
+    </carrier>
+    <carrier>
+        <mcc>272</mcc>
+        <mnc>11</mnc>
+        <iso>ie</iso>
+        <country>Ireland</country>
+        <country_code>353</country_code>
+        <network>Tesco Mobile Ltd</network>
     </carrier>
     <carrier>
         <mcc>272</mcc>
@@ -5454,7 +5478,7 @@
         <iso>ie</iso>
         <country>Ireland</country>
         <country_code>353</country_code>
-        <network>Three</network>
+        <network>Three / Hutchinson</network>
     </carrier>
     <carrier>
         <mcc>272</mcc>
@@ -5462,7 +5486,7 @@
         <iso>ie</iso>
         <country>Ireland</country>
         <country_code>353</country_code>
-        <network>Three</network>
+        <network>Three / Hutchinson</network>
     </carrier>
     <carrier>
         <mcc>272</mcc>
@@ -5470,7 +5494,7 @@
         <iso>ie</iso>
         <country>Ireland</country>
         <country_code>353</country_code>
-        <network>Three</network>
+        <network>Three / Hutchinson</network>
     </carrier>
     <carrier>
         <mcc>272</mcc>
@@ -5478,7 +5502,7 @@
         <iso>ie</iso>
         <country>Ireland</country>
         <country_code>353</country_code>
-        <network>Virgin Mobile</network>
+        <network>Virgin Media Ltd</network>
     </carrier>
     <carrier>
         <mcc>272</mcc>
@@ -5486,7 +5510,7 @@
         <iso>ie</iso>
         <country>Ireland</country>
         <country_code>353</country_code>
-        <network>Vodafone Eircell</network>
+        <network>Vodafone Ltd</network>
     </carrier>
     <carrier>
         <mcc>425</mcc>
@@ -5522,7 +5546,7 @@
     </carrier>
     <carrier>
         <mcc>425</mcc>
-        <mnc>77</mnc>
+        <mnc>07</mnc>
         <iso>il</iso>
         <country>Israel</country>
         <country_code>972</country_code>
@@ -5530,7 +5554,7 @@
     </carrier>
     <carrier>
         <mcc>425</mcc>
-        <mnc>07</mnc>
+        <mnc>77</mnc>
         <iso>il</iso>
         <country>Israel</country>
         <country_code>972</country_code>
@@ -5906,6 +5930,14 @@
     </carrier>
     <carrier>
         <mcc>440</mcc>
+        <mnc>70</mnc>
+        <iso>jp</iso>
+        <country>Japan</country>
+        <country_code>81</country_code>
+        <network>KDDI Corporation</network>
+    </carrier>
+    <carrier>
+        <mcc>440</mcc>
         <mnc>71</mnc>
         <iso>jp</iso>
         <country>Japan</country>
@@ -6030,7 +6062,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6038,7 +6070,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6046,7 +6078,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6054,7 +6086,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6062,7 +6094,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6070,7 +6102,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6078,7 +6110,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6086,7 +6118,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6094,7 +6126,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6102,7 +6134,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6110,7 +6142,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6118,7 +6150,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6126,7 +6158,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6134,7 +6166,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6142,7 +6174,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6150,7 +6182,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6158,7 +6190,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6166,7 +6198,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6174,7 +6206,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6182,7 +6214,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6190,7 +6222,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6198,7 +6230,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6206,7 +6238,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6214,7 +6246,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6222,7 +6254,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6230,7 +6262,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6238,7 +6270,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6246,7 +6278,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6254,7 +6286,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6262,7 +6294,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6270,7 +6302,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6278,7 +6310,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6286,7 +6318,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6294,7 +6326,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6302,7 +6334,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6310,7 +6342,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6318,7 +6350,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6326,7 +6358,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6334,7 +6366,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6342,7 +6374,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6350,7 +6382,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6358,7 +6390,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6366,7 +6398,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6374,7 +6406,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6382,7 +6414,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6390,7 +6422,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6398,7 +6430,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6406,7 +6438,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6414,7 +6446,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6422,7 +6454,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6430,7 +6462,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6438,7 +6470,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6446,7 +6478,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6454,7 +6486,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6462,7 +6494,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6470,7 +6502,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6478,7 +6510,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6486,7 +6518,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6494,7 +6526,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6502,7 +6534,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>NTT Docomo</network>
+        <network>NTT DoCoMo Inc.</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6513,12 +6545,20 @@
         <network>Okinawa Cellular Telephone</network>
     </carrier>
     <carrier>
+        <mcc>440</mcc>
+        <mnc>11</mnc>
+        <iso>jp</iso>
+        <country>Japan</country>
+        <country_code>81</country_code>
+        <network>Rakuten Mobile Inc.</network>
+    </carrier>
+    <carrier>
         <mcc>441</mcc>
         <mnc>63</mnc>
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6526,7 +6566,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6534,7 +6574,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6542,7 +6582,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6550,7 +6590,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6558,7 +6598,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6566,7 +6606,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6574,7 +6614,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6582,7 +6622,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6590,7 +6630,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6598,7 +6638,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6606,7 +6646,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6614,7 +6654,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6622,7 +6662,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6630,7 +6670,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6638,7 +6678,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6646,7 +6686,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6654,7 +6694,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6662,7 +6702,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6670,7 +6710,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>441</mcc>
@@ -6678,7 +6718,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6686,7 +6726,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6694,7 +6734,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6702,7 +6742,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6710,7 +6750,7 @@
         <iso>jp</iso>
         <country>Japan</country>
         <country_code>81</country_code>
-        <network>SoftBank Mobile Corp</network>
+        <network>SoftBank Corp</network>
     </carrier>
     <carrier>
         <mcc>440</mcc>
@@ -6882,6 +6922,14 @@
     </carrier>
     <carrier>
         <mcc>467</mcc>
+        <mnc>192</mnc>
+        <iso>kp</iso>
+        <country>Korea N. - Dem. People's Rep.</country>
+        <country_code>850</country_code>
+        <network>CHEO Technology JV Co.</network>
+    </carrier>
+    <carrier>
+        <mcc>467</mcc>
         <mnc>193</mnc>
         <iso>kp</iso>
         <country>Korea N. - Dem. People's Rep.</country>
@@ -6894,7 +6942,7 @@
         <iso>kr</iso>
         <country>Korea S. - Republic of</country>
         <country_code>82</country_code>
-        <network>KT Freetel Co. Ltd.</network>
+        <network>KT Corp.</network>
     </carrier>
     <carrier>
         <mcc>450</mcc>
@@ -6902,7 +6950,7 @@
         <iso>kr</iso>
         <country>Korea S. - Republic of</country>
         <country_code>82</country_code>
-        <network>KT Freetel Co. Ltd.</network>
+        <network>KT Corp.</network>
     </carrier>
     <carrier>
         <mcc>450</mcc>
@@ -6910,15 +6958,15 @@
         <iso>kr</iso>
         <country>Korea S. - Republic of</country>
         <country_code>82</country_code>
-        <network>KT Freetel Co. Ltd.</network>
+        <network>KT Corp.</network>
     </carrier>
     <carrier>
         <mcc>450</mcc>
-        <mnc>06</mnc>
+        <mnc>07</mnc>
         <iso>kr</iso>
         <country>Korea S. - Republic of</country>
         <country_code>82</country_code>
-        <network>LG Telecom</network>
+        <network>KT Powertel Co. Ltd</network>
     </carrier>
     <carrier>
         <mcc>450</mcc>
@@ -6930,11 +6978,35 @@
     </carrier>
     <carrier>
         <mcc>450</mcc>
+        <mnc>12</mnc>
+        <iso>kr</iso>
+        <country>Korea S. - Republic of</country>
+        <country_code>82</country_code>
+        <network>SK Telecom Co. Ltd</network>
+    </carrier>
+    <carrier>
+        <mcc>450</mcc>
+        <mnc>11</mnc>
+        <iso>kr</iso>
+        <country>Korea S. - Republic of</country>
+        <country_code>82</country_code>
+        <network>SK Telecom Co. Ltd</network>
+    </carrier>
+    <carrier>
+        <mcc>450</mcc>
         <mnc>05</mnc>
         <iso>kr</iso>
         <country>Korea S. - Republic of</country>
         <country_code>82</country_code>
         <network>SK Telecom Co. Ltd</network>
+    </carrier>
+    <carrier>
+        <mcc>450</mcc>
+        <mnc>06</mnc>
+        <iso>kr</iso>
+        <country>Korea S. - Republic of</country>
+        <country_code>82</country_code>
+        <network>LG UPlus Corp.</network>
     </carrier>
     <carrier>
         <mcc>221</mcc>
@@ -7974,7 +8046,7 @@
         <iso>fm</iso>
         <country>Micronesia</country>
         <country_code>691</country_code>
-        <network>FSM Telecom</network>
+        <network>FSM Telecommunications Corp.</network>
     </carrier>
     <carrier>
         <mcc>259</mcc>
@@ -10698,7 +10770,7 @@
     </carrier>
     <carrier>
         <mcc>360</mcc>
-        <mnc>10</mnc>
+        <mnc>100</mnc>
         <iso>vc</iso>
         <country>St. Vincent &amp; Gren.</country>
         <country_code>1784</country_code>
@@ -10706,7 +10778,7 @@
     </carrier>
     <carrier>
         <mcc>360</mcc>
-        <mnc>100</mnc>
+        <mnc>10</mnc>
         <iso>vc</iso>
         <country>St. Vincent &amp; Gren.</country>
         <country_code>1784</country_code>
@@ -14383,6 +14455,14 @@
         <country>Virgin Islands, U.S.</country>
         <country_code>1340</country_code>
         <network>Digicel</network>
+    </carrier>
+    <carrier>
+        <mcc>543</mcc>
+        <mnc>01</mnc>
+        <iso>wf</iso>
+        <country>Wallis and Futuna (Territoire francais d'outre-mer)</country>
+        <country_code/>
+        <network>Service des Postes et des Telecommunications (Wallis and Futuna</network>
     </carrier>
     <carrier>
         <mcc>421</mcc>
