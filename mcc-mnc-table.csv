@@ -133,8 +133,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 232,562,299,665,at,Austria,43,smartspace
 232,562,18,399,at,Austria,43,smartspace
 232,562,13,319,at,Austria,43,T-Mobile / Magenta
-232,562,07,127,at,Austria,43,T-Mobile / Magenta
 232,562,23,575,at,Austria,43,T-Mobile / Magenta
+232,562,07,127,at,Austria,43,T-Mobile / Magenta
 232,562,04,79,at,Austria,43,T-Mobile / Magenta
 232,562,03,63,at,Austria,43,T-Mobile / Magenta
 232,562,08,143,at,Austria,43,A1 Telekom
@@ -437,13 +437,13 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 230,560,299,665,cz,Czech Republic,420,SAZKA
 230,560,98,2447,cz,Czech Republic,420,SZDC
 230,560,299,665,cz,Czech Republic,420,SZDC
-230,560,01,31,cz,Czech Republic,420,T-Mobile
 230,560,07,127,cz,Czech Republic,420,T-Mobile
+230,560,01,31,cz,Czech Republic,420,T-Mobile
 230,560,299,665,cz,Czech Republic,420,Tesco Mobile
 230,560,299,665,cz,Czech Republic,420,TOPefekt
 230,560,299,665,cz,Czech Republic,420,TT Quality
-230,560,299,665,cz,Czech Republic,420,Uniphone
 230,560,09,159,cz,Czech Republic,420,Uniphone
+230,560,299,665,cz,Czech Republic,420,Uniphone
 230,560,03,63,cz,Czech Republic,420,Vodafone
 230,560,99,2463,cz,Czech Republic,420,Vodafone
 230,560,03,63,cz,Czech Republic,420,Vodafone
@@ -475,8 +475,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 238,568,01,31,dk,Denmark,45,TDC
 238,568,77,1919,dk,Denmark,45,Telenor
 238,568,02,47,dk,Denmark,45,Telenor
-238,568,20,527,dk,Denmark,45,Telia
 238,568,96,2415,dk,Denmark,45,Telia
+238,568,20,527,dk,Denmark,45,Telia
 238,568,30,783,dk,Denmark,45,Telia
 238,568,16,367,dk,Denmark,45,Tismi
 238,568,25,607,dk,Denmark,45,Viahub
@@ -560,10 +560,10 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 244,580,299,665,fi,Finland,358,Twilio
 244,580,35,863,fi,Finland,358,Ukko Mobile
 244,580,42,1071,fi,Finland,358,Viahub
-244,580,45,1119,fi,Finland,358,VIRVE
 244,580,33,831,fi,Finland,358,VIRVE
 244,580,47,1151,fi,Finland,358,VIRVE
 244,580,46,1135,fi,Finland,358,VIRVE
+244,580,45,1119,fi,Finland,358,VIRVE
 244,580,32,815,fi,Finland,358,Voxbone / Bandwidth
 208,520,299,665,fr,France,33,Add-On Multimedia
 208,520,299,665,fr,France,33,Afone Mobile
@@ -646,8 +646,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 208,520,299,665,fr,France,33,SCT TELECOM
 208,520,299,665,fr,France,33,SCT TELECOM
 208,520,299,665,fr,France,33,Sewan Communications
-208,520,13,319,fr,France,33,SFR
 208,520,10,271,fr,France,33,SFR
+208,520,13,319,fr,France,33,SFR
 208,520,09,159,fr,France,33,SFR
 208,520,08,143,fr,France,33,SFR
 208,520,11,287,fr,France,33,SFR
@@ -700,8 +700,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 262,610,999,2457,de,Germany,49,Fix Line
 262,610,14,335,de,Germany,49,Lebara
 262,610,43,1087,de,Germany,49,Lycamobile
-262,610,299,665,de,Germany,49,Multiconnect
 262,610,21,543,de,Germany,49,Multiconnect
+262,610,299,665,de,Germany,49,Multiconnect
 262,610,33,831,de,Germany,49,sipgate
 262,610,22,559,de,Germany,49,sipgate
 262,610,24,591,de,Germany,49,TelcoVillage
@@ -719,10 +719,10 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 262,610,06,111,de,Germany,49,Telekom / T-mobile
 262,610,299,665,de,Germany,49,Tismi
 262,610,299,665,de,Germany,49,Truphone
-262,610,42,1071,de,Germany,49,Vodafone
 262,610,09,159,de,Germany,49,Vodafone
 262,610,04,79,de,Germany,49,Vodafone
 262,610,02,47,de,Germany,49,Vodafone
+262,610,42,1071,de,Germany,49,Vodafone
 620,1568,03,63,gh,Ghana,233,Airtel/Tigo
 620,1568,06,111,gh,Ghana,233,Airtel/Tigo
 620,1568,04,79,gh,Ghana,233,Expresso Ghana Ltd
@@ -790,9 +790,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 708,1800,030,48,hn,Honduras,504,HonduTel
 708,1800,001,1,hn,Honduras,504,SERCOM/CLARO
 708,1800,002,2,hn,Honduras,504,Telefonica/CELTEL
-454,1108,28,655,hk,Hongkong,852,China Mobile/Peoples
 454,1108,13,319,hk,Hongkong,852,China Mobile/Peoples
 454,1108,12,303,hk,Hongkong,852,China Mobile/Peoples
+454,1108,28,655,hk,Hongkong,852,China Mobile/Peoples
 454,1108,09,159,hk,Hongkong,852,China Motion
 454,1108,07,127,hk,Hongkong,852,China Unicom Ltd
 454,1108,11,287,hk,Hongkong,852,China-HongKong Telecom Ltd (CHKTL)
@@ -952,8 +952,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 418,1048,20,527,iq,Iraq,964,Zain
 272,626,04,79,ie,Ireland,353,Access Telecom Ltd.
 272,626,03,63,ie,Ireland,353,Meteor / eir mobile
-272,626,07,127,ie,Ireland,353,Meteor / eir mobile
 272,626,08,143,ie,Ireland,353,Meteor / eir mobile
+272,626,07,127,ie,Ireland,353,Meteor / eir mobile
 272,626,13,319,ie,Ireland,353,Lycamobile
 272,626,11,287,ie,Ireland,353,Tesco Mobile
 272,626,02,47,ie,Ireland,353,3
@@ -1006,8 +1006,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 222,546,44,1103,it,Italy,39,Mundio Srl
 222,546,51,1311,it,Italy,39,ho.
 222,546,49,1183,it,Italy,39,Vianova Mobile
-222,546,06,111,it,Italy,39,Vodafone
 222,546,10,271,it,Italy,39,Vodafone
+222,546,06,111,it,Italy,39,Vodafone
 222,546,06,111,it,Italy,39,Vodafone
 222,546,00,15,it,Italy,39,VOIP Line
 222,546,299,665,it,Italy,39,Vola
@@ -1038,9 +1038,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,70,1807,jp,Japan,81,KDDI
 440,1088,51,1311,jp,Japan,81,KDDI
 440,1088,75,1887,jp,Japan,81,KDDI
+440,1088,70,1807,jp,Japan,81,KDDI
 441,1089,70,1807,jp,Japan,81,KDDI
 440,1088,56,1391,jp,Japan,81,KDDI
-440,1088,70,1807,jp,Japan,81,KDDI
 440,1088,52,1327,jp,Japan,81,KDDI
 440,1088,76,1903,jp,Japan,81,KDDI
 440,1088,71,1823,jp,Japan,81,KDDI
@@ -1111,11 +1111,11 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,99,2463,jp,Japan,81,NTT DoCoMo
 440,1088,78,1935,jp,Japan,81,Okinawa Cellular
 440,1088,11,287,jp,Japan,81,Rakuten Mobile
-440,1088,05,95,jp,Japan,81,SoftBank
 440,1088,01,31,jp,Japan,81,SoftBank
 440,1088,20,527,jp,Japan,81,SoftBank
 440,1088,00,15,jp,Japan,81,SoftBank
 440,1088,21,543,jp,Japan,81,SoftBank
+440,1088,05,95,jp,Japan,81,SoftBank
 440,1088,04,79,jp,Japan,81,SoftBank
 441,1089,62,1583,jp,Japan,81,SoftBank
 440,1088,45,1119,jp,Japan,81,SoftBank
@@ -1266,8 +1266,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 650,1616,10,271,mw,Malawi,265,Airtel/Zain/Celtel ltd.
 502,1282,156,342,my,Malaysia,60,Altel Communications
 502,1282,01,31,my,Malaysia,60,Art900
-502,1282,11,287,my,Malaysia,60,Telekom Malaysia
 502,1282,14,335,my,Malaysia,60,Telekom Malaysia
+502,1282,11,287,my,Malaysia,60,Telekom Malaysia
 502,1282,151,337,my,Malaysia,60,Baraka Telecom Sdn Bhd
 502,1282,13,319,my,Malaysia,60,Celcom
 502,1282,198,408,my,Malaysia,60,Celcom
@@ -1537,8 +1537,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 716,1814,02,47,pe,Peru,51,GlobalStar
 716,1814,01,31,pe,Peru,51,GlobalStar
 716,1814,06,111,pe,Peru,51,Movistar
-716,1814,07,127,pe,Peru,51,Nextel
 716,1814,17,383,pe,Peru,51,Nextel
+716,1814,07,127,pe,Peru,51,Nextel
 716,1814,15,351,pe,Peru,51,Viettel Mobile
 515,1301,999,2457,ph,Philippines,63,Fix Line
 515,1301,01,31,ph,Philippines,63,Globe Telecom
@@ -1629,8 +1629,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 260,608,39,927,pl,Poland,48,Voxbone / Bandwidth
 268,616,999,2457,pt,Portugal,351,Fix Line
 268,616,04,79,pt,Portugal,351,Lycamobile
-268,616,06,111,pt,Portugal,351,MEO
 268,616,80,2063,pt,Portugal,351,MEO
+268,616,06,111,pt,Portugal,351,MEO
 268,616,08,143,pt,Portugal,351,MEO
 268,616,93,2367,pt,Portugal,351,NOS
 268,616,03,63,pt,Portugal,351,NOS
@@ -1749,8 +1749,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 231,561,03,63,sk,Slovakia,421,Swan / 4ka
 231,561,02,47,sk,Slovakia,421,Telekom
 231,561,02,47,sk,Slovakia,421,Telekom
-231,561,04,79,sk,Slovakia,421,Telekom
 231,561,50,1295,sk,Slovakia,421,Telekom
+231,561,04,79,sk,Slovakia,421,Telekom
 231,561,08,143,sk,Slovakia,421,Uniphone
 231,561,299,665,sk,Slovakia,421,Vonage
 231,561,99,2463,sk,Slovakia,421,ZSR
