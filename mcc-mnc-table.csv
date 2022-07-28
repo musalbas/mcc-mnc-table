@@ -28,12 +28,12 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 344,836,93,2367,ag,Antigua and Barbuda,1268,Digicel
 344,836,92,2351,ag,Antigua and Barbuda,1268,Flow
 344,836,920,2336,ag,Antigua and Barbuda,1268,Flow
-344,836,030,48,ag,Antigua and Barbuda,1268,imobile / APUA
 344,836,03,63,ag,Antigua and Barbuda,1268,imobile / APUA
+344,836,030,48,ag,Antigua and Barbuda,1268,imobile / APUA
 722,1826,310,784,ar,Argentina,54,Claro
 722,1826,330,816,ar,Argentina,54,Claro
-722,1826,320,800,ar,Argentina,54,Claro
 722,1826,031,49,ar,Argentina,54,Claro
+722,1826,320,800,ar,Argentina,54,Claro
 722,1826,299,665,ar,Argentina,54,Express
 722,1826,999,2457,ar,Argentina,54,Fix Line
 722,1826,299,665,ar,Argentina,54,Imowi
@@ -75,8 +75,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 505,1285,08,143,au,Australia,61,Railcorp/Vodafone
 505,1285,99,2463,au,Australia,61,Railcorp/Vodafone
 505,1285,90,2319,au,Australia,61,Optus
-505,1285,88,2191,au,Australia,61,Pivotel
 505,1285,50,1295,au,Australia,61,Pivotel
+505,1285,88,2191,au,Australia,61,Pivotel
 505,1285,13,319,au,Australia,61,RailCorp
 505,1285,13,319,au,Australia,61,Railcorp/Vodafone
 505,1285,26,623,au,Australia,61,Sinch
@@ -84,9 +84,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 505,1285,299,665,au,Australia,61,Symbio
 505,1285,72,1839,au,Australia,61,Telstra
 505,1285,11,287,au,Australia,61,Telstra
-505,1285,71,1823,au,Australia,61,Telstra
 505,1285,01,31,au,Australia,61,Telstra
 505,1285,39,927,au,Australia,61,Telstra
+505,1285,71,1823,au,Australia,61,Telstra
 505,1285,01,31,au,Australia,61,Telstra
 505,1285,05,95,au,Australia,61,The Ozitel Network Pty.
 505,1285,16,367,au,Australia,61,VicTrack
@@ -111,8 +111,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 232,562,14,335,at,Austria,43,Hutchinson Drei
 232,562,16,367,at,Austria,43,Hutchinson Drei
 232,562,19,415,at,Austria,43,Hutchinson Drei
-232,562,10,271,at,Austria,43,Hutchinson Drei
 232,562,05,95,at,Austria,43,Hutchinson Drei
+232,562,10,271,at,Austria,43,Hutchinson Drei
 232,562,299,665,at,Austria,43,Innsbrucker Kommunalbetriebe
 232,562,299,665,at,Austria,43,kabelplus
 232,562,299,665,at,Austria,43,Lenovo Connect
@@ -157,8 +157,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 426,1062,02,47,bh,Bahrain,973,ZAIN/Vodafone
 426,1062,04,79,bh,Bahrain,973,VIVA
 470,1136,02,47,bd,Bangladesh,880,Robi/Aktel
-470,1136,05,95,bd,Bangladesh,880,Citycell
 470,1136,06,111,bd,Bangladesh,880,Citycell
+470,1136,05,95,bd,Bangladesh,880,Citycell
 470,1136,01,31,bd,Bangladesh,880,GrameenPhone
 470,1136,03,63,bd,Bangladesh,880,Orascom/Banglalink
 470,1136,04,79,bd,Bangladesh,880,TeleTalk
@@ -227,8 +227,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 652,1618,02,47,bw,Botswana,267,Orange
 724,1828,26,623,br,Brazil,55,AmericaNet
 724,1828,12,303,br,Brazil,55,Claro/Albra/America Movil
-724,1828,05,95,br,Brazil,55,Claro/Albra/America Movil
 724,1828,38,911,br,Brazil,55,Claro/Albra/America Movil
+724,1828,05,95,br,Brazil,55,Claro/Albra/America Movil
 724,1828,01,31,br,Brazil,55,Vivo S.A./Telemig
 724,1828,34,847,br,Brazil,55,CTBC Celular SA (CTBC)
 724,1828,33,831,br,Brazil,55,CTBC Celular SA (CTBC)
@@ -236,17 +236,17 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 724,1828,08,143,br,Brazil,55,TIM
 724,1828,39,927,br,Brazil,55,Nextel (Telet)
 724,1828,00,15,br,Brazil,55,Nextel (Telet)
-724,1828,24,591,br,Brazil,55,Amazonia Celular S/A
 724,1828,16,367,br,Brazil,55,Brazil Telcom
+724,1828,24,591,br,Brazil,55,Amazonia Celular S/A
 724,1828,30,783,br,Brazil,55,Oi (TNL PCS / Oi)
 724,1828,31,799,br,Brazil,55,Oi (TNL PCS / Oi)
 724,1828,54,1359,br,Brazil,55,PORTO SEGURO TELECOMUNICACOES
 724,1828,15,351,br,Brazil,55,Sercontel Cel
 724,1828,07,127,br,Brazil,55,CTBC/Triangulo
 724,1828,19,415,br,Brazil,55,Vivo S.A./Telemig
+724,1828,03,63,br,Brazil,55,TIM
 724,1828,02,47,br,Brazil,55,TIM
 724,1828,04,79,br,Brazil,55,TIM
-724,1828,03,63,br,Brazil,55,TIM
 724,1828,37,895,br,Brazil,55,Unicel do Brasil Telecomunicacoes Ltda
 724,1828,11,287,br,Brazil,55,Vivo S.A./Telemig
 724,1828,10,271,br,Brazil,55,Vivo S.A./Telemig
@@ -311,8 +311,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 302,770,657,1623,ca,Canada,1,Quebectel Mobility
 302,770,720,1824,ca,Canada,1,Rogers AT&T Wireless
 302,770,780,1920,ca,Canada,1,Sask Tel Mobility
-302,770,654,1620,ca,Canada,1,Sask Tel Mobility
 302,770,680,1664,ca,Canada,1,Sask Tel Mobility
+302,770,654,1620,ca,Canada,1,Sask Tel Mobility
 302,770,656,1622,ca,Canada,1,Tbay Mobility
 302,770,653,1619,ca,Canada,1,Telus Mobility
 302,770,220,544,ca,Canada,1,Telus Mobility
@@ -351,9 +351,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 730,1840,00,15,cl,Chile,56,TESAM SA
 730,1840,13,319,cl,Chile,56,Tribe Mobile SPA
 730,1840,08,143,cl,Chile,56,VTR Banda Ancha SA
+460,1120,00,15,cn,China,86,China Mobile GSM
 460,1120,07,127,cn,China,86,China Mobile GSM
 460,1120,02,47,cn,China,86,China Mobile GSM
-460,1120,00,15,cn,China,86,China Mobile GSM
 460,1120,04,79,cn,China,86,China Space Mobile Satellite Telecommunications Co. Ltd (China Spacecom)
 460,1120,03,63,cn,China,86,China Telecom
 460,1120,05,95,cn,China,86,China Telecom
@@ -378,8 +378,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 732,1842,299,665,co,Colombia,57,Plintron
 732,1842,230,560,co,Colombia,57,Setroc Mobile
 732,1842,199,409,co,Colombia,57,SUMA movil
-732,1842,103,259,co,Colombia,57,Tigo
 732,1842,165,357,co,Colombia,57,Tigo
+732,1842,103,259,co,Colombia,57,Tigo
 732,1842,111,273,co,Colombia,57,Tigo
 732,1842,299,665,co,Colombia,57,TuCEL
 732,1842,020,32,co,Colombia,57,UNE
@@ -440,8 +440,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 230,560,299,665,cz,Czech Republic,420,SAZKA
 230,560,299,665,cz,Czech Republic,420,SZDC
 230,560,98,2447,cz,Czech Republic,420,SZDC
-230,560,01,31,cz,Czech Republic,420,T-Mobile
 230,560,07,127,cz,Czech Republic,420,T-Mobile
+230,560,01,31,cz,Czech Republic,420,T-Mobile
 230,560,299,665,cz,Czech Republic,420,Tesco Mobile
 230,560,299,665,cz,Czech Republic,420,TOPefekt
 230,560,299,665,cz,Czech Republic,420,TT Quality
@@ -518,8 +518,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 657,1623,01,31,er,Eritrea,291,Eritel
 248,584,02,47,ee,Estonia,372,Elisa
 248,584,03,63,ee,Estonia,372,Tele2
-248,584,13,319,ee,Estonia,372,Telia
 248,584,01,31,ee,Estonia,372,Telia
+248,584,13,319,ee,Estonia,372,Telia
 248,584,04,79,ee,Estonia,372,TravelSim
 636,1590,01,31,et,Ethiopia,251,Ethio Mobile
 750,1872,001,1,fk,Falkland Islands,500,Sure
@@ -533,9 +533,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 244,580,26,623,fi,Finland,358,Compatel
 244,580,299,665,fi,Finland,358,Cuuma
 244,580,04,79,fi,Finland,358,DNA
-244,580,03,63,fi,Finland,358,DNA
-244,580,12,303,fi,Finland,358,DNA
 244,580,13,319,fi,Finland,358,DNA
+244,580,12,303,fi,Finland,358,DNA
+244,580,03,63,fi,Finland,358,DNA
 244,580,12,303,fi,Finland,358,DNA
 244,580,21,543,fi,Finland,358,Elisa
 244,580,06,111,fi,Finland,358,Elisa
@@ -606,8 +606,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 208,520,299,665,fr,France,33,Foliateam
 208,520,16,367,fr,France,33,Free Mobile
 208,520,36,879,fr,France,33,Free Mobile
-208,520,35,863,fr,France,33,Free Mobile
 208,520,15,351,fr,France,33,Free Mobile
+208,520,35,863,fr,France,33,Free Mobile
 208,520,14,335,fr,France,33,Free Mobile
 208,520,05,95,fr,France,33,GlobalStar
 208,520,07,127,fr,France,33,GlobalStar
@@ -653,11 +653,11 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 208,520,299,665,fr,France,33,SCT TELECOM
 208,520,299,665,fr,France,33,SCT TELECOM
 208,520,299,665,fr,France,33,Sewan Communications
-208,520,11,287,fr,France,33,SFR
 208,520,13,319,fr,France,33,SFR
 208,520,09,159,fr,France,33,SFR
 208,520,10,271,fr,France,33,SFR
 208,520,08,143,fr,France,33,SFR
+208,520,11,287,fr,France,33,SFR
 208,520,299,665,fr,France,33,SIMbioz
 208,520,04,79,fr,France,33,Axialys
 208,520,30,783,fr,France,33,Syma Mobile
@@ -714,14 +714,14 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 262,610,22,559,de,Germany,49,sipgate
 262,610,299,665,de,Germany,49,TelcoVillage
 262,610,24,591,de,Germany,49,TelcoVillage
-262,610,05,95,de,Germany,49,Telefonica / E-Plus
-262,610,12,303,de,Germany,49,Telefonica / E-Plus
 262,610,03,63,de,Germany,49,Telefonica / E-Plus
+262,610,05,95,de,Germany,49,Telefonica / E-Plus
 262,610,17,383,de,Germany,49,Telefonica / E-Plus
-262,610,11,287,de,Germany,49,Telefonica / O2
-262,610,08,143,de,Germany,49,Telefonica / O2
+262,610,12,303,de,Germany,49,Telefonica / E-Plus
 262,610,16,367,de,Germany,49,Telefonica / O2
 262,610,07,127,de,Germany,49,Telefonica / O2
+262,610,11,287,de,Germany,49,Telefonica / O2
+262,610,08,143,de,Germany,49,Telefonica / O2
 262,610,01,31,de,Germany,49,Telekom / T-mobile
 262,610,78,1935,de,Germany,49,Telekom / T-mobile
 262,610,06,111,de,Germany,49,Telekom / T-mobile
@@ -801,9 +801,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 708,1800,030,48,hn,Honduras,504,HonduTel
 708,1800,001,1,hn,Honduras,504,SERCOM/CLARO
 708,1800,002,2,hn,Honduras,504,Telefonica/CELTEL
-454,1108,12,303,hk,Hongkong,852,China Mobile/Peoples
 454,1108,28,655,hk,Hongkong,852,China Mobile/Peoples
 454,1108,13,319,hk,Hongkong,852,China Mobile/Peoples
+454,1108,12,303,hk,Hongkong,852,China Mobile/Peoples
 454,1108,09,159,hk,Hongkong,852,China Motion
 454,1108,07,127,hk,Hongkong,852,China Unicom Ltd
 454,1108,11,287,hk,Hongkong,852,China-HongKong Telecom Ltd (CHKTL)
@@ -850,22 +850,32 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 274,628,08,143,is,Iceland,354,Siminn
 274,628,16,367,is,Iceland,354,Tismi
 274,628,04,79,is,Iceland,354,Viking Wireless
-274,628,12,303,is,Iceland,354,Vodafone
-274,628,02,47,is,Iceland,354,Vodafone
 274,628,03,63,is,Iceland,354,Vodafone
+274,628,02,47,is,Iceland,354,Vodafone
+274,628,12,303,is,Iceland,354,Vodafone
 274,628,05,95,is,Iceland,354,Vodafone
+404,1028,28,655,in,India,91,Aircel
+404,1028,25,607,in,India,91,Aircel
 404,1028,17,383,in,India,91,Aircel
 404,1028,42,1071,in,India,91,Aircel
 404,1028,33,831,in,India,91,Aircel
 404,1028,29,671,in,India,91,Aircel
-404,1028,28,655,in,India,91,Aircel
-404,1028,25,607,in,India,91,Aircel
 404,1028,01,31,in,India,91,Aircel Digilink India
 404,1028,15,351,in,India,91,Aircel Digilink India
 404,1028,60,1551,in,India,91,Aircel Digilink India
 405,1029,53,1343,in,India,91,AirTel
 404,1028,86,2159,in,India,91,Barakhamba Sales & Serv.
 404,1028,13,319,in,India,91,Barakhamba Sales & Serv.
+404,1028,77,1919,in,India,91,BSNL
+404,1028,64,1615,in,India,91,BSNL
+404,1028,54,1359,in,India,91,BSNL
+404,1028,71,1823,in,India,91,BSNL
+404,1028,76,1903,in,India,91,BSNL
+404,1028,62,1583,in,India,91,BSNL
+404,1028,53,1343,in,India,91,BSNL
+404,1028,59,1439,in,India,91,BSNL
+404,1028,75,1887,in,India,91,BSNL
+404,1028,51,1311,in,India,91,BSNL
 404,1028,58,1423,in,India,91,BSNL
 404,1028,81,2079,in,India,91,BSNL
 404,1028,74,1871,in,India,91,BSNL
@@ -877,23 +887,13 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 404,1028,66,1647,in,India,91,BSNL
 404,1028,55,1375,in,India,91,BSNL
 404,1028,72,1839,in,India,91,BSNL
-404,1028,77,1919,in,India,91,BSNL
-404,1028,64,1615,in,India,91,BSNL
-404,1028,54,1359,in,India,91,BSNL
-404,1028,71,1823,in,India,91,BSNL
-404,1028,76,1903,in,India,91,BSNL
-404,1028,62,1583,in,India,91,BSNL
-404,1028,53,1343,in,India,91,BSNL
-404,1028,59,1439,in,India,91,BSNL
-404,1028,75,1887,in,India,91,BSNL
-404,1028,51,1311,in,India,91,BSNL
 404,1028,10,271,in,India,91,Bharti Airtel Limited (Delhi)
 404,1028,045,69,in,India,91,Bharti Airtel Limited (Karnataka) (India)
 404,1028,79,1951,in,India,91,CellOne A&N
-404,1028,87,2175,in,India,91,Escorts Telecom Ltd.
 404,1028,82,2095,in,India,91,Escorts Telecom Ltd.
 404,1028,89,2207,in,India,91,Escorts Telecom Ltd.
 404,1028,88,2191,in,India,91,Escorts Telecom Ltd.
+404,1028,87,2175,in,India,91,Escorts Telecom Ltd.
 404,1028,12,303,in,India,91,Escotel Mobile Communications
 404,1028,19,415,in,India,91,Escotel Mobile Communications
 404,1028,56,1391,in,India,91,Escotel Mobile Communications
@@ -902,22 +902,22 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 404,1028,998,2456,in,India,91,Fix Line
 404,1028,70,1807,in,India,91,Hexacom India
 404,1028,16,367,in,India,91,Hexcom India
-404,1028,78,1935,in,India,91,Idea Cellular Ltd.
-404,1028,07,127,in,India,91,Idea Cellular Ltd.
 404,1028,04,79,in,India,91,Idea Cellular Ltd.
 404,1028,24,591,in,India,91,Idea Cellular Ltd.
 404,1028,22,559,in,India,91,Idea Cellular Ltd.
+404,1028,78,1935,in,India,91,Idea Cellular Ltd.
+404,1028,07,127,in,India,91,Idea Cellular Ltd.
 404,1028,69,1695,in,India,91,Mahanagar Telephone Nigam
 404,1028,68,1679,in,India,91,Mahanagar Telephone Nigam
 404,1028,83,2111,in,India,91,Reliable Internet Services
-404,1028,50,1295,in,India,91,Reliance Telecom Private
 405,1029,87,2175,in,India,91,Reliance Telecom Private
+404,1028,36,879,in,India,91,Reliance Telecom Private
+404,1028,52,1327,in,India,91,Reliance Telecom Private
+404,1028,50,1295,in,India,91,Reliance Telecom Private
 404,1028,67,1663,in,India,91,Reliance Telecom Private
 404,1028,18,399,in,India,91,Reliance Telecom Private
 404,1028,85,2143,in,India,91,Reliance Telecom Private
 404,1028,09,159,in,India,91,Reliance Telecom Private
-404,1028,36,879,in,India,91,Reliance Telecom Private
-404,1028,52,1327,in,India,91,Reliance Telecom Private
 404,1028,41,1055,in,India,91,RPG Cellular
 404,1028,14,335,in,India,91,Spice
 404,1028,44,1103,in,India,91,Spice
@@ -940,8 +940,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 510,1296,09,159,id,Indonesia,62,PT Smartfren Telecom Tbk
 510,1296,28,655,id,Indonesia,62,PT Smartfren Telecom Tbk
 510,1296,11,287,id,Indonesia,62,PT. Excelcom
-510,1296,10,271,id,Indonesia,62,Telkomsel
 510,1296,07,127,id,Indonesia,62,Telkomsel
+510,1296,10,271,id,Indonesia,62,Telkomsel
 901,2305,13,319,n/a,International Networks,882,Antarctica
 432,1074,999,2457,ir,Iran,98,Fix Line
 432,1074,19,415,ir,Iran,98,Mobile Telecommunications Company of Esfahan JV-PJS (MTCE)
@@ -954,17 +954,17 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 418,1048,05,95,iq,Iraq,964,Asia Cell
 418,1048,66,1647,iq,Iraq,964,Fastlink
 418,1048,92,2351,iq,Iraq,964,Itisaluna and Kalemat
-418,1048,40,1039,iq,Iraq,964,Korek
 418,1048,82,2095,iq,Iraq,964,Korek
+418,1048,40,1039,iq,Iraq,964,Korek
 418,1048,45,1119,iq,Iraq,964,Mobitel
 418,1048,30,783,iq,Iraq,964,Orascom Telecom
 418,1048,08,143,iq,Iraq,964,Sanatel
-418,1048,20,527,iq,Iraq,964,Zain
 418,1048,30,783,iq,Iraq,964,Zain
+418,1048,20,527,iq,Iraq,964,Zain
 272,626,04,79,ie,Ireland,353,Access Telecom Ltd.
-272,626,07,127,ie,Ireland,353,Meteor / eir mobile
 272,626,08,143,ie,Ireland,353,Meteor / eir mobile
 272,626,03,63,ie,Ireland,353,Meteor / eir mobile
+272,626,07,127,ie,Ireland,353,Meteor / eir mobile
 272,626,13,319,ie,Ireland,353,Lycamobile
 272,626,11,287,ie,Ireland,353,Tesco Mobile
 272,626,17,383,ie,Ireland,353,3
@@ -1033,8 +1033,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 612,1554,05,95,ci,Ivory Coast,225,MTN
 612,1554,03,63,ci,Ivory Coast,225,Orange
 612,1554,06,111,ci,Ivory Coast,225,OriCell
-338,824,020,32,jm,Jamaica,1876,Cable & Wireless
 338,824,110,272,jm,Jamaica,1876,Cable & Wireless
+338,824,020,32,jm,Jamaica,1876,Cable & Wireless
 338,824,180,384,jm,Jamaica,1876,Cable & Wireless
 338,824,050,80,jm,Jamaica,1876,DIGICEL/Mossel
 440,1088,00,15,jp,Japan,81,Y-Mobile
@@ -1060,6 +1060,36 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,07,127,jp,Japan,81,KDDI
 440,1088,73,1855,jp,Japan,81,KDDI
 440,1088,55,1375,jp,Japan,81,KDDI
+441,1089,94,2383,jp,Japan,81,NTT DoCoMo
+441,1089,41,1055,jp,Japan,81,NTT DoCoMo
+440,1088,67,1663,jp,Japan,81,NTT DoCoMo
+440,1088,14,335,jp,Japan,81,NTT DoCoMo
+440,1088,39,927,jp,Japan,81,NTT DoCoMo
+440,1088,30,783,jp,Japan,81,NTT DoCoMo
+440,1088,10,271,jp,Japan,81,NTT DoCoMo
+440,1088,62,1583,jp,Japan,81,NTT DoCoMo
+441,1089,45,1119,jp,Japan,81,NTT DoCoMo
+440,1088,24,591,jp,Japan,81,NTT DoCoMo
+441,1089,98,2447,jp,Japan,81,NTT DoCoMo
+441,1089,42,1071,jp,Japan,81,NTT DoCoMo
+440,1088,68,1679,jp,Japan,81,NTT DoCoMo
+440,1088,15,351,jp,Japan,81,NTT DoCoMo
+440,1088,38,911,jp,Japan,81,NTT DoCoMo
+440,1088,26,623,jp,Japan,81,NTT DoCoMo
+440,1088,11,287,jp,Japan,81,NTT DoCoMo
+440,1088,63,1599,jp,Japan,81,NTT DoCoMo
+441,1089,44,1103,jp,Japan,81,NTT DoCoMo
+440,1088,13,319,jp,Japan,81,NTT DoCoMo
+440,1088,23,575,jp,Japan,81,NTT DoCoMo
+440,1088,01,31,jp,Japan,81,NTT DoCoMo
+440,1088,21,543,jp,Japan,81,NTT DoCoMo
+441,1089,99,2463,jp,Japan,81,NTT DoCoMo
+440,1088,34,847,jp,Japan,81,NTT DoCoMo
+440,1088,69,1695,jp,Japan,81,NTT DoCoMo
+440,1088,16,367,jp,Japan,81,NTT DoCoMo
+440,1088,37,895,jp,Japan,81,NTT DoCoMo
+440,1088,25,607,jp,Japan,81,NTT DoCoMo
+440,1088,64,1615,jp,Japan,81,NTT DoCoMo
 441,1089,43,1087,jp,Japan,81,NTT DoCoMo
 440,1088,27,639,jp,Japan,81,NTT DoCoMo
 440,1088,02,47,jp,Japan,81,NTT DoCoMo
@@ -1067,91 +1097,61 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 440,1088,31,799,jp,Japan,81,NTT DoCoMo
 440,1088,87,2175,jp,Japan,81,NTT DoCoMo
 440,1088,17,383,jp,Japan,81,NTT DoCoMo
+440,1088,36,879,jp,Japan,81,NTT DoCoMo
 441,1089,92,2351,jp,Japan,81,NTT DoCoMo
 440,1088,65,1631,jp,Japan,81,NTT DoCoMo
-440,1088,36,879,jp,Japan,81,NTT DoCoMo
+440,1088,58,1423,jp,Japan,81,NTT DoCoMo
 440,1088,28,655,jp,Japan,81,NTT DoCoMo
 440,1088,03,63,jp,Japan,81,NTT DoCoMo
 440,1088,12,303,jp,Japan,81,NTT DoCoMo
-440,1088,58,1423,jp,Japan,81,NTT DoCoMo
 441,1089,91,2335,jp,Japan,81,NTT DoCoMo
 440,1088,32,815,jp,Japan,81,NTT DoCoMo
 440,1088,61,1567,jp,Japan,81,NTT DoCoMo
 440,1088,18,399,jp,Japan,81,NTT DoCoMo
+440,1088,35,863,jp,Japan,81,NTT DoCoMo
 441,1089,93,2367,jp,Japan,81,NTT DoCoMo
 441,1089,40,1039,jp,Japan,81,NTT DoCoMo
 440,1088,66,1647,jp,Japan,81,NTT DoCoMo
-440,1088,35,863,jp,Japan,81,NTT DoCoMo
+440,1088,49,1183,jp,Japan,81,NTT DoCoMo
 440,1088,29,671,jp,Japan,81,NTT DoCoMo
 440,1088,09,159,jp,Japan,81,NTT DoCoMo
-440,1088,49,1183,jp,Japan,81,NTT DoCoMo
 441,1089,90,2319,jp,Japan,81,NTT DoCoMo
 440,1088,33,831,jp,Japan,81,NTT DoCoMo
 440,1088,60,1551,jp,Japan,81,NTT DoCoMo
 440,1088,19,415,jp,Japan,81,NTT DoCoMo
-441,1089,94,2383,jp,Japan,81,NTT DoCoMo
-441,1089,41,1055,jp,Japan,81,NTT DoCoMo
-440,1088,67,1663,jp,Japan,81,NTT DoCoMo
-440,1088,14,335,jp,Japan,81,NTT DoCoMo
-440,1088,30,783,jp,Japan,81,NTT DoCoMo
-440,1088,10,271,jp,Japan,81,NTT DoCoMo
-440,1088,62,1583,jp,Japan,81,NTT DoCoMo
-440,1088,39,927,jp,Japan,81,NTT DoCoMo
-441,1089,45,1119,jp,Japan,81,NTT DoCoMo
-440,1088,24,591,jp,Japan,81,NTT DoCoMo
-440,1088,01,31,jp,Japan,81,NTT DoCoMo
-441,1089,98,2447,jp,Japan,81,NTT DoCoMo
-441,1089,42,1071,jp,Japan,81,NTT DoCoMo
-440,1088,68,1679,jp,Japan,81,NTT DoCoMo
-440,1088,15,351,jp,Japan,81,NTT DoCoMo
-440,1088,26,623,jp,Japan,81,NTT DoCoMo
-440,1088,11,287,jp,Japan,81,NTT DoCoMo
-440,1088,63,1599,jp,Japan,81,NTT DoCoMo
-440,1088,38,911,jp,Japan,81,NTT DoCoMo
-441,1089,44,1103,jp,Japan,81,NTT DoCoMo
-440,1088,13,319,jp,Japan,81,NTT DoCoMo
-440,1088,23,575,jp,Japan,81,NTT DoCoMo
-440,1088,21,543,jp,Japan,81,NTT DoCoMo
-441,1089,99,2463,jp,Japan,81,NTT DoCoMo
-440,1088,34,847,jp,Japan,81,NTT DoCoMo
-440,1088,69,1695,jp,Japan,81,NTT DoCoMo
-440,1088,16,367,jp,Japan,81,NTT DoCoMo
-440,1088,25,607,jp,Japan,81,NTT DoCoMo
-440,1088,64,1615,jp,Japan,81,NTT DoCoMo
-440,1088,37,895,jp,Japan,81,NTT DoCoMo
 440,1088,99,2463,jp,Japan,81,NTT DoCoMo
 440,1088,78,1935,jp,Japan,81,Okinawa Cellular
 440,1088,11,287,jp,Japan,81,Rakuten Mobile
-440,1088,00,15,jp,Japan,81,SoftBank
 440,1088,20,527,jp,Japan,81,SoftBank
+440,1088,00,15,jp,Japan,81,SoftBank
 440,1088,21,543,jp,Japan,81,SoftBank
 440,1088,05,95,jp,Japan,81,SoftBank
 440,1088,01,31,jp,Japan,81,SoftBank
-440,1088,46,1135,jp,Japan,81,SoftBank
-440,1088,97,2431,jp,Japan,81,SoftBank
-440,1088,42,1071,jp,Japan,81,SoftBank
-440,1088,90,2319,jp,Japan,81,SoftBank
-441,1089,65,1631,jp,Japan,81,SoftBank
-440,1088,92,2351,jp,Japan,81,SoftBank
-440,1088,98,2447,jp,Japan,81,SoftBank
-440,1088,43,1087,jp,Japan,81,SoftBank
-440,1088,93,2367,jp,Japan,81,SoftBank
-440,1088,48,1167,jp,Japan,81,SoftBank
-440,1088,06,111,jp,Japan,81,SoftBank
-441,1089,61,1567,jp,Japan,81,SoftBank
-440,1088,44,1103,jp,Japan,81,SoftBank
-440,1088,94,2383,jp,Japan,81,SoftBank
 440,1088,04,79,jp,Japan,81,SoftBank
 441,1089,62,1583,jp,Japan,81,SoftBank
 440,1088,45,1119,jp,Japan,81,SoftBank
 440,1088,20,527,jp,Japan,81,SoftBank
-440,1088,96,2415,jp,Japan,81,SoftBank
 440,1088,40,1039,jp,Japan,81,SoftBank
 441,1089,63,1599,jp,Japan,81,SoftBank
-440,1088,47,1151,jp,Japan,81,SoftBank
 440,1088,95,2399,jp,Japan,81,SoftBank
+440,1088,93,2367,jp,Japan,81,SoftBank
+440,1088,47,1151,jp,Japan,81,SoftBank
 440,1088,41,1055,jp,Japan,81,SoftBank
 441,1089,64,1615,jp,Japan,81,SoftBank
+440,1088,97,2431,jp,Japan,81,SoftBank
+440,1088,94,2383,jp,Japan,81,SoftBank
+440,1088,46,1135,jp,Japan,81,SoftBank
+440,1088,42,1071,jp,Japan,81,SoftBank
+440,1088,90,2319,jp,Japan,81,SoftBank
+441,1089,65,1631,jp,Japan,81,SoftBank
+440,1088,98,2447,jp,Japan,81,SoftBank
+440,1088,96,2415,jp,Japan,81,SoftBank
+440,1088,92,2351,jp,Japan,81,SoftBank
+440,1088,43,1087,jp,Japan,81,SoftBank
+440,1088,48,1167,jp,Japan,81,SoftBank
+441,1089,61,1567,jp,Japan,81,SoftBank
+440,1088,06,111,jp,Japan,81,SoftBank
+440,1088,44,1103,jp,Japan,81,SoftBank
 440,1088,83,2111,jp,Japan,81,KDDI
 440,1088,85,2143,jp,Japan,81,KDDI
 440,1088,81,2079,jp,Japan,81,KDDI
@@ -1177,8 +1177,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 639,1593,11,287,ke,Kenya,254,Jambo Telcoms
 639,1593,10,271,ke,Kenya,254,Jamii Telecommunications
 639,1593,04,79,ke,Kenya,254,Mobile Pay
-639,1593,01,31,ke,Kenya,254,Safaricom
 639,1593,02,47,ke,Kenya,254,Safaricom
+639,1593,01,31,ke,Kenya,254,Safaricom
 639,1593,07,127,ke,Kenya,254,Telkom
 545,1349,09,159,ki,Kiribati,686,Kiribati Frigate
 221,545,07,127,xk,Kosovo,383,D3 mobile
@@ -1360,8 +1360,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 297,663,02,47,me,Montenegro,382,Telekom / T-mobile
 297,663,01,31,me,Montenegro,382,Telenor
 354,852,860,2144,ms,Montserrat,1664,Cable & Wireless
-604,1540,04,79,ma,Morocco,212,Al Houria Telecom
 604,1540,99,2463,ma,Morocco,212,Al Houria Telecom
+604,1540,04,79,ma,Morocco,212,Al Houria Telecom
 604,1540,01,31,ma,Morocco,212,IAM
 604,1540,06,111,ma,Morocco,212,IAM
 604,1540,05,95,ma,Morocco,212,inwi
@@ -1441,8 +1441,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 546,1350,01,31,nc,New Caledonia,687,OPT Mobilis
 530,1328,28,655,nz,New Zealand,64,2degrees
 530,1328,999,2457,nz,New Zealand,64,Fix Line
-530,1328,05,95,nz,New Zealand,64,Spark Mobile
 530,1328,02,47,nz,New Zealand,64,Spark Mobile
+530,1328,05,95,nz,New Zealand,64,Spark Mobile
 530,1328,04,79,nz,New Zealand,64,Telstra
 530,1328,24,591,nz,New Zealand,64,Two Degrees Mobile
 530,1328,01,31,nz,New Zealand,64,Vodafone
@@ -1606,8 +1606,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 260,608,299,665,pl,Poland,48,NIMBOW
 260,608,11,287,pl,Poland,48,NORDISK Polska
 260,608,27,639,pl,Poland,48,Ntel Solutions
-260,608,03,63,pl,Poland,48,Orange
 260,608,05,95,pl,Poland,48,Orange
+260,608,03,63,pl,Poland,48,Orange
 260,608,35,863,pl,Poland,48,PKP
 260,608,98,2447,pl,Poland,48,Play
 260,608,06,111,pl,Poland,48,Play
@@ -1623,9 +1623,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 260,608,299,665,pl,Poland,48,SGT
 260,608,47,1151,pl,Poland,48,SMSHIGHWAY
 260,608,299,665,pl,Poland,48,Softelnet
-260,608,34,847,pl,Poland,48,T-Mobile
 260,608,02,47,pl,Poland,48,T-Mobile
 260,608,10,271,pl,Poland,48,T-Mobile
+260,608,34,847,pl,Poland,48,T-Mobile
 260,608,14,335,pl,Poland,48,Telco Leaders
 260,608,299,665,pl,Poland,48,Tele GO
 260,608,15,351,pl,Poland,48,Aero2
@@ -1877,8 +1877,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 637,1591,30,783,so,Somalia,252,Golis
 637,1591,50,1295,so,Somalia,252,Hormuud
 637,1591,19,415,so,Somalia,252,Hormuud
-637,1591,10,271,so,Somalia,252,Nationlink
 637,1591,60,1551,so,Somalia,252,Nationlink
+637,1591,10,271,so,Somalia,252,Nationlink
 637,1591,299,665,so,Somalia,252,NETCO
 637,1591,70,1807,so,Somalia,252,Onkod
 637,1591,04,79,so,Somalia,252,Somafone
@@ -1908,8 +1908,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 450,1104,04,79,kr,South Korea,82,olleh / KT
 450,1104,08,143,kr,South Korea,82,olleh / KT
 450,1104,03,63,kr,South Korea,82,SK Telecom
-450,1104,12,303,kr,South Korea,82,SK Telecom
 450,1104,05,95,kr,South Korea,82,SK Telecom
+450,1104,12,303,kr,South Korea,82,SK Telecom
 450,1104,11,287,kr,South Korea,82,SK Telecom
 659,1625,299,665,ss,South Sudan,,Digitel
 659,1625,299,665,ss,South Sudan,,Failed Calls
@@ -1994,8 +1994,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 634,1588,03,63,sd,Sudan,249,MTN
 634,1588,07,127,sd,Sudan,249,Sudani One
 634,1588,15,351,sd,Sudan,249,Sudani One
-634,1588,05,95,sd,Sudan,249,Canar Telecom
 634,1588,08,143,sd,Sudan,249,Canar Telecom
+634,1588,05,95,sd,Sudan,249,Canar Telecom
 634,1588,01,31,sd,Sudan,249,Zain
 634,1588,06,111,sd,Sudan,249,Zain
 746,1862,03,63,sr,Suriname,597,Digicel
@@ -2055,8 +2055,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 240,576,47,1151,se,Sweden,46,Viatel
 240,576,38,911,se,Sweden,46,Voxbone / Bandwidth
 228,552,58,1423,ch,Switzerland,41,Beeone
-228,552,09,159,ch,Switzerland,41,Comfone
 228,552,05,95,ch,Switzerland,41,Comfone
+228,552,09,159,ch,Switzerland,41,Comfone
 228,552,999,2457,ch,Switzerland,41,Fix Line
 228,552,07,127,ch,Switzerland,41,Sunrise
 228,552,66,1647,ch,Switzerland,41,Inovia
@@ -2086,9 +2086,9 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 466,1126,11,287,tw,Taiwan,886,Chunghwa Telecom LDM
 466,1126,92,2351,tw,Taiwan,886,Chunghwa Telecom LDM
 466,1126,03,63,tw,Taiwan,886,Far EasTone
-466,1126,02,47,tw,Taiwan,886,Far EasTone
 466,1126,01,31,tw,Taiwan,886,Far EasTone
 466,1126,07,127,tw,Taiwan,886,Far EasTone
+466,1126,02,47,tw,Taiwan,886,Far EasTone
 466,1126,06,111,tw,Taiwan,886,Far EasTone
 466,1126,10,271,tw,Taiwan,886,Global Mobile Corp.
 466,1126,56,1391,tw,Taiwan,886,International Telecom Co. Ltd (FITEL)
@@ -2303,12 +2303,12 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 234,564,01,31,gb,United Kingdom,44,Vectone Mobile
 234,564,998,2456,gb,United Kingdom,44,Virgin Mobile
 234,564,38,911,gb,United Kingdom,44,Virgin Mobile
-234,564,07,127,gb,United Kingdom,44,Vodafone
 234,564,89,2207,gb,United Kingdom,44,Vodafone
 234,564,92,2351,gb,United Kingdom,44,Vodafone
 234,564,91,2335,gb,United Kingdom,44,Vodafone
-234,564,15,351,gb,United Kingdom,44,Vodafone
 234,564,77,1919,gb,United Kingdom,44,Vodafone
+234,564,15,351,gb,United Kingdom,44,Vodafone
+234,564,07,127,gb,United Kingdom,44,Vodafone
 234,564,99,2463,gb,United Kingdom,44,Voicetec Systems
 234,564,99,2463,gb,United Kingdom,44,Ziron
 310,784,050,80,us,United States of America,1,
@@ -2320,13 +2320,13 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 312,786,090,144,us,United States of America,1,Allied Wireless Communications Corporation
 311,785,130,304,us,United States of America,1,
 310,784,710,1808,us,United States of America,1,Arctic Slope Telephone Association Cooperative Inc.
-310,784,070,112,us,United States of America,1,AT&T Wireless Inc.
-310,784,560,1376,us,United States of America,1,AT&T Wireless Inc.
 310,784,410,1040,us,United States of America,1,AT&T Wireless Inc.
 310,784,380,896,us,United States of America,1,AT&T Wireless Inc.
 310,784,170,368,us,United States of America,1,AT&T Wireless Inc.
 310,784,150,336,us,United States of America,1,AT&T Wireless Inc.
 310,784,680,1664,us,United States of America,1,AT&T Wireless Inc.
+310,784,070,112,us,United States of America,1,AT&T Wireless Inc.
+310,784,560,1376,us,United States of America,1,AT&T Wireless Inc.
 310,784,980,2432,us,United States of America,1,AT&T Wireless Inc.
 311,785,810,2064,us,United States of America,1,Bluegrass Wireless LLC
 311,785,800,2048,us,United States of America,1,Bluegrass Wireless LLC
@@ -2335,48 +2335,48 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 311,785,590,1424,us,United States of America,1,California RSA No. 3 Limited Partnership
 311,785,500,1280,us,United States of America,1,Cambridge Telephone Company Inc.
 310,784,830,2096,us,United States of America,1,Caprock Cellular Ltd.
-311,785,275,629,us,United States of America,1,Verizon Wireless
-311,785,480,1152,us,United States of America,1,Verizon Wireless
-310,784,012,18,us,United States of America,1,Verizon Wireless
-311,785,280,640,us,United States of America,1,Verizon Wireless
-311,785,485,1157,us,United States of America,1,Verizon Wireless
-311,785,110,272,us,United States of America,1,Verizon Wireless
-311,785,285,645,us,United States of America,1,Verizon Wireless
 311,785,274,628,us,United States of America,1,Verizon Wireless
 311,785,390,912,us,United States of America,1,Verizon Wireless
 310,784,010,16,us,United States of America,1,Verizon Wireless
 311,785,279,633,us,United States of America,1,Verizon Wireless
-311,785,484,1156,us,United States of America,1,Verizon Wireless
 310,784,910,2320,us,United States of America,1,Verizon Wireless
 311,785,284,644,us,United States of America,1,Verizon Wireless
-311,785,489,1161,us,United States of America,1,Verizon Wireless
+311,785,484,1156,us,United States of America,1,Verizon Wireless
 311,785,273,627,us,United States of America,1,Verizon Wireless
 311,785,289,649,us,United States of America,1,Verizon Wireless
+311,785,489,1161,us,United States of America,1,Verizon Wireless
 310,784,004,4,us,United States of America,1,Verizon Wireless
 311,785,278,632,us,United States of America,1,Verizon Wireless
-311,785,483,1155,us,United States of America,1,Verizon Wireless
 310,784,890,2192,us,United States of America,1,Verizon Wireless
 311,785,283,643,us,United States of America,1,Verizon Wireless
-311,785,488,1160,us,United States of America,1,Verizon Wireless
+311,785,483,1155,us,United States of America,1,Verizon Wireless
 311,785,272,626,us,United States of America,1,Verizon Wireless
 311,785,288,648,us,United States of America,1,Verizon Wireless
+311,785,488,1160,us,United States of America,1,Verizon Wireless
 311,785,277,631,us,United States of America,1,Verizon Wireless
 310,784,590,1424,us,United States of America,1,Verizon Wireless
 311,785,282,642,us,United States of America,1,Verizon Wireless
 311,785,482,1154,us,United States of America,1,Verizon Wireless
-311,785,487,1159,us,United States of America,1,Verizon Wireless
 311,785,271,625,us,United States of America,1,Verizon Wireless
 311,785,287,647,us,United States of America,1,Verizon Wireless
+311,785,487,1159,us,United States of America,1,Verizon Wireless
 311,785,276,630,us,United States of America,1,Verizon Wireless
 311,785,481,1153,us,United States of America,1,Verizon Wireless
 310,784,013,19,us,United States of America,1,Verizon Wireless
 311,785,281,641,us,United States of America,1,Verizon Wireless
-311,785,486,1158,us,United States of America,1,Verizon Wireless
 311,785,270,624,us,United States of America,1,Verizon Wireless
 311,785,286,646,us,United States of America,1,Verizon Wireless
-312,786,270,624,us,United States of America,1,Cellular Network Partnership LLC
+311,785,486,1158,us,United States of America,1,Verizon Wireless
+311,785,275,629,us,United States of America,1,Verizon Wireless
+311,785,480,1152,us,United States of America,1,Verizon Wireless
+310,784,012,18,us,United States of America,1,Verizon Wireless
+311,785,280,640,us,United States of America,1,Verizon Wireless
+311,785,110,272,us,United States of America,1,Verizon Wireless
+311,785,285,645,us,United States of America,1,Verizon Wireless
+311,785,485,1157,us,United States of America,1,Verizon Wireless
 310,784,360,864,us,United States of America,1,Cellular Network Partnership LLC
 312,786,280,640,us,United States of America,1,Cellular Network Partnership LLC
+312,786,270,624,us,United States of America,1,Cellular Network Partnership LLC
 311,785,190,400,us,United States of America,1,
 310,784,030,48,us,United States of America,1,
 311,785,120,288,us,United States of America,1,Choice Phone LLC
@@ -2386,8 +2386,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 310,784,180,384,us,United States of America,1,Cingular Wireless
 310,784,620,1568,us,United States of America,1,Coleman County Telco /Trans TX
 311,785,040,64,us,United States of America,1,
-310,784,60,1551,us,United States of America,1,Consolidated Telcom
 310,784,06,111,us,United States of America,1,Consolidated Telcom
+310,784,60,1551,us,United States of America,1,Consolidated Telcom
 310,784,26,623,us,United States of America,1,
 312,786,380,896,us,United States of America,1,
 310,784,930,2352,us,United States of America,1,
@@ -2400,16 +2400,16 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 312,786,040,64,us,United States of America,1,Custer Telephone Cooperative Inc.
 310,784,440,1088,us,United States of America,1,Dobson Cellular Systems
 310,784,990,2448,us,United States of America,1,E.N.M.R. Telephone Coop.
-310,784,750,1872,us,United States of America,1,East Kentucky Network LLC
 312,786,130,304,us,United States of America,1,East Kentucky Network LLC
 312,786,120,288,us,United States of America,1,East Kentucky Network LLC
+310,784,750,1872,us,United States of America,1,East Kentucky Network LLC
 310,784,090,144,us,United States of America,1,Edge Wireless LLC
 310,784,610,1552,us,United States of America,1,Elkhart TelCo. / Epic Touch Co.
 311,785,210,528,us,United States of America,1,
 311,785,311,785,us,United States of America,1,Farmers
 311,785,460,1120,us,United States of America,1,Fisher Wireless Services Inc.
-310,784,430,1072,us,United States of America,1,GCI Communication Corp.
 311,785,370,880,us,United States of America,1,GCI Communication Corp.
+310,784,430,1072,us,United States of America,1,GCI Communication Corp.
 310,784,920,2336,us,United States of America,1,Get Mobile Inc.
 310,784,970,2416,us,United States of America,1,
 311,785,340,832,us,United States of America,1,Illinois Valley Cellular RSA 2 Partnership
@@ -2419,8 +2419,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 310,784,770,1904,us,United States of America,1,Iowa Wireless Services LLC
 310,784,650,1616,us,United States of America,1,Jasper
 310,784,870,2160,us,United States of America,1,Kaplan Telephone Company Inc.
-312,786,180,384,us,United States of America,1,Keystone Wireless LLC
 310,784,690,1680,us,United States of America,1,Keystone Wireless LLC
+312,786,180,384,us,United States of America,1,Keystone Wireless LLC
 311,785,310,784,us,United States of America,1,Lamar County Cellular
 310,784,016,22,us,United States of America,1,Leap Wireless International Inc.
 311,785,090,144,us,United States of America,1,
@@ -2430,11 +2430,11 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 311,785,330,816,us,United States of America,1,Michigan Wireless LLC
 311,785,000,0,us,United States of America,1,
 310,784,400,1024,us,United States of America,1,Minnesota South. Wirel. Co. / Hickory
-312,786,010,16,us,United States of America,1,Missouri RSA No 5 Partnership
 311,785,920,2336,us,United States of America,1,Missouri RSA No 5 Partnership
 311,785,020,32,us,United States of America,1,Missouri RSA No 5 Partnership
 311,785,010,16,us,United States of America,1,Missouri RSA No 5 Partnership
 312,786,220,544,us,United States of America,1,Missouri RSA No 5 Partnership
+312,786,010,16,us,United States of America,1,Missouri RSA No 5 Partnership
 310,784,350,848,us,United States of America,1,Mohave Cellular LP
 310,784,570,1392,us,United States of America,1,MTPCS LLC
 310,784,290,656,us,United States of America,1,NEP Cellcorp Inc.
@@ -2444,8 +2444,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 311,785,100,256,us,United States of America,1,
 311,785,300,768,us,United States of America,1,Nexus Communications Inc.
 310,784,130,304,us,United States of America,1,North Carolina RSA 3 Cellular Tel. Co.
-312,786,230,560,us,United States of America,1,North Dakota Network Company
 311,785,610,1552,us,United States of America,1,North Dakota Network Company
+312,786,230,560,us,United States of America,1,North Dakota Network Company
 310,784,450,1104,us,United States of America,1,Northeast Colorado Cellular Inc.
 311,785,710,1808,us,United States of America,1,Northeast Wireless Networks LLC
 310,784,670,1648,us,United States of America,1,Northstar
@@ -2461,8 +2461,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 310,784,790,1936,us,United States of America,1,
 310,784,100,256,us,United States of America,1,Plateau Telecommunications Inc.
 310,784,940,2368,us,United States of America,1,Poka Lambro Telco Ltd.
-311,785,730,1840,us,United States of America,1,
 311,785,540,1344,us,United States of America,1,
+311,785,730,1840,us,United States of America,1,
 310,784,500,1280,us,United States of America,1,Public Service Cellular Inc.
 312,786,160,352,us,United States of America,1,RSA 1 Limited Partnership
 311,785,430,1072,us,United States of America,1,RSA 1 Limited Partnership
@@ -2474,14 +2474,12 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 310,784,15,351,us,United States of America,1,Unknown
 316,790,011,17,us,United States of America,1,Southern Communications Services Inc.
 312,786,530,1328,us,United States of America,1,Sprint Spectrum
-311,785,490,1168,us,United States of America,1,Sprint Spectrum
 310,784,120,288,us,United States of America,1,Sprint Spectrum
 316,790,010,16,us,United States of America,1,Sprint Spectrum
 312,786,190,400,us,United States of America,1,Sprint Spectrum
 311,785,880,2176,us,United States of America,1,Sprint Spectrum
 311,785,870,2160,us,United States of America,1,Sprint Spectrum
-310,784,160,352,us,United States of America,1,T-Mobile
-310,784,240,576,us,United States of America,1,T-Mobile
+311,785,490,1168,us,United States of America,1,Sprint Spectrum
 310,784,660,1632,us,United States of America,1,T-Mobile
 310,784,230,560,us,United States of America,1,T-Mobile
 310,784,31,799,us,United States of America,1,T-Mobile
@@ -2491,6 +2489,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 310,784,260,608,us,United States of America,1,T-Mobile
 310,784,200,512,us,United States of America,1,T-Mobile
 310,784,250,592,us,United States of America,1,T-Mobile
+310,784,160,352,us,United States of America,1,T-Mobile
+310,784,240,576,us,United States of America,1,T-Mobile
 310,784,300,768,us,United States of America,1,T-Mobile
 310,784,280,640,us,United States of America,1,T-Mobile
 310,784,330,816,us,United States of America,1,T-Mobile
@@ -2501,16 +2501,16 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 310,784,14,335,us,United States of America,1,Testing
 310,784,950,2384,us,United States of America,1,Unknown
 310,784,860,2144,us,United States of America,1,Texas RSA 15B2 Limited Partnership
-311,785,050,80,us,United States of America,1,Thumb Cellular Limited Partnership
 311,785,830,2096,us,United States of America,1,Thumb Cellular Limited Partnership
+311,785,050,80,us,United States of America,1,Thumb Cellular Limited Partnership
 310,784,460,1120,us,United States of America,1,TMP Corporation
 310,784,490,1168,us,United States of America,1,Triton PCS
 312,786,290,656,us,United States of America,1,Uintah Basin Electronics Telecommunications Inc.
 311,785,860,2144,us,United States of America,1,Uintah Basin Electronics Telecommunications Inc.
 310,784,960,2400,us,United States of America,1,Uintah Basin Electronics Telecommunications Inc.
 310,784,020,32,us,United States of America,1,Union Telephone Co.
-310,784,730,1840,us,United States of America,1,United States Cellular Corp.
 311,785,220,544,us,United States of America,1,United States Cellular Corp.
+310,784,730,1840,us,United States of America,1,United States Cellular Corp.
 311,785,650,1616,us,United States of America,1,United Wireless Communications Inc.
 310,784,38,911,us,United States of America,1,USA 3650 AT&T
 310,784,520,1312,us,United States of America,1,VeriSign
