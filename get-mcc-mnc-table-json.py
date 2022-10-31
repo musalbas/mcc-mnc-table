@@ -1,36 +1,46 @@
-# Get the Mobile Country Codes (MCC) and Mobile Network Codes (MNC) table
-# from mcc-mnc.com and output it in JSON format.
-
 import re
-import urllib.request
 import json
+import requests
+from typing import List
 
-td_re = re.compile('<td>([^<]*)</td>'*6)
+DOMAIN: str = "https://mcc-mnc-list.com"
+MAIN_JS_FILE: str = "main.0744a96a58a20d0b.js"
+JSON_PATTERN: re.Pattern = re.compile(r"JSON.parse\('(\[.*\])'\),")  # very specific pattern, don't use it elsewhere XD
 
-with urllib.request.urlopen('http://mcc-mnc.com/') as f:
-    html = f.read().decode('utf-8')
 
-    tbody_start = False
+def create_json_file(url: str = f'{DOMAIN}/{MAIN_JS_FILE}', filename: str = "mcc-mnc-table.json") -> None:
+    with open(filename, 'w', encoding='utf8') as f:
+        with requests.get(url, stream=True) as r:
+            r.raise_for_status()  # returns an HTTPError object if an error has occurred during the process.
+            json_string = JSON_PATTERN.findall(r.text)[0]  # finds only 1
+            json_string = clean_json(json_string)
+            f.write(prettify_json(json_string))
 
-    mcc_mnc_list = []
 
-    for line in html.split('\n'):
-        if '<tbody>' in line:
-            tbody_start = True
-        elif '</tbody>' in line:
-            break
-        elif tbody_start:
-            td_search = td_re.search(line)
-            current_item = {}
-            td_search = td_re.split(line)
+def prettify_json(json_data: str) -> str:
+    json_object = json.loads(json_data)
+    return json.dumps(json_object, indent=2, ensure_ascii=False)
 
-            current_item['mcc'] = td_search[1]
-            current_item['mnc'] = td_search[2]
-            current_item['iso'] = td_search[3]
-            current_item['country'] = td_search[4]
-            current_item['country_code'] = td_search[5]
-            current_item['network'] = td_search[6][0:-1]
 
-            mcc_mnc_list.append(current_item)
+def clean_json(json_data: str) -> str:
+    """removing problematic unicode/combinations from received json string"""
+    # removing garbage
+    json_data = re.sub(r'"\\\\(?!")', '', json_data)
+    json_data = re.sub(r'\\\\"', '', json_data)
+    json_data = re.sub(r"\\\\n", '`', json_data)
+    json_data = re.sub(r"\\'", '`', json_data)
+    # fix un-decoded unicode objects
+    for unicode in get_list_of_unicode(json_data):
+        json_data = re.sub(rf'\{unicode}', eval(f"str('{unicode}')"), json_data)
+    return json_data
 
-    print(json.dumps(mcc_mnc_list, indent=2))
+
+def get_list_of_unicode(json_data: str) -> List[str]:
+    """return lists of problematic unicode symbols existing in received json string"""
+    unicode_set = set(re.findall(r"(\\x.{2,}?)", json_data))
+    return list(unicode_set)
+
+
+if __name__ == '__main__':
+    create_json_file()
+
