@@ -1,6 +1,7 @@
 """
 This module can be used to fetch & parse mcc, mnc data from https://mcc-mnc.com
 Usage:
+    from mcc_mnc_fetcher import MCCMNCFetcher
     MCCMNCFetcher.json_file()  # creates mcc-mnc-table.json
     MCCMNCFetcher.csv_file()   # creates mcc-mnc-table.cxv
     MCCMNCFetcher.xml_file()   # creates mcc-mnc-table.xml
@@ -8,11 +9,12 @@ Usage:
 import csv
 import json
 import requests
+import xml.etree.ElementTree as ET
 from typing import List
 from pathlib import Path
+from xml.dom import minidom
 from bs4 import BeautifulSoup
 from pydantic import BaseModel
-import xml.etree.ElementTree as ET
 
 _MCC_MNC_FILE: Path = Path(__file__).parent.joinpath("mcc-mnc-table")
 
@@ -116,7 +118,7 @@ class MCCMNCFetcher:
         :return: None
         """
         mcc_mnc_html: str = MCCMNCFetcher._get_mcc_mnc_site_html()
-        mcc_mnc_row_pattern = ["mcc", "mnc", "iso", "country", "country code", "network"]
+        mcc_mnc_row_pattern = ["mcc", "mnc", "iso", "country", "country_code", "network"]
         mcc_mnc_rows: List[List[str]] = MCCMNCFetcher._get_mcc_mnc_rows(html=mcc_mnc_html)
         root_tag = ET.Element('records')
         for mcc_mnc_row in mcc_mnc_rows:
@@ -124,8 +126,8 @@ class MCCMNCFetcher:
             for index, value in enumerate(mcc_mnc_row):
                 vary_tag = ET.SubElement(record_tag, mcc_mnc_row_pattern[index])
                 vary_tag.text = value
-        xml_string = ET.tostring(root_tag)
-        with open(f"{_MCC_MNC_FILE}.xml", "wb") as f:
+        xml_string = minidom.parseString(ET.tostring(root_tag)).toprettyxml()
+        with open(f"{_MCC_MNC_FILE}.xml", "w") as f:
             f.write(xml_string)
 
 
