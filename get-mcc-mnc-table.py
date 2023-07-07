@@ -104,7 +104,7 @@ class MCCMNCFetcher:
         """
         mcc_mnc_html: str = MCCMNCFetcher._get_mcc_mnc_site_html()
         mcc_mnc_rows: List[List[str]] = MCCMNCFetcher._get_mcc_mnc_rows(html=mcc_mnc_html)
-        with open(f"{_MCC_MNC_FILE}.csv", "w") as f:
+        with open(f"{_MCC_MNC_FILE}.csv", "w", newline="") as f:
             csv_writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             for mcc_mnc_row in mcc_mnc_rows:
                 csv_writer.writerow(mcc_mnc_row)
