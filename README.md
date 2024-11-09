@@ -1,4 +1,6 @@
 # mcc-mnc-table
+**This repository is no longer maintained.**
+
 Mobile Country Codes (MCC) and Mobile Network Codes (MNC) table in CSV, JSON and XML. Updated daily.
 
 The table is pulled from http://mcc-mnc.com/.
